@@ -1,0 +1,188 @@
+var DATABASE = `
+MEMEX
+  LINK : https://github.com/kormyen/memex
+  TYPE : article
+  DATE : 2023-03-08
+  TAGS : this
+  NOTE : This is the original GitHub post.
+
+STARTPAGE
+  LINK : /home/matt/.mozilla/firefox/q78tjdzi.default-default/startpage/index.html
+  TYPE : article
+  DATE : 2023-12-17
+  TAGS : this
+  NOTE : Go back to the original startpage.
+
+FAKE-PINTEREST
+  LINK : /home/matt/.mozilla/firefox/q78tjdzi.default-default/startpage/fake-pinterest/index.html
+  TYPE : tool
+  DATE : 2023-12-17
+  DONE : true
+  NOTE : pinterest bad
+
+AS WE MAY THINK
+  LINK : https://en.m.wikipedia.org/wiki/As_We_May_Think
+  TYPE : article
+  DATE : 2023-03-08
+  TAGS : intellectualism
+  AUTH : Vannevar Bush
+
+CHATGPT
+  LINK : https://chat.openai.com/chat
+  TYPE : tool
+  DATE : 2023-03-08
+  TAGS : depression, cool things
+
+DALLE-2
+  LINK : https://labs.openai.com/
+  TYPE : tool
+  DATE : 2023-03-08
+  TAGS : depression, cool things
+
+ARDUSAMBER
+  LINK : https://github.com/kormyen/ardusamber
+  TYPE : IMAGE
+  TAGS : arduino, dreams, cool things
+  FILE : 12018-06-04_ardusamber.jpg
+  NOTE : Found this while copying the original memex over.
+
+BIG NUMBERS
+  LINK : https://medium.com/@joshkerr/mind-blown-the-fast-growing-hierarchy-for-laymen-aka-enormous-numbers-d9a865c6443b
+  TYPE : article
+  DATE : 2023-03-08
+  TAGS : math, cool things
+  DONE : true
+
+GNOOSIC
+  LINK : https://www.gnoosic.com/
+  TYPE : tool
+  DATE : 2023-03-08
+  TAGS : music
+  DONE : false
+  NOTE : Better music recommendations than Spotify, supposedly.
+
+HACKER NEWS
+  LINK : https://news.ycombinator.com/
+  TYPE : article
+  TAGS : news, tech, depression
+  DONE : true
+
+GREENTEXT GENERATOR
+  LINK : https://greentext-generator.vercel.app/
+  TYPE : tool
+  TAGS : greentext, funnies
+  DONE : true
+
+DRUMBIT
+  LINK : https://drumbit.app/
+  TYPE : tool
+  DATE : 2023-04-14
+  TAGS : music
+  DONE : true
+
+MIRROR REAPER 1/8 SPEED
+  LINK : https://www.youtube.com/watch?v=3EBB_kl1sQI
+  TYPE : video
+  DATE : 2023-05-18
+  TAGS : music, depression
+  DONE : true
+  NOTE : what the fuck
+
+LEARN HANGUL
+  LINK : https://www.youtube.com/watch?v=s5aobqyEaMQ
+  TYPE : video
+  DATE : 2023-05-26
+  DONE : false
+  NOTE : Learn hangul (korean alphabet), because why not?
+
+WEBSITE-IDEA
+  LINK : https://onepagelove.com/pankaj-parashar
+  TYPE : encyclopedia
+  DATE : 2023-10-07
+  TAGS : cool things
+  DONE : false
+
+OPEN-SOURCE-CHATGPT-THING
+  LINK : https://github.com/KoboldAI/KoboldAI-Client
+  TYPE : tool
+  DATE : 2023-12-17
+  TAGS : arduino, cool things
+  DONE : false
+  NOTE : Train your own AI chatbot.
+
+KEYBOARD-ALGORITHM
+  LINK : https://github.com/AtomicFrontierCode/keyboards
+  TYPE : tool
+  DATE : 2023-12-17
+  TAGS : cool things
+  DONE : false
+  NOTE : gives you the most optimal keyboard layout
+
+CYBERSECURITY
+  LINK : https://www.youtube.com/watch?v=3CaG2GI1kn0
+  TYPE : video
+  DATE : 2023-12-17
+  TAGS : cybersecurity
+  DONE : false
+  NOTE : Free Cybersecurity Tools!
+
+VPN
+  LINK : https://www.youtube.com/watch?v=3F18KT8W7CQ
+  TYPE : video
+  DATE : 2023-12-17
+  TAGS : cybersecurity
+  DONE : false
+  NOTE : self hosted ubuntu vpn
+
+NEOGRAPHY
+  LINK : https://www.reddit.com/r/neography/comments/18fkbs7/the_kt%C3%ADsis_collection_turning_asemic_nothings/
+  TYPE : book
+  DATE : 2023-12-17
+  TAGS : cool things
+  DONE : false
+  NOTE : conscripts
+
+SYS-ADMIN TOOLBOX
+  LINK : https://www.reddit.com/r/sysadmin/comments/1721mpi/it_system_engineer_toolbox_what_tools_are_you/  
+  TYPE : list
+  DATE : 2023-12-17
+  TAGS : cybersecurity
+  DONE : false
+  NOTE : systems administrator toolbox for things and stuff
+
+TUI NOTE TAKING
+  LINK : https://github.com/fdavies93/zenkat
+  TYPE : tool
+  DATE : 2023-12-17
+  TAGS : ARDUINO
+  DONE : false
+  NOTE : TUI note taking script
+
+SOUNDTRACKS FOR THE BLIND
+  LINK : https://open.spotify.com/album/40aCknK9NwtjoieiNyNLqf?si=UjpMaso5QIer_kuWro3EdA
+  TYPE : music
+  DATE : 2023-12-17
+  TAGS : depression
+  DONE : true
+  NOTE : holy fuck
+`;
+
+/*
+The structure of the db is [TAG][space]:[space][CONTENT]. Multiple lines can be achieved with [TAG]\n[>,&,-][CONTENT 1]\n[>,&,-][CONTENT 2]... See https://github.com/kormyen/memex/blob/master/logic/view/util.js for supported icons.
+  LINK: a clickable link
+  TYPE: the memex type, can be tool, podcast, list, music, article, book, 
+    video, lecture, image, quote, note, term, game, encyclopedia... Trackable on the left bar
+  DATE: a date, can be anything
+  TAGS: words separated by commas, trackable on the left bar
+  DONE: true/false can be used to check the item status, trackable on the left bar
+  QOTE: a quote
+  AUTH: the author
+  FILE: can be a file link or an image to be shown
+  PROJ: a project, visible on the left bar
+  NOTE: a note, for example description etc.
+  TERM: the term described
+  PROJ: a project, visible on the left bar
+  PERS: ? Person?
+  REVI: ? Revision?
+  SRCE: ? Source?
+*/

@@ -1,0 +1,657 @@
+var DATABASE = `
+MEMEX
+  LINK : /home/matt/.mozilla/firefox/q78tjdzi.default-default/startpage/memex/index.html
+  TYPE : article
+  DATE : 2023-12-17
+  TAGS : this
+  NOTE : Go back to the original memex.
+
+STARTPAGE
+  LINK : /home/matt/.mozilla/firefox/q78tjdzi.default-default/startpage/index.html
+  TYPE : article
+  DATE : 2023-12-17
+  TAGS : this
+  NOTE : Go back to the original startpage.
+
+FANCY
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : fits
+  FILE : 0000.jpg
+  NOTE : cool statues in the back
+
+FASHION 1
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : fits
+  FILE : 0001.jpg
+  NOTE : true non-binary fashion
+
+ONE OF THE MEN OF ALL TIME
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : fits
+  FILE : 0002.jpg
+  NOTE : this guy looks like he trades nfts for a living
+
+NOT TOM HOLLAND
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : fits
+  FILE : 0003.jpg
+  NOTE : he looks familiar yet also doesn't
+
+THE IDEAL MALE FORM
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : hair, art, less real
+  FILE : 0004.jpg
+  NOTE : replace the hair color to brown, and i'll be good
+
+ALSO NOT TOM HOLLAND
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : hair
+  FILE : 0005.jpg
+
+JASON MOMOA
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : hair
+  FILE : 0006.jpg
+  NOTE : handsome ass mf
+
+E-BOY
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : hair, straight vibes
+  FILE : 0007.jpg
+  NOTE : why is one arm bigger than the other?
+
+METALHEAD 1
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : hair
+  FILE : 0008.jpg
+
+KELLY NICHOLS
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : fits, hair, straight vibes
+  FILE : 0009.jpg
+  NOTE : please let me be him
+
+METALHEAD 2 
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : hair
+  FILE : 0010.jpg
+  NOTE : i am turned on
+
+METALHEAD 3
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : hair
+  FILE : 0011.jpg
+
+FASION 2
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : fits, hair
+  FILE : 0012.jpg
+  NOTE : i want to either be this person or date them
+
+NEW OLD NEW FASHION
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : fits, nature
+  FILE : 0013.jpg
+
+OLD NEW FASHION
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : fits
+  FILE : 0014.jpg
+
+OLD NEW OLD NEW FASHION
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : fits
+  FILE : 0015.jpg
+  NOTE : where do you find these clothes
+
+NEW FASHION
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : fits
+  FILE : 0016.jpg
+  NOTE : ok ill stop with the naming, i promise
+
+METALHEAD 4
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : hair, nature
+  FILE : 0017.jpg
+  NOTE : a rare metalhead in the wild
+
+FASHION 3
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : fits, hair
+  FILE : 0018.jpg
+
+ADVENTURE
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : fits
+  FILE : 0019.jpg
+  NOTE : side quest npc lookin ass
+
+MAJESTIC 1
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : hair, art, less real, hard
+  FILE : 0020.jpg
+
+MAJESTIC 2
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : fits, hair, art, real
+  FILE : 0021.jpg
+  NOTE : ooh la la
+
+METALHEAD 5
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : hair
+  FILE : 0022.jpg
+  NOTE : probably the same as one of the earlier metalheads
+
+BOOTS N CATS N BOOTS N CATS N 
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : cat!
+  FILE : 0023.jpg
+  NOTE : cat! = cat * (cat - 1) * (cat - 2) * ... * 2 * 1
+
+CATS WITHOUT BOOTS
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : cat!
+  FILE : 0024.jpg
+  NOTE : one of the cats that i WILL steal at one point
+
+CAT BUT MAJESTIC
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : cat!
+  FILE : 0025.jpg
+
+STICK
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : cat!
+  FILE : 0026.jpg
+  NOTE : "ma'am that's a stick"
+
+I AM BECOME DEATH, DESTROYER OF WORLDS
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : art, real, hard
+  FILE : 0027.jpg
+  NOTE : 
+
+THE POWER OF NATURE
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : art, spot, less real
+  FILE : 0028.jpg
+  NOTE : 
+
+WATERFALL
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : art, real
+  FILE : 0029.jpg
+  NOTE : they call it a waterfall because the water falls
+
+LANTERN
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : art, less real
+  FILE : 0030.jpg
+
+DANDELIONS
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : art, spot, less real
+  FILE : 0031.jpg
+  NOTE : or whatever those things are caalled
+
+CANDLE
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : art, real
+  FILE : 0032.jpg
+  NOTE : just like me fr fr
+
+ROSE
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : art, real, hard
+  FILE : 0033.jpg
+  NOTE : shoutout to P. Newellis(?)
+
+HOT BURNY STICK
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : art, real, hard
+  FILE : 0034.jpg
+  NOTE : this image goes hard, feel free to screenshot
+
+STRUM DEM CHORDS
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : hard
+  FILE : 0035.jpg
+
+DEATHCONSCIOUSNESS
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : hard
+  FILE : 0036.jpg
+  NOTE : rock fucking solid
+
+SUN
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : hard, real, nature
+  FILE : 0037.jpg
+  NOTE : what goes harder than the fucking sun
+
+MR FUNNY BONES
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : hard, real
+  FILE : 0038.jpg
+
+LE FEESH
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : hard, less real
+  FILE : 0039.jpg
+  NOTE : cue the french accordion music
+
+MR FUNNY BONES HAS COMMITED WAR CRIMES
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : hard, real
+  FILE : 0040.jpg
+  NOTE : OH NO MR FUNNY BONES WHAT HAVE YOU DONE
+
+DISCO INFERNO
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : hard, low effort
+  FILE : 0041.jpg
+  NOTE : kinky
+
+FACELESS
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : art, low effort
+  FILE : 0042.jpg
+  NOTE : it's all just a burning memory
+
+PICTURE 1
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : ily, real
+  FILE : 0043.jpg
+  NOTE : who are you and what are you doing outside my house
+
+PICTURE 2
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : ily, real
+  FILE : 0044.jpg
+  NOTE : i think i opened my eyes can you take it again?
+
+IT'S MORBIN TIME
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : art, low effort
+  FILE : 0045.jpg
+  NOTE : don't ask about the name
+
+BEACH 1
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : spot, nature
+  FILE : 0046.jpg
+
+ARCH LINUX
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : spot, structure
+  FILE : 0047.jpg
+  NOTE : ahh, home sweet home
+
+OOPS I'M LOST
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : real, nature, straight vibes
+  FILE : 0048.jpg
+  NOTE : aw geez! i'm lost again!
+
+TRAIN ON FIRE
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : nature
+  FILE : 0049.jpg
+
+ICELANDIC FJORD
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : spot, nature, straight vibes
+  FILE : 0050.jpg
+
+ROAD
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : spot, less real
+  FILE : 0051.jpg
+  NOTE : put those grippers away
+
+SNOW LIVES MATTER
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : real, spot
+  FILE : 0052.jpg
+  NOTE : #stoprunningoversnow
+
+OTHER ROAD
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : low effort, abandoned
+  FILE : 0053.jpg
+  NOTE : where this road be
+
+LAKE DEPRESSION AND SADNESS
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : spot, nature
+  FILE : 0054.jpg
+  NOTE : actually the name of this lake
+
+BIRCH TREES
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : spot, nature
+  FILE : 0055.jpg
+  NOTE : minecraft led me to think these were thicker
+
+MOUNT LARGE 
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : spot, nature, low effort
+  FILE : 0056.jpg
+  NOTE : oh shit we high up
+
+WASHINGTON?
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : real, spot, nature
+  FILE : 0057.jpg
+  NOTE : true spot
+
+FAKE NOSTALGIA
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : spot, 
+  FILE : 0058.jpg
+
+MOUNT DEPRESSION AND SADNESS
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : spot, nature
+  FILE : 0059.jpg
+  NOTE : named after the lake
+
+CAT
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : cat!
+  FILE : 0060.jpg
+  NOTE : cat!
+
+R/IAM14ANDTHISISDEEP
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : art, real
+  FILE : 0061.jpg
+
+LOST
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : art, real
+  FILE : 0062.jpg
+  NOTE : you better go catch it!
+
+ADVICE
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : hard, art, real
+  FILE : 0063.jpg
+  NOTE : realest hardest shit ever
+
+PERFUME???
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : art, ily
+  FILE : 0064.jpg
+
+03:00
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : art, low effort, ily
+  FILE : 0065.jpg
+  NOTE : GO TO BED, MR FUNNY BONES
+
+MOTHER NATURE CONSUMES ALL
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : spot, abandoned, structure
+  FILE : 0066.jpg
+
+TRAIN(?)
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : spot, nature
+  FILE : 0067.jpg
+  NOTE : road work ahead? uhh, yeah, i sure hope it does.
+
+THE STREAM
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : spot, nature
+  FILE : 0068.jpg
+  NOTE : on top of mount depression and sadness
+
+MOON
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : spot, nature
+  FILE : 0069.jpg
+
+PAIN
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : art, low effort
+  FILE : 0070.jpg
+  NOTE : i don't speak japanese
+
+BRIDGE
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : hard, art, low effort, straight vibes
+  FILE : 0071.jpg
+  NOTE : hey so what bridges did you burn?
+
+THE END
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : art, less real
+  FILE : 0072.jpg
+  NOTE : it's not about the destination, it's the journey
+
+HOME SWEET HOME
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : spot, abandoned, structure
+  FILE : 0073.jpg
+
+PARADISE
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : spot, nature, structure
+  FILE : 0074.jpg
+  NOTE : victim interviews in serial killer documentaries are shot here
+
+CASTLE ON AN ISLAND
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : spot, nature, structure
+  FILE : 0075.jpg
+  NOTE : he has a little face
+I
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : art, low effort, structure
+  FILE : 0076.jpg
+  NOTE : this is a bad 3d render but cool concept
+
+CAT
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : spot, structure, cat!
+  FILE : 0077.jpg
+
+F
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : hard, real
+  FILE : 0078.jpg
+  NOTE : press F to pay respects
+
+TRAIN 2.0
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : spot, abandoned
+  FILE : 0079.jpg
+  NOTE : the road has worked so far
+
+TREES
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : spot, nature
+  FILE : 0080.jpg
+  NOTE : where banana
+
+THE MOON ON LAKE D&S
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : spot, nature
+  FILE : 0081.jpg
+  NOTE : this lake is now canon
+
+ART OF LAKE D&S
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : art, low effort
+  FILE : 0082.jpg
+
+THE CITY OF DEPRESSION & SAdNESS
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : art, spot, structure, nature
+  FILE : 0083.jpg
+  NOTE : there's a town here now
+
+THE NIGHT SKY
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : art, real
+  FILE : 0084.jpg
+  NOTE : this looks like a UFO but pop off
+
+CASTLE ON AN ISLAND ON THE LAKE
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : spot, less real, nature, structure, ???
+  FILE : 0085.jpg
+
+ROAD NO WORKY
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : art, spot, low effort, abandoned
+  FILE : 0086.jpg
+  NOTE : the road ahead didn't work
+`;
+
+// sample image
+/*
+I
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : 
+  FILE : 0000.jpg
+  NOTE : 
+
+*/
+
+/*
+The structure of the db is [TAG][space]:[space][CONTENT]. Multiple lines can be achieved with [TAG]\n[>,&,-][CONTENT 1]\n[>,&,-][CONTENT 2]... See https://github.com/kormyen/memex/blob/master/logic/view/util.js for supported icons.
+  LINK: a clickable link
+  TYPE: the memex type, can be tool, podcast, list, music, article, book, 
+    video, lecture, image, quote, note, term, game, encyclopedia... Trackable on the left bar
+  DATE: a date, can be anything
+  TAGS: words separated by commas, trackable on the left bar
+  DONE: true/false can be used to check the item status, trackable on the left bar
+  QOTE: a quote
+  AUTH: the author
+  FILE: can be a file link or an image to be shown
+  PROJ: a project, visible on the left bar
+  NOTE: a note, for example description etc.
+  TERM: the term described
+  PROJ: a project, visible on the left bar
+  PERS: ? Person?
+  REVI: ? Revision?
+  SRCE: ? Source?
+*/
+
+/*
+tag structure
+
+hard - hard images
+bread - used with actual bread
+
+fits - cool fit
+hair - cool hair
+
+art - art
+spot - bro said he knew a spot
+
+real - used if something is "real"
+less real - see: real, but less real
+low effort - see: real, but low effort
+
+nature - cool nature thing
+abandoned - cool abandoned thing
+structure - cool structure thing
+
+cat! - cat!	
+??? - ??? huh?
+straight vibes - vibes
+ily - yes
+*/
