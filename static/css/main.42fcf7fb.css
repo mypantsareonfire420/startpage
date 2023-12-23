@@ -193,7 +193,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 body * {
-  font-family: 'Agave Nerd Font';
+  font-family: 'DejaVu Sans Mono' !important;
   font-weight: 200;
   line-height: 1.05;
   /* font-size: 16px; */
