@@ -1,13 +1,13 @@
 var DATABASE = `
 MEMEX
-  LINK : /home/matt/.mozilla/firefox/q78tjdzi.default-default/startpage/memex/index.html
+  LINK : /home/matt/thingamadoobers/startpage/memex/index.html
   TYPE : article
   DATE : 2023-12-17
   TAGS : this
   NOTE : Go back to the original memex.
 
 STARTPAGE
-  LINK : /home/matt/.mozilla/firefox/q78tjdzi.default-default/startpage/index.html
+  LINK : /home/matt/thingamadoobers/startpage/index.html
   TYPE : article
   DATE : 2023-12-17
   TAGS : this

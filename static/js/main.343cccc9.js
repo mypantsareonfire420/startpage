@@ -168,11 +168,11 @@ const startpageArray = [
 			},
       {
         label: "memex",
-        value: "file:///home/matt/.mozilla/firefox/q78tjdzi.default-default/startpage/memex/index.html"
+        value: "file:///home/matt/thingamadoobers/startpage/memex/index.html"
       },
       {
         label: "fake-pinterest",
-        value: "file:///home/matt/.mozilla/firefox/q78tjdzi.default-default/startpage/fake-pinterest/index.html"
+        value: "file:///home/matt/thingamadoobers/startpage/fake-pinterest/index.html"
       }
 		]
 	},
