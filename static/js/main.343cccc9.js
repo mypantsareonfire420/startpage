@@ -96,6 +96,11 @@ const date = ((now.getFullYear() * 297)
 
 const theBottomBarText = bottomBarChoices[date];
 
+const bgcolor = '#131617';
+const defaultcolor = '#E6E6E6';
+const accentcolor1 = '#EF94C6';
+const accentcolor2 = '#A4EFD6';
+
 const startpageArray = [
 	{
 		title: "reddit",
@@ -14236,10 +14241,10 @@ const startpageArray = [
             name: "DeathAndMilk",
             image: Ze,
             colors: {
-              "--bg-color": "#131617",
-              "--default-color": "#E6E6E6",
-              "--accent-color": "#EF94C6",
-              "--accent-color2": "#A4EFD6",
+              "--bg-color": bgcolor,
+              "--default-color": defaultcolor,
+              "--accent-color": accentcolor1,
+              "--accent-color2": accentcolor2,
             },
           },
           {

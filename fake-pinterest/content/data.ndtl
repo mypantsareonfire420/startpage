@@ -27,39 +27,12 @@ FASHION 1
   FILE : 0001.jpg
   NOTE : true non-binary fashion
 
-ONE OF THE MEN OF ALL TIME
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : fits
-  FILE : 0002.jpg
-  NOTE : this guy looks like he trades nfts for a living
-
-NOT TOM HOLLAND
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : fits
-  FILE : 0003.jpg
-  NOTE : he looks familiar yet also doesn't
-
 THE IDEAL MALE FORM
   TYPE : image
   DATE : 2023-12-17
   TAGS : hair, art, less real
   FILE : 0004.jpg
   NOTE : replace the hair color to brown, and i'll be good
-
-ALSO NOT TOM HOLLAND
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : hair
-  FILE : 0005.jpg
-
-JASON MOMOA
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : hair
-  FILE : 0006.jpg
-  NOTE : handsome ass mf
 
 E-BOY
   TYPE : image
@@ -262,25 +235,11 @@ DEATHCONSCIOUSNESS
   FILE : 0036.jpg
   NOTE : rock fucking solid
 
-SUN
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : hard, real, nature
-  FILE : 0037.jpg
-  NOTE : what goes harder than the fucking sun
-
 MR FUNNY BONES
   TYPE : image
   DATE : 2023-12-17
   TAGS : hard, real
   FILE : 0038.jpg
-
-LE FEESH
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : hard, less real
-  FILE : 0039.jpg
-  NOTE : cue the french accordion music
 
 MR FUNNY BONES HAS COMMITED WAR CRIMES
   TYPE : image
@@ -288,13 +247,6 @@ MR FUNNY BONES HAS COMMITED WAR CRIMES
   TAGS : hard, real
   FILE : 0040.jpg
   NOTE : OH NO MR FUNNY BONES WHAT HAVE YOU DONE
-
-DISCO INFERNO
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : hard, low effort
-  FILE : 0041.jpg
-  NOTE : kinky
 
 FACELESS
   TYPE : image
@@ -316,13 +268,6 @@ PICTURE 2
   TAGS : ily, real
   FILE : 0044.jpg
   NOTE : i think i opened my eyes can you take it again?
-
-IT'S MORBIN TIME
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : art, low effort
-  FILE : 0045.jpg
-  NOTE : don't ask about the name
 
 BEACH 1
   TYPE : image
@@ -585,25 +530,115 @@ THE NIGHT SKY
   FILE : 0084.jpg
   NOTE : this looks like a UFO but pop off
 
-CASTLE ON AN ISLAND ON THE LAKE
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : spot, less real, nature, structure, ???
-  FILE : 0085.jpg
-
 ROAD NO WORKY
   TYPE : image
   DATE : 2023-12-17
   TAGS : art, spot, low effort, abandoned
   FILE : 0086.jpg
   NOTE : the road ahead didn't work
+
+BAG ON FIRE
+  TYPE : image
+  DATE : 2023-12-31
+  TAGS : hard, less real, ???
+  FILE : 0087.jpg
+
+YOU KNOW CARELESS WHISPER?
+  TYPE : image
+  DATE : 2023-12-31
+  TAGS : hard, real, straight vibes
+  FILE : 0088.jpg
+  NOTE : "i used to play back in the day"
+
+CAT 2 - ELECTRIC BOOGALOO
+  TYPE : image
+  DATE : 2023-12-31
+  TAGS : cat!, less real
+  FILE : 0089.jpg
+  NOTE : where cat, i want
+
+WAIT THERE'S 2
+  TYPE : image
+  DATE : 2023-12-31
+  TAGS : cat!, real
+  FILE : 0090.jpg
+  NOTE : we can now condclude that there are at least two (2) cats in the world
+
+HAIR HAIR HAIR
+  TYPE : image
+  DATE : 2023-12-31
+  TAGS : hair
+  FILE : 0091.jpg
+  NOTE : yes i know it's a girl's hair, shush
+
+CENT PHOTOGRAPHIES
+  TYPE : image
+  DATE : 2023-12-31
+  TAGS : cat!
+  FILE : 0092.jpg
+  NOTE : is he planning on destroying the world later with his newfound knowledge?
+
+HAND ON CAT
+  TYPE : image
+  DATE : 2023-12-31
+  TAGS : cat!
+  FILE : 0093.jpg
+  NOTE : points off for apple products
+
+PICTURE 3
+  TYPE : image
+  DATE : 2023-12-31
+  TAGS : ily, nature
+  FILE : 0094.jpg
+  NOTE : am i just not a photogenic person?
+
+CAT READING THE BOOK
+  TYPE : image
+  DATE : 2023-12-31
+  TAGS : cat!, less real
+  FILE : 0095.jpg
+  NOTE : he's definitely trying to sell me something
+
+BRIDGE IN WOODS
+  TYPE : image
+  DATE : 2023-12-31
+  TAGS : spot, nature
+  FILE : 0096.jpg
+
+OH NO
+  TYPE : image
+  DATE : 2023-12-31
+  TAGS : art, real, ???
+  FILE : 0097.jpg
+  NOTE : anyway
+
+THE TOP OF THE GLADE
+  TYPE : image
+  DATE : 2023-12-31
+  TAGS : spot, structure, ???
+  FILE : 0098.jpg
+  NOTE : how did they get up there without climbing the vines?
+
+ME_IRL
+  TYPE : image
+  DATE : 2023-12-31
+  TAGS : cat!, art, real, hard
+  FILE : 0099.jpg
+  NOTE : come børther, ṕïzzã awaits
+
+SACRILIGE
+  TYPE : image
+  DATE : 2023-12-31
+  TAGS : art, hard
+  FILE : 0100.jpg
+  NOTE : an offering to me (i'm the fictional god here)
 `;
 
 // sample image
 /*
 I
   TYPE : image
-  DATE : 2023-12-17
+  DATE : 2024-01-01
   TAGS : 
   FILE : 0000.jpg
   NOTE : 

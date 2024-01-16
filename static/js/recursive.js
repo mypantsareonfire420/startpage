@@ -178,7 +178,7 @@ function progressBar(dayProgress, moonProgress) {
   let year = dayProgress[2] / 2;
   let moon = moonProgress[0] / 2;
 
-  for(let i = 0; i < 50; i++) {
+  for(let i = 0.5; i < 50; i++) {
     let d = day > i;
     let y = year > i;
     let m = moon > i;
