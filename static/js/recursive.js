@@ -7,6 +7,24 @@ function capitalize(words) {
   return word.join(' ');
 }
 
+function timeFormat(t) {
+  t = Math.floor(t / 1000);
+  if(t < 10) { return `0${ t }`; }
+  if(t < 60) { return t; }
+  if(t < 3600) { return `${ Math.floor(t / 60) }:${ (String(t % 60)).length === 1 ? `0${ t % 60 }` : t % 60 }`; }
+  else {
+    let a = Math.floor(t / 3600);
+    t -= a * 3600;
+
+    let b = Math.floor(t / 60);
+    if(b.toString().length === 1) { b = `0${ b }`; }
+    t -= b * 60;
+
+    if(t.toString().length === 1) { t = `0${ t }`; }
+    return `${ a }:${ b }:${ t }`;
+  }
+}
+
 async function getWeather() {
   const url = 'https://api.openweathermap.org/data/2.5/weather?id=4176409&appid=2d33137dd0ae28b599bdcedc827a9560';
   const response = await fetch(url);
@@ -88,28 +106,8 @@ function dayYearProgress(body) {
 // progress of moon phase
 function moonPhaseProgress() {
   // does what it says on the tin
-  function getJulianDate() {
-    let d = new Date();
-    let t = d.getTime();
-    let offset = d.getTimezoneOffset();
-
-    return (t / 86400000) - (offset / 1440) + 2440587.5;
-  }
-
-  const lunarMonth = 29.530588;
-
-  // things for lunar age
-  function normalize(v) {
-    v -= Math.floor(v);
-    if(v < 0) { v += 1 }
-    return v;
-  }
-
-	const getLunarAgePercent = () => normalize((getJulianDate() - 2451550.1) / lunarMonth);
-  const getLunarAge = (d) => lunarMonth * getLunarAgePercent(d);
-  
-  let age = getLunarAge(new Date());
-  let progress = (100 * (age / 29.530588)).toFixed(6);
+  let nownow = new Date();
+  let progress = Astronomy.MoonPhase(nownow) / 360 * 100;
   let safeProgress = progress;
 
   if(progress <= 50) { progress *= 2; }
@@ -137,28 +135,14 @@ function currentSession() {
 	localStorage.setItem('session', JSON.stringify( { time: sesh.time + 1 } ))
 	
 	const time = sesh.time + 1;
-	const a = Math.floor(time / 3600);
-	let b = Math.floor((time - (a * 3600)) / 60);
-	let c = (time - (a * 3600) - (b * 60));
-	if(c < 10 && b > 0) { c = `0${c}` }
-	if(b < 10 && a > 0) { b = `0${ b }` }
-	
-	let format = `${ a > 0 ? `${a}:` : '' }${ a > 0 || b > 0 ? `${b}:` : '' }${c}`;
-	return format;
+	return timeFormat(time * 1000);
 }
 
 function totalSession() {
 	const db = JSON.parse(localStorage.getItem('db'));
 	const time = db.time;
 	
-	const a = Math.floor(time / 3600);
-	let b = Math.floor((time - (a * 3600)) / 60);
-	let c = (time - (a * 3600) - (b * 60));
-	if(c < 10) { c = `0${ c }` }
-  if(b < 10 && a > 0) { b = `0${ b }` }
-	
-	let format = `${ a > 0 ? `${a}:` : '' }${ a > 0 || b > 0 ? `${b}:` : '' }${c}`;
-	return format;
+	return timeFormat(time * 1000);
 }
 
 // progress bar
@@ -250,7 +234,7 @@ function weatherProgressBar(body, highAndLow) {
       else { str = '<font color="a4efd6">█</font>'; }
     } else {
       if(i === a) { str = '<font color="#e6e6e6">█</font>'; }
-      else if((i >= d0 && i <= d1) && (i >= f0 && i <= f1)) 
+      else if((i >= d0 && i <= d1) && (i >= f0 && i <= f1))
         { str = '<font color="#c37aa2">█</font>'; }
       else if(i >= d0 && i <= d1) { str = '<font color="#c37aa2">▀</font>'; }
       else if(i >= f0 && i <= f1) { str = '<font color="#c37aa2">▄</font>'; }
@@ -332,14 +316,7 @@ function timeUntilThing() {
 			brk = false;
 			j[0] = significantEvents[i][0] - seconds;
 			
-			let a = Math.floor(j[0] / 3600);
-			let b = Math.floor((j[0] - (a * 3600)) / 60);
-			let c = (j[0] - (a * 3600) - (b * 60));
-			if(c < 10 && b > 0) { c = `0${c}` }
-      if(b < 10 && a > 0) { b = `0${ b }` }
-
-			let format = `${ a > 0 ? `${a}:` : '' }${ a > 0 || b > 0 ? `${b}:` : '' }${c}`;
-			j[0] = format;
+			j[0] = timeFormat(j[0] * 1000);
 			j[1] = significantEvents[i][1];
 		} else {
 			i += 1;
@@ -351,4 +328,51 @@ function timeUntilThing() {
 	// do the countdown with that, and break through the loop
 	
 	return `${ j[0] } until ${ j[1] }`;
+}
+
+function astronomy() {
+  // https://github.com/cosinekitty/astronomy/tree/master/source/js
+  let observer = new Astronomy.Observer(27.6255, -80.4299, 6);
+  let now = new Date();
+  let later = new Date(now + 1);
+
+  let obj = [ // 0 is azimuth, 1 is altitude
+    'Sun',
+    'Moon', 
+    'Mercury',
+    'Venus',
+    'Mars',
+    'Jupiter',
+    'Saturn',
+    'Uranus',
+    'Neptune',
+    'Pluto'
+  ]
+
+  let string = '<h3>'
+
+  for(let planet of obj) {
+    let equofdate = Astronomy.Equator(planet, now, observer, true, true);
+    let hor = Astronomy.Horizon(now, observer, equofdate.ra, equofdate.dec, 'normal');
+
+    let nextequofdate = Astronomy.Equator(planet, later, observer, true, true);
+    let nexthor = Astronomy.Horizon(later, observer, equofdate.ra, equofdate.dec, 'normal')
+
+    string += `${ planet.substring(0, 3) } - ${
+      ((hor.altitude >= 10) || (hor.altitude >= 0 && planet == 'Sun'))
+        ? `<font color="${ nexthor.azimuth > hor.azimuth ? '#a4efd6' : '#ef94c6' }">${ Math.round(hor.azimuth) }</font>
+           <font color="${ nexthor.altitude > hor.altitude ? '#a4efd6' : '#ef94c6' }">${ Math.round(hor.altitude * 10) / 10 }</font>`
+        : `<font size=3.5pt color="#ffa800">${ timeFormat(
+          Astronomy.SearchRiseSet(planet, observer, 1, now, 7, 0).date - now
+        ) }</font>`
+      // if found in a week, do 4a1ee1, otherwise do ba4b45
+    }<br>`
+  }
+
+  /*
+    * make moon phase progress the surface area of the moon
+    * */
+
+  string += '</h3>'
+  document.getElementById('astronomymessage').innerHTML = string;
 }

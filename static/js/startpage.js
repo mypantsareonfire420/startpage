@@ -21,7 +21,7 @@ async function recursion600() {
   let body = await getWeather();
   let highAndLow = await getHighAndLowWeather();
 
-  for(let i = 0; i < 600; i++) {
+  for(let i = 0; i <= 600; i++) {
     await new Promise((res1) => setTimeout(res1, 1000));
     updateMessage(body, highAndLow);
 
@@ -36,6 +36,7 @@ async function recursion600() {
 function updateMessage(body, highAndLow) {
   let progress = dayYearProgress(body);
   let moon = moonPhaseProgress();
+  astronomy();
 	let db = JSON.parse(localStorage.getItem('db'));
 
   const string = `<h3>
