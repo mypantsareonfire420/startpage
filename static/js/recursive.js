@@ -257,39 +257,32 @@ function timeUntilThing() {
 		[666666666, '666m seconds'], 
 		[669978000, '4y covid'],
 		[675421200, '3y graduation'],
-		[687690000, '4y hospital release'],
 		[691200000, '8k days'],
 		[694310400, '22 years old'], 
 		[700000000, '700m seconds'], 
 		[701514000, '5y covid'],
 		[706957200, '4y graduation'],
-		[719226000, '5y hospital release'],
 		[720000000, '200k hours'], 
 		[725846400, '23 years old'], 
 		[733050000, '6y covid'],
 		[738493200, '5y graduation'],
-		[750762000, '6y hospital release'],
 		[757382400, '24 years old'], 
 		[764589600, '7y covid'],
 		[770029200, '6y graduation'],
 		[777600000, '9k days'],
 		[777777777, '777m seconds'], 
-		[782298000, '7y hospital release'],
 		[788918400, '25 years old'], 
 		[792000000, '220k hours'], 
 		[796208400, '8y covid'],
 		[800000000, '800m seconds'], 
 		[801651600, '7y graduation'],
-		[813920400, '8y hospital release'],
 		[820540800, '26 years old'], 
 		[827744400, '9y covid'],
 		[833187600, '8y graduation'],
-		[845456400, '9y hospital release'],
 		[852076800, '27 years old'], 
 		[859280400, '10y covid'],
 		[864000000, '240k hours/10k days'], 
 		[864723600, '9y graduation'],
-		[876992400, '10y hospital release'],
 		[883612800, '28 years old'], 
 		[888888888, '888m seconds'],
 		[896259600, '10y graduation']		
@@ -361,7 +354,7 @@ function astronomy() {
     string += `${ planet.substring(0, 3) } - ${
       ((hor.altitude >= 10) || (hor.altitude >= 0 && planet == 'Sun'))
         ? `<font color="${ nexthor.azimuth > hor.azimuth ? '#a4efd6' : '#ef94c6' }">${ Math.round(hor.azimuth) }</font>
-           <font color="${ nexthor.altitude > hor.altitude ? '#a4efd6' : '#ef94c6' }">${ Math.round(hor.altitude * 10) / 10 }</font>`
+           <font color="${ nexthor.altitude > hor.altitude ? '#a4efd6' : '#ef94c6' }">${ Math.round(hor.altitude * 100) / 100 }</font>`
         : `<font size=3.5pt color="#ffa800">${ timeFormat(
           Astronomy.SearchRiseSet(planet, observer, 1, now, 7, 0).date - now
         ) }</font>`
