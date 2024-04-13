@@ -146,16 +146,12 @@ const startpageArray = [
 				label: "t",
 				value: "https://mail.google.com/mail/u/1/#inbox"
 			},
-			{
-				label: "i",
-				value: "https://outlook.office.com/mail/"
-			},
       {
-				label: "117",
-				value: "https://mail.google.com/mail/u/0/#inbox"
+				label: "b",
+				value: "https://mail.google.com/mail/u/3/#inbox"
 			},
 			{
-				label: "g",
+				label: "117",
 				value: "https://mail.google.com/mail/u/0/#inbox"
 			}
 		]
@@ -178,6 +174,10 @@ const startpageArray = [
       {
         label: "fake-pinterest",
         value: "file:///home/matt/thingamadoobers/startpage/fake-pinterest/index.html"
+      },
+      {
+        label: "help",
+        value: "file:///home/matt/thingamadoobers/startpage/help/help.html"
       }
 		]
 	},
@@ -224,31 +224,6 @@ const startpageArray = [
 			{
 				label: "midnight",
 				value: "https://thebulletin.org/doomsday-clock/current-time/"
-			}
-		]
-	},
-	{
-		title: "Sauce",
-		links: [
-			{
-				label: "Pictures - DeathAndMilk",
-				value: "https://www.instagram.com/deathandmilk_/"
-			},
-			{
-				label: "Icons - FontAwesome",
-				value: "https://fontawesome.com/icons"
-			},
-			{
-				label: "Text Flicker - CodeMyUI",
-				value: "https://codemyui.com/crt-screen-text-flicker-animation-in-pure-css/"
-			},
-			{
-				label: "Wave Animation - mburakerman",
-				value: "https://codepen.io/mburakerman/pen/eRZZEv"
-			},
-			{
-				label: "Da real sauce ԅ(♡﹃♡ԅ)",
-				value: "https://www.youtube.com/watch?v=EU4L6THYAbM"
 			}
 		]
 	}

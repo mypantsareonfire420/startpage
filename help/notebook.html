@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <link rel="icon" href="../favicon.ico" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="application-name" content="Fluidity" />
+  <meta name="description" content="An accordion based startpage." />
+  <meta name="author" content="PrettyCoffee" />
+  <link rel="apple-touch-icon" href="../logo192.png" />
+  <link rel="manifest" href="../manifest.json" />
+  <title>~/notebook.html</title>
+  <link href="../static/css/jank.css" rel="stylesheet" />
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+
+    form {
+      width: 50%;
+      margin: 0 auto;
+    }
+
+    label {
+      font-weight: bold;
+    }
+
+    input[type="text"],
+    textarea {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 10px;
+    }
+
+    input[type="submit"] {
+      background-color: #4CAF50;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+
+    input[type="submit"]:hover {
+      background-color: #45a049;
+    }
+  </style>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      displayBlogEntries();
+
+      document.getElementById('blogForm').addEventListener('submit', function(event) {
+        event.preventDefault(); // prevent default form submission
+        
+        let title = document.getElementById('title').value;
+        let body = document.getElementById('body').value;
+        let timestamp = new Date().toLocaleString(); // current timestamp
+        
+        saveBlogEntry(title, body, timestamp);
+        
+        document.getElementById('title').value = '';
+        document.getElementById('body').value = '';
+
+        displayBlogEntries();
+      });
+    });
+
+    function saveBlogEntry(title, body, timestamp) {
+      let blogEntries = JSON.parse(localStorage.getItem('blogEntries')) || [];
+      blogEntries.push({ title: title, body: body, timestamp: timestamp });
+      localStorage.setItem('blogEntries', JSON.stringify(blogEntries));
+    }
+
+    function displayBlogEntries() {
+      let blogEntries = JSON.parse(localStorage.getItem('blogEntries')) || [];
+      let blogList = document.getElementById('blogList');
+      blogList.innerHTML = '';
+
+      
+      blogEntries = blogEntries.reverse();
+      for (var i = 0; i < blogEntries.length; i++) {
+        var entry = blogEntries[i];
+        var listItem = document.createElement('li');
+        listItem.innerHTML = `<h2>${entry.title}</h2><p>${entry.body}</p><p><em>${entry.timestamp}</em></p><button class="delete-btn" data-index="${i}">Delete</button>`;
+        blogList.appendChild(listItem);
+      }
+    }
+
+    document.addEventListener('click', function(event) {
+      if(event.target.classList.contains('delete-btn')) {
+        let index = event.target.dataset.index; // Get the index of the blog entry to delete
+        deleteBlogEntry(index);
+      }
+    });
+
+    function deleteBlogEntry(index) {
+      let blogEntries = JSON.parse(localStorage.getItem('blogEntries')) || [];
+      blogEntries.splice(index, 1);
+      localStorage.setItem('blogEntries', JSON.stringify(blogEntries));
+      displayBlogEntries();
+    }
+
+  </script>
+
+</head>
+<body>
+  <a href="file:///home/matt/thingamadoobers/startpage/help/password.html">go back</a>
+
+  <h1>New Notebook Entry</h1>
+  <form id="blogForm">
+    <label for="title">Title:</label><br>
+    <input type="text" id="title" name="title" required><br>
+    <label for="body">Body:</label><br>
+    <textarea id="body" name="body" rows="4" cols="50" required></textarea><br>
+    <input type="submit" value="Submit">
+  </form>
+
+  <ul id="blogList"></ul>
+</body>
+</html>

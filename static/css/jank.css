@@ -1,0 +1,19 @@
+body * {
+  font-family: 'DejaVu Sans Mono' !important;
+  font-weight: 200 !important;
+  line-height: 1.05;
+}
+p, h1, h2, h3, h4, h5, h6 {
+  color: #e6e6e6
+}
+#root, body, html {
+  background-color: #131617;
+}
+a, a:active, a:visited {
+  color: #c6c6ff
+}
+
+#hi {
+  text-align: center;
+}
+
