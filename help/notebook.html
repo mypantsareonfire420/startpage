@@ -48,23 +48,32 @@
       background-color: #45a049;
     }
   </style>
+  
   <script>
-    document.addEventListener('DOMContentLoaded', function() {
-      displayBlogEntries();
 
-      document.getElementById('blogForm').addEventListener('submit', function(event) {
+
+    document.addEventListener('DOMContentLoaded', function() {
+    displayBlogEntries();
+
+    document.getElementById('blogForm').addEventListener('submit', function(event) {
         event.preventDefault(); // prevent default form submission
         
         let title = document.getElementById('title').value;
         let body = document.getElementById('body').value;
         let timestamp = new Date().toLocaleString(); // current timestamp
-        
         saveBlogEntry(title, body, timestamp);
         
         document.getElementById('title').value = '';
         document.getElementById('body').value = '';
 
         displayBlogEntries();
+    });
+
+    document.addEventListener('click', function(event) {
+        if(event.target.classList.contains('delete-btn')) {
+          let index = event.target.dataset.index; // Get the index of the blog entry to delete
+          deleteBlogEntry(index);
+        }
       });
     });
 
@@ -74,33 +83,24 @@
       localStorage.setItem('blogEntries', JSON.stringify(blogEntries));
     }
 
-    function displayBlogEntries() {
-      let blogEntries = JSON.parse(localStorage.getItem('blogEntries')) || [];
-      let blogList = document.getElementById('blogList');
-      blogList.innerHTML = '';
-
-      
-      blogEntries = blogEntries.reverse();
-      for (var i = 0; i < blogEntries.length; i++) {
-        var entry = blogEntries[i];
-        var listItem = document.createElement('li');
-        listItem.innerHTML = `<h2>${entry.title}</h2><p>${entry.body}</p><p><em>${entry.timestamp}</em></p><button class="delete-btn" data-index="${i}">Delete</button>`;
-        blogList.appendChild(listItem);
-      }
-    }
-
-    document.addEventListener('click', function(event) {
-      if(event.target.classList.contains('delete-btn')) {
-        let index = event.target.dataset.index; // Get the index of the blog entry to delete
-        deleteBlogEntry(index);
-      }
-    });
-
     function deleteBlogEntry(index) {
       let blogEntries = JSON.parse(localStorage.getItem('blogEntries')) || [];
       blogEntries.splice(index, 1);
       localStorage.setItem('blogEntries', JSON.stringify(blogEntries));
       displayBlogEntries();
+    }
+
+    function displayBlogEntries() {
+      let blogEntries = JSON.parse(localStorage.getItem('blogEntries')) || [];
+      let blogList = document.getElementById('blogList');
+      blogList.innerHTML = '';
+
+      for(var i = blogEntries.length - 1; i >= 0; i--) {
+        let entry = blogEntries[i];
+        let listItem = document.createElement('li');
+        listItem.innerHTML = `<h2>${entry.title}</h2><p>${entry.body}</p><p><em>${entry.timestamp}</em></p><button class="delete-btn" data-index="${i}">Delete</button>`;
+        blogList.appendChild(listItem);
+      }
     }
 
   </script>
