@@ -256,9 +256,9 @@ const config = {
   topFormat: `Today is dow, date at time  <br>
    weatherDescription, degC °C / degF °F at humidity% \nhumidity. <br>
    windMS m/s / windMPH mph at windDeg °. <br>
-   dayProgressNum  dayProgressDay , ~  yearProgress ~ moonProgress  <br>
-   currentSession ~ totalSession ~ opened ~ suffer ~ event  <br>
-   progressProgressBar  <br>
+   dayProgressNum  dayProgressDay ~  yearProgress ~ moonProgress <br>
+   currentSession ~ totalSession ~ opened ~ suffer ~ event <br>
+   progressProgressBar <br>
    weatherProgressBar `,
 
   /*

@@ -4,6 +4,7 @@ httpp.open('GET', urlp);
 httpp.send();
 
 httpp.onload = async (e) => {
+  localStorage.setItem('session', 0);
   let db = JSON.parse(localStorage.getItem('db'));
   if(db === null || db.length === 0) {
     localStorage.setItem('db', JSON.stringify( { opened: 0, time: 0 }))
@@ -28,7 +29,7 @@ httpp.onload = async (e) => {
 async function recursion() {
   let weather = await getWeather();
 
-  for(let i = 0; i < 1 /* 600 */; i++) {
+  for(let i = 0; i < 600; i++) {
     await new Promise((res) => setTimeout(res, 1000));
     updateMessage(weather);
 
@@ -37,7 +38,7 @@ async function recursion() {
     localStorage.setItem('db', JSON.stringify(db));
   }
 
-  // recursion();
+  recursion();
 }
 
 function updateMessage(weather) {
@@ -52,12 +53,10 @@ function updateMessage(weather) {
   let wpb = getWeatherProgressBar(weather);
   let wpbf = getWeatherProgressBar(weather, true)
 
-  getNextEvent();
-
   let o = {
     dayProgressNum: p[0][0],
     dayProgressDay: p[0][1],
-    yearProgress: p[2],
+    yearProgress: p[1],
     moonProgress: p[2],
 
     dow: d[0],
@@ -216,8 +215,6 @@ function updateBottomMessage() {
           ostr[i] = `(${ ostr[i] })`;
         }
         else { ostr[i] = oo[ostr[i]]; }
-
-        console.log(ostr[i], oo[ostr[i]])
 
       } else if(ostr[i] === '{' || ostr[i] === '}') {
         ostr[i] = undefined;
@@ -419,10 +416,10 @@ function getNextEvent() {
   do {
     if(seconds < significantEvents[i][0]) {
       b = false;
-      j[0] = formatTime(j[0] * 1000);
+      j[0] = formatTime((significantEvents[i][0] - seconds) * 1000)
       j[1] = significantEvents[i][1];
     } else { i += 1 };
-  } while(b)
+  } while(b);
 
   return `${ j[0] } until ${ j[1] }`;
 }
@@ -566,8 +563,6 @@ function getGaussian() {
 
   let r = Math.floor(Math.random() * 100);
 	let m = Math.random().toFixed(8);
-
-  console.log(z, zpercent(z))
 
   let x = [
     `${ z > 0 ? '+' : '' }${ z.toFixed(6) } (${ zpercent(z) }th)`, 
@@ -771,6 +766,8 @@ function getPoker() {
 // -----------------------------------
 
 function formatTime(t) {
+  if(t === 0) { return 0 }
+
   t = Math.floor(t / 1000);
   if(t < 10) { return `0${ t }`; }
   if(t < 60) { return t; }
