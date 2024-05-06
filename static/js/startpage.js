@@ -429,8 +429,8 @@ function getProgressProgressBar(progress) {
   let bar = '[ ';
   let day = progress[0][0] / 2;
   let dayNight = progress[0][1];
-  let year = progress[1];
-  let moon = progress[2];
+  let year = progress[1] / 2;
+  let moon = Math.abs(Number(progress[2])) / 2;
   let color;
 
   for(let i = 0.5; i < 50; i++) {
