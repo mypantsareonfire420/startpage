@@ -7,14 +7,14 @@ MEMEX
   NOTE : This is the original GitHub post.
 
 STARTPAGE
-  LINK : /home/matt/thingamadoobers/startpage/index.html
+  LINK : ../index.html
   TYPE : article
   DATE : 2023-12-17
   TAGS : this
   NOTE : Go back to the original startpage.
 
 FAKE-PINTEREST
-  LINK : /home/matt/thingamadoobers/startpage/fake-pinterest/index.html
+  LINK : ../fake-pinterest/index.html
   TYPE : tool
   DATE : 2023-12-17
   DONE : true

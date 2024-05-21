@@ -67,24 +67,24 @@ const config = {
       title: "email",
       links: [
         {
-          label: "h",
+          label: "0",
           value: "https://mail.google.com/mail/u/0/#inbox"
         },
         {
-          label: "75",
-          value: "https://mail.google.com/mail/u/2/#inbox"
-        },
-        {
-          label: "t",
+          label: "1",
           value: "https://mail.google.com/mail/u/1/#inbox"
         },
         {
-          label: "b",
+          label: "2",
+          value: "https://mail.google.com/mail/u/2/#inbox"
+        },
+        {
+          label: "3",
           value: "https://mail.google.com/mail/u/3/#inbox"
         },
         {
-          label: "117",
-          value: "https://mail.google.com/mail/u/0/#inbox"
+          label: "4",
+          value: "https://mail.google.com/mail/u/4/#inbox"
         }
       ]
     },
@@ -101,15 +101,15 @@ const config = {
         },
         {
           label: "memex",
-          value: "file:///home/matt/thingamadoobers/startpage/memex/index.html"
+          value: "./memex/index.html"
         },
         {
           label: "fake-pinterest",
-          value: "file:///home/matt/thingamadoobers/startpage/fake-pinterest/index.html"
+          value: "./fake-pinterest/index.html"
         },
         {
           label: "help",
-          value: "file:///home/matt/thingamadoobers/startpage/help/help.html"
+          value: "./help/help.html"
         }
       ]
     },
@@ -149,10 +149,6 @@ const config = {
           label: "corn-dog",
           value: "http://corndog.io/"
         },
-        {
-          label: "life-stuffs",
-          value: "https://docs.google.com/spreadsheets/d/1cvwbcXPEaI2d5bEjibhY4zGoTEMwhoonl8Pit8WGdF4/edit#gid=74861172"
-        }, 
         {
           label: "midnight",
           value: "https://thebulletin.org/doomsday-clock/current-time/"
@@ -264,7 +260,14 @@ const config = {
   /*
   bottomFormat : string, format for the bottom
     list of acceptable variables:
-    //
+    cah: Cards Against Humanity Card
+
+    gaussian: Random number based on a gaussian distribution, mean = 0; stddev = 1
+    rand0_1: Random number 0 to 1
+    rand1_100: Random whole number 1 to 100
+    poker: 5 card poker hand, with statistics of how you do.
+
+    Stuff at the bottom is not usable with the top side, and vice versa.
   */
   bottomFormat: `cah  <br>
   [ gaussian ~ rand0_1 ~ rand1_100 ] <br>

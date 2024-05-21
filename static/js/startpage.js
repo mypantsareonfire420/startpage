@@ -5,10 +5,7 @@ httpp.send();
 
 httpp.onload = async (e) => {
   localStorage.setItem('session', 0);
-  let db = JSON.parse(localStorage.getItem('db'));
-  if(db === null || db.length === 0) {
-    localStorage.setItem('db', JSON.stringify( { opened: 0, time: 0 }))
-  }
+  let db = await JSON.parse(localStorage.getItem('db') ?? { opened: 0, time: 0 });
 
   db.opened += 1;
   localStorage.setItem('db', JSON.stringify(db));
