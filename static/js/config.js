@@ -22,7 +22,7 @@ const config = {
     look up your city, click on it, the number at the end
     of the url is your city id, paste it in here
   */
-  city: '5128581',
+  city: '4176409',
 
   /*
   locale : string

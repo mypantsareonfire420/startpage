@@ -5,7 +5,7 @@ httpp.send();
 
 httpp.onload = async (e) => {
   localStorage.setItem('session', 0);
-  let db = await JSON.parse(localStorage.getItem('db') ?? { opened: 0, time: 0 });
+  let db = await JSON.parse(localStorage.getItem('db') ?? JSON.stringify({ opened: 0, time: 0 }));
 
   db.opened += 1;
   localStorage.setItem('db', JSON.stringify(db));
@@ -330,7 +330,7 @@ function getTemperatureAndWind(body) {
 function getSession() {
   let s = JSON.parse(localStorage.getItem('session'));
   localStorage.setItem('session', JSON.stringify( { time: s.time + 1 } ));
-  let time = s.time + 1;
+  let time = (s.time ?? 0) + 1;
 
   let db = JSON.parse(localStorage.getItem('db'));
   let t =  db.time;
