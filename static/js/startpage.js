@@ -807,14 +807,16 @@ function astronomy() {
     let equofdate = Astronomy.Equator(planet, now, observer, true, true);
     let hor = Astronomy.Horizon(now, observer, equofdate.ra, equofdate.dec, 'normal');
 
-    let nextequofdate = Astronomy.Equator(planet, later, observer, true, true);
     let nexthor = Astronomy.Horizon(later, observer, equofdate.ra, equofdate.dec, 'normal')
 
     string += `${ planet.substring(0, 3) } - ${
       ((hor.altitude >= 10) || (hor.altitude >= 0 && planet == 'Sun'))
         ? `<font color="${ nexthor.azimuth > hor.azimuth ? config.mainColor[3] : config.mainColor[2] }">${ Math.round(hor.azimuth) }</font>
-           <font color="${ nexthor.altitude > hor.altitude ? config.mainColor[3] : config.mainColor[2] }">${ Math.round(hor.altitude * 100) / 100 }</font>`
-        : `<font size=3.5pt color="${ config.barColor.day.dm }">${ formatTime(
+           <font color="${ nexthor.altitude > hor.altitude ? config.mainColor[3] : config.mainColor[2] }">+${ Math.round(hor.altitude * 100) / 100 }</font>`
+
+        : `<font color="${ nexthor.azimuth > hor.azimuth ? config.mainColor[3] : config.mainColor[2] }">${ Math.round(hor.azimuth) }</font>
+           <font color="${ nexthor.altitude > hor.altitude ? config.mainColor[3] : config.mainColor[2] }">${ Math.round(hor.altitude * 100) / 100 }</font> 
+           <font size=3.5pt color="${ config.barColor.day.dm }">${ formatTime(
           Astronomy.SearchRiseSet(planet, observer, 1, now, 7, 0).date - now
         ) }</font>`
     }<br>`
