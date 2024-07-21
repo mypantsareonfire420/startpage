@@ -1,9 +1,9 @@
-const httpp = new XMLHttpRequest();
-const urlp = `https://api.openweathermap.org/data/2.5/weather?id=${config.city}&appid=2d33137dd0ae28b599bdcedc827a9560`;
-httpp.open('GET', urlp);
-httpp.send();
+const http = new XMLHttpRequest();
+const url = `https://api.openweathermap.org/data/2.5/weather?id=${config.city}&appid=2d33137dd0ae28b599bdcedc827a9560`;
+http.open('GET', url);
+http.send();
 
-httpp.onload = async (e) => {
+http.onload = async (e) => {
   localStorage.setItem('session', 0);
   let db = await JSON.parse(localStorage.getItem('db') ?? JSON.stringify({ opened: 0, time: 0 }));
 
@@ -20,7 +20,6 @@ httpp.onload = async (e) => {
   recursion();
   updateBottomMessage();
   document.getElementById('hi').innerHTML = `<h1>Hi, ${ config.name }!</h1>`
-
 }
 
 async function recursion() {
@@ -759,7 +758,6 @@ function getPoker() {
   } / ${ total } (${ (total / poker.total ).toFixed(4) })]`;
 }
 
-
 // -----------------------------------
 
 function formatTime(t) {
@@ -810,7 +808,7 @@ function astronomy() {
     let nexthor = Astronomy.Horizon(later, observer, equofdate.ra, equofdate.dec, 'normal')
 
     string += `${ planet.substring(0, 3) } - ${
-      ((hor.altitude >= 10) || (hor.altitude >= 0 && planet == 'Sun'))
+      (hor.altitude >= 0)
         ? `<font color="${ nexthor.azimuth > hor.azimuth ? config.mainColor[3] : config.mainColor[2] }">${ Math.round(hor.azimuth) }</font>
            <font color="${ nexthor.altitude > hor.altitude ? config.mainColor[3] : config.mainColor[2] }">+${ Math.round(hor.altitude * 100) / 100 }</font>`
 

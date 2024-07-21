@@ -152,6 +152,10 @@ const config = {
         {
           label: "midnight",
           value: "https://thebulletin.org/doomsday-clock/current-time/"
+        },
+        {
+          label: "mpaof.carrd.co",
+          value: "https://mpaof.carrd.co/" 
         }
       ]
     }
