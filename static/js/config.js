@@ -253,7 +253,7 @@ const config = {
       weatherProgressBar: Weather bar, not a progress bar
       weatherProgressBarFarenheit: Weather bar, but in farenheit
   */
-  topFormat: `Today is dow, date at time  <br>
+  topFormat: `Today is dow, date at time in the solarDef <br>
    weatherDescription, degC °C / degF °F at humidity% \nhumidity. <br>
    windMS m/s / windMPH mph at windDeg °. <br>
    dayProgressNum  dayProgressDay ~  yearProgress ~ moonProgress <br>

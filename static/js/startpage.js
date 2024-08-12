@@ -58,6 +58,7 @@ function updateMessage(weather) {
     dow: d[0],
     date: d[1],
     time: d[2],
+    solarDef: getSolarDef(),
 
     cityName: tw[0],
     weatherDescription: tw[1],
@@ -307,6 +308,79 @@ function getDate() {
     now.toLocaleDateString('en-GB').split('/').reverse().join('-'),
     now.toLocaleTimeString('en-US', { hour12: false, timeZone: 'America/New_York' })
   ];
+}
+
+// times of morning/afternoon/evening/night
+function getSolarDef() {
+  // https://github.com/cosinekitty/astronomy/tree/master/source/js
+  let observer = new Astronomy.Observer(27.6255, -80.4299, 6);
+  let now = new Date();
+  let later = new Date(now + 1);
+
+  let equofdate = Astronomy.Equator('Sun', now, observer, true, true);
+  let hor = Astronomy.Horizon(now, observer, equofdate.ra, equofdate.dec, 'normal');
+  let nexthor = Astronomy.Horizon(later, observer, equofdate.ra, equofdate.dec, 'normal');
+  let alt = hor.altitude;
+  let nextalt = nexthor.altitude;
+  let rising = nextalt > alt ? 1 : -1;
+
+  let maxAlt = Astronomy.SearchHourAngle('Sun', observer, 0, now, 1).hor.altitude;
+  let minAlt = Astronomy.SearchHourAngle('Sun', observer, 12, now, 1).hor.altitude;
+
+  let solarDef = []; // 0 is general, 1 is specific
+
+  // 0, +22.5, +30, +45, +60, +67.5, +90, -46.8 -75.6 relative
+  let solarRelative = {
+    '22.5':  maxAlt / 4, 
+    '30':  maxAlt / 3, 
+    '45':  maxAlt / 2, 
+    '60':  maxAlt * 2 / 3, 
+    '67.5':  maxAlt * 3 / 4, 
+    '90':  maxAlt,
+    '-46.8':  minAlt * .52,
+    '-75.6':  minAlt * .84
+  }
+
+  
+  if(alt >= 0 && rising === 1) { // 0 to 90, relative, rising
+    solarDef[0] = 'morning';
+
+    // 0 to 30, 30 to 60, 60+
+    if(alt < solarRelative['30']) { solarDef[1] = 'early morning'; }
+    else if(alt < solarRelative['60']) { solarDef[1] = 'mid morning'; }
+    else { solarDef[1] = 'late morning'; }
+  } else if(alt > solarRelative['45'] && rising === -1) { // 90 to 45, relative, setting
+    solarDef[0] = 'afternoon';
+
+    // 90 to 67.5, 67.5 to 45
+    if(alt > solarRelative['67.5']) { solarDef[1] = 'early afternoon'; }
+    else { solarDef[1] = 'late afternoon'; }
+  } else if(alt <= solarRelative['45'] && alt >= 0 && rising === -1) { // 45 to 0, relative, setting
+    solarDef[0] = 'evening';
+
+    // 45 to 22.5, 22.5 to 0
+    if(alt > solarRelative['22.5']) { solarDef[1] = 'early evening'; }
+    else { solarDef[1] = 'late evening'; }
+  } else if(alt <= 0 && alt > -18) { // 0 to -18, altitude
+    solarDef[0] = 'twilight';
+
+    if(alt > -6) { solarDef[1] = 'civil twilight'; }
+    else if(alt > -12) { solarDef[1] = 'nautical twilight'; }
+    else { solarDef[1] = 'astronomical twilight'; }
+  } else if(alt <= -18) { // -18 setting to -18 rising, altitude
+    solarDef[0] = 'night';
+
+    // -18alt to -46.8r, -46.8r to -75.6r, setting
+    // under -75.6r
+    // -75.6r to -46.8r, -46.8r to -18alt, rising
+    if(alt > solarRelative['-46.8'] && rising === -1) { solarDef[1] = 'early night'; }
+    else if(alt > solarRelative['-75.6'] && rising === -1) { solarDef[1] = 'mid early night'; }
+    else if(alt > solarRelative['-75.6']) { solarDef[1] = 'mid late night'; }
+    else if(alt > solarRelative['-46.8']) { solarDef[1] = 'late night'; }
+    else { solarDef[1] = 'mid night'; }
+  } else { solarDef = ['???', '???']; }
+
+  return `${ solarDef[1] }`;
 }
 
 // [cityName, desc, degC, degF, humidity, windMS, windMPH, windKMH, windDeg]
@@ -804,8 +878,7 @@ function astronomy() {
   for(let planet of obj) {
     let equofdate = Astronomy.Equator(planet, now, observer, true, true);
     let hor = Astronomy.Horizon(now, observer, equofdate.ra, equofdate.dec, 'normal');
-
-    let nexthor = Astronomy.Horizon(later, observer, equofdate.ra, equofdate.dec, 'normal')
+    let nexthor = Astronomy.Horizon(later, observer, equofdate.ra, equofdate.dec, 'normal');
 
     string += `${ planet.substring(0, 3) } - ${
       (hor.altitude >= 0)

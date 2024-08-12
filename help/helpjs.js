@@ -3,6 +3,7 @@ let creation = 'This page was created on 2024-04-13<br>The original startpage wa
 window.onload = () => {
   recursion();
   getDecimalDate();
+  dayCounter();
 }
 
 async function recursion() {
@@ -53,4 +54,36 @@ function getDecimalDate() {
 
 function updateMessage(x) {
   document.getElementById('testmessage').innerHTML = `<h3 style="text-align: center;">Today is ${ getDecimalDate() } at ${ formatDecimalTime(x) }<br>${ creation }</h3>`;
+}
+
+// [today - input date] days [message]
+// [today - input date * -1] days [until message]
+function dayCounter() {
+  let dates = [
+    ['2024-07-20', 'without bullshit'],
+    ['2024-05-06', 'using obsidian'],
+    ['2023-12-14', 'since graduating college'],
+    ['2023-10-15', 'without instagram'],
+    ['2022-09-20', 'since birth of startpage'],
+    ['2021-05-15', 'since graduating high school'],
+    ['2020-11-09', 'without a haircut'],
+    ['2020-10-03', 'since i was truly happy'],
+    ['2002-12-19', 'days sober', 1]
+  ];
+  // start date, reason, 1 => <br> || -1 => days until vs days since
+
+  let h3 = `<h3>`;
+  let now = new Date();
+  for(let i = 0; i < dates.length; i++) {
+    let then = new Date(dates[i][0]);
+    let dayCounter = Math.floor((now - then) / (1000 * 3600 * 24));
+
+    h3 += `${ dayCounter } days ${ dates[i][1] } (${ dates[i][0] }, ${ (dayCounter / 365).toFixed(1) }%)<br>`;
+
+    if(dates[i][2] && dates[i][2] === 1) {
+      h3 += '<br>';
+    }
+  }
+
+  document.getElementById('daycounter').innerHTML = h3 + '</h3>';
 }
