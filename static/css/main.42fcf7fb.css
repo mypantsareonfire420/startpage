@@ -203,7 +203,7 @@ body,
 html {
   height: 100%;
   width: 100%;
-  background-color: #131617;
+  background-color: #1b1b1b;
 }
 body {
   background-color: var(--bg-color);
@@ -276,7 +276,7 @@ h3 {
   background: transparent;
 }
 :root {
-  --bg-color: #2e2e2e;
+  --bg-color: #1b1b1b;
   --default-color: #e6e6e6;
   --accent-color: #ffb4e6;
   --accent-color2: #b4ffe6;

@@ -5,7 +5,7 @@
 
 const config = {
   // name : string, name in the top
-  name: 'Pants',
+  name: 'Matt',
 
   /*
   birthday : number, birthday as a number
@@ -110,6 +110,10 @@ const config = {
         {
           label: "help",
           value: "./help/help.html"
+        },
+        {
+          label: "carrd",
+          value: "https://mpaof.carrd.co"
         }
       ]
     },
@@ -168,7 +172,7 @@ const config = {
     third color is first accent
     fourth color is second accent
   */
-  mainColor: ['#131617', '#E6E6E6', '#EF94C6', '#A4EFD6'],
+  mainColor: ['#1b1b1b', '#E6E6E6', '#EF94C6', '#A4EFD6'],
 
   /*
   barColor : { string: string }, list of colors for progress bar

@@ -9,7 +9,7 @@ p, h1, h2, h3, h4, h5, h6, div,
   color: #e6e6e6
 }
 #root, body, html {
-  background-color: #131617;
+  background-color: #1b1b1b !important;
 }
 a, a:active, a:visited {
   color: #c6c6ff
