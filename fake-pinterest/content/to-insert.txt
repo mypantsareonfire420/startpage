@@ -18,9 +18,10 @@ STARTPAGE
 
 // sample image
 /*
+
 I
   TYPE : image
-  DATE : 2024-09-22
+  DATE : 2024-12-17
   TAGS : 
   FILE : 0000.jpg
   NOTE : 
@@ -56,8 +57,7 @@ hair - cool hair
 art - art
 
 real - used if something is "real"
-less real - see: real, but less real
-low effort - see: real, but low effort
+place - cool area to be in
 
 cat! - cat!  
 ??? - ??? huh?
