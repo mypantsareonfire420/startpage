@@ -114,6 +114,10 @@ const config = {
         {
           label: "carrd",
           value: "https://mpaof.carrd.co"
+        },
+        {
+          label: "glance",
+          value: "localhost:8080"
         }
       ]
     },

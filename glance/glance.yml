@@ -1,0 +1,101 @@
+pages:
+  - name: Home
+    columns:
+      - size: small
+        widgets:
+          - type: calendar
+          - type: clock
+            hour-format: 24h
+            timezones:
+              - timezone: America/Los_Angeles
+                label: PST
+              - timezone: America/New_York
+                label: EST
+              - timezone: Europe/Paris
+                label: CET
+              - timezone: Asia/Kolkata
+                label: IST
+              - timezone: Asia/Tokyo
+                label: JST
+              - timezone: Pacific/Auckland
+                label: NZST
+          - type: bookmarks
+            groups:
+              - title: Reddit
+                links:
+                  - title: /r/unixporn
+                    url: https://reddit.com/r/unixporn
+                  - title: /r/wizardposting
+                    url: https://reddit.com/r/wizardposting
+                  - title: /r/selfhosted
+                    url: https://reddit.com/r/selfhosted
+                  - title: /r/homelab
+                    url: https://reddit.com/r/homelab
+              - title: Entertainment
+                color: "10 70 50"
+                links:
+                  - title: Capitalism
+                    url: https://www.amazon.com/
+                  - title: memex
+                    url: file:///home/matt/Desktop/startpage/memex/index.html
+                  - title: fake-pinterest
+                    url: file:///home/matt/Desktop/startpage/fake-pinterest/index.html
+                  - title: Are you lost?
+                    url: https://mpaof.carrd.co/
+              - title: TBD
+                color: "200 50 50"
+                links:
+                  - title: Reddit
+                    url: https://mpaof.carrd.co/
+                  - title: Twitter
+                    url: https://mpaof.carrd.co/
+                  - title: Instagram
+                    url: https://mpaof.carrd.co/
+          - type: twitch-channels
+            channels:
+              - mypantsareonfire420
+              - aiyachimera
+              - alveussanctuary
+
+      - size: full
+        widgets:
+          - type: videos
+            channels:
+              - UCXuqSBlHAE6Xw-yeJA0Tunw
+              - UCy0tKL1T7wFoYcxCe0xjN6Q
+              - UCHnyfMqiRRG1u-2MsSQLbXA
+              - UC2I6Et1JkidnnbWgJFiMeHA
+              - UCDsElQQt_gCZ9LgnW-7v-cQ
+              - UCJHA_jMfCvEnv-3kRjTCQXw
+          - type: hacker-news
+            limit: 15
+            collapse-after: 5
+          - type: group
+            widgets:
+              - type: reddit
+                subreddit: selfhosted
+                show-thumbnails: true
+              - type: reddit
+                subreddit: homelab
+                show-thumbnails: true
+              - type: reddit
+                subreddit: unixporn
+                show-thumbnails: true
+          - type: search
+            search-engine: duckduckgo
+
+      - size: small
+        widgets:
+          - type: weather
+            units: metric
+            hour-format: 24h
+            location: Vero Beach, Florida, United States
+            hide-location: true
+          - type: monitor
+            cache: 1m
+            title: Selfhosting
+            sites:
+              - title: TrueNAS
+                url: http://10.0.0.155/ui/dashboard
+              - title: Pi-Hole
+                url: http://10.0.0.2/admin/index.php
