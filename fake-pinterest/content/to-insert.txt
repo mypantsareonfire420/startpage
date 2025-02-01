@@ -21,7 +21,7 @@ STARTPAGE
 
 I
   TYPE : image
-  DATE : 2024-12-17
+  DATE : 2025-01-31
   TAGS : 
   FILE : 0000.jpg
   NOTE : 
@@ -63,5 +63,6 @@ cat! - cat!
 ??? - ??? huh?
 straight vibes - vibes
 ily - yes
+me? - photo being taken of me
 -
 */

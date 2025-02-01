@@ -287,14 +287,14 @@ FACELESS
 PICTURE 1
   TYPE : image
   DATE : 2023-12-17
-  TAGS : real, ily
+  TAGS : real, ily, me?
   FILE : 0043.jpg
   NOTE : who are you and what are you doing outside my house
 
 PICTURE 2
   TYPE : image
   DATE : 2023-12-17
-  TAGS : real, ily
+  TAGS : real, ily, me?
   FILE : 0044.jpg
   NOTE : i think i opened my eyes can you take it again?
 
@@ -504,7 +504,7 @@ MAGIC? WHAT'S THAT
 PICTURE NUMBER WHATEVER
   TYPE : image
   DATE : 2024-12-17
-  TAGS : real, ily
+  TAGS : real, ily, me?
   FILE : 0075.jpg
   NOTE : why do people keep taking pictures of me
 
@@ -572,7 +572,7 @@ THE NIGHT SKY
 PICTURE 4
   TYPE : image
   DATE : 2024-09-22
-  TAGS : real, ily
+  TAGS : real, ily, me?
   FILE : 0085.jpg
   NOTE : i said smile, you fucking idiot
 
@@ -633,7 +633,7 @@ HAND ON CAT
 PICTURE 3
   TYPE : image
   DATE : 2023-12-31
-  TAGS : real, ily
+  TAGS : real, ily, me?
   FILE : 0094.jpg
   NOTE : am i just not a photogenic person?
 
@@ -1349,7 +1349,7 @@ DAZED AND CONFUSED
 MORE PICTURE 
   TYPE : image
   DATE : 2024-12-17
-  TAGS : real, ily
+  TAGS : real, ily, me?
   FILE : 0199.jpg
   NOTE : stop that, you
 
@@ -1480,7 +1480,7 @@ THE BUS TO NOWHERE
 MORE PICTURE 2
   TYPE : image
   DATE : 2025-01-01
-  TAGS : ily
+  TAGS : real, ily, me?
   FILE : 0218.jpg
   NOTE : why are there so many people taking pictures of me
 
@@ -1632,4 +1632,92 @@ RAT!
   DATE : 2025-01-01
   TAGS : cat!
   FILE : 0240.jpg
-  NOTE : i want a titty pocket rat!
+  NOTE : i want a rat!
+
+HEADPAT
+  TYPE : image
+  DATE : 2025-01-31
+  TAGS : cat!, ily
+  FILE : 0241.jpg
+  NOTE : the best relationship
+
+CUCK CHAIR
+  TYPE : image
+  DATE : 2025-01-31
+  TAGS : place
+  FILE : 0242.jpg
+  NOTE : god that cuck chair looks comfy
+
+THIS IS A FILM ABOUT YOU
+  TYPE : image
+  DATE : 2025-01-31
+  TAGS : art, ???
+  FILE : 0243.jpg
+
+COOL ART 1
+  TYPE : image
+  DATE : 2025-01-31
+  TAGS : art
+  FILE : 0244.jpg
+  NOTE : this looks like my dreams
+
+THE HAIR IS HAIRING
+  TYPE : image
+  DATE : 2025-01-31
+  TAGS : hair
+  FILE : 0245.jpg
+  NOTE : the hair is indeed hairing
+
+ANARCHISM 2
+  TYPE : image
+  DATE : 2025-01-31
+  TAGS : real
+  FILE : 0246.jpg
+  NOTE : turn to the edge
+
+NOT THE STRING
+  TYPE : image
+  DATE : 2025-01-31
+  TAGS : ???
+  FILE : 0247.jpg
+  NOTE : please do not the string; also who the fuck is this artist
+
+PICTURE 5
+  TYPE : image
+  DATE : 2025-01-31
+  TAGS : real, ily, me?
+  FILE : 0248.jpg
+  NOTE : the fact that there are now *eight* pictures of girls taking pictures of me should say something
+
+RECORDS 2
+  TYPE : image
+  DATE : 2025-01-31
+  TAGS : place, straight vibes
+  FILE : 0249.jpg
+  NOTE : disclaimer: i do not own a record or a vinyl player
+
+CAT NUMBER WHATEVER
+  TYPE : image
+  DATE : 2025-01-31
+  TAGS : hair, cat!
+  FILE : 0250.jpg
+  NOTE : this is something deeper within me i need to talk about
+
+ANIME BACKGROUND
+  TYPE : image
+  DATE : 2025-01-31
+  TAGS : place
+  FILE : 0251.jpg
+
+STATUE
+  TYPE : image
+  DATE : 2025-01-31
+  TAGS : art
+  FILE : 0252.jpg
+
+HOUSE WALKWAY
+  TYPE : image
+  DATE : 2025-01-31
+  TAGS : place, straight vibes
+  FILE : 0253.jpg
+  NOTE : "you hear a distant banging of a credit card on a table
