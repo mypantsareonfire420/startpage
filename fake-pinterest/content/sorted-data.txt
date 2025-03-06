@@ -287,7 +287,7 @@ FACELESS
 PICTURE 1
   TYPE : image
   DATE : 2023-12-17
-  TAGS : real, ily, me?
+  TAGS : fits, real, ily, me?
   FILE : 0043.jpg
   NOTE : who are you and what are you doing outside my house
 
@@ -1685,7 +1685,7 @@ NOT THE STRING
 PICTURE 5
   TYPE : image
   DATE : 2025-01-31
-  TAGS : real, ily, me?
+  TAGS : fits, real, ily, me?
   FILE : 0248.jpg
   NOTE : the fact that there are now *eight* pictures of girls taking pictures of me should say something
 
@@ -1721,3 +1721,149 @@ HOUSE WALKWAY
   TAGS : place, straight vibes
   FILE : 0253.jpg
   NOTE : "you hear a distant banging of a credit card on a table
+
+SUNDAY NIGHTS
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : hard, art
+  FILE : 0254.jpg
+
+WOMEN IN ARMOR
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : fits, hair, art
+  FILE : 0255.jpg
+  NOTE : new lockscreen ???
+
+TALL BUILDING
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : place
+  FILE : 0256.jpg
+  NOTE : yes, this is a real place
+
+DARK PILLAR WORSHIP
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : fits, hair, art
+  FILE : 0257.jpg
+
+TRAFFIC CONE 2
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : ???
+  FILE : 0258.jpg
+
+FOREST PRINCESS
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : hair, fits, real, cat!
+  FILE : 0259.jpg
+
+ICE KING
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : hard, art
+  FILE : 0260.jpg
+  NOTE : rtx goes hard
+
+ARMOR
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : art, place, straight vibes
+  FILE : 0261.jpg
+  NOTE : what i wouldn't give for this
+
+RELIGIOUS PILLAR
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : hard, art
+  FILE : 0262.jpg
+  NOTE : the power of christ compells you!
+
+FANTASY FIELD
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : fits, hair, art, place
+  FILE : 0263.jpg
+
+HEAD SCRATCHIES
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : cat!, ily
+  FILE : 0264.jpg
+  NOTE : headpats are the 6th love language
+
+CAT CAT CAT CAT CAT
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : cat!
+  FILE : 0265.jpg
+  NOTE : such a good boy
+
+SHIPPING CONTAINER HOUSE
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : place
+  FILE : 0266.jpg
+  NOTE : ik this won't ever be real but it's still fun to look at
+
+RECORD SHOP 2
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : place, straight vibes
+  FILE : 0267.jpg
+  NOTE : i still haven't gone to a record shop
+
+WIZARD FIELD
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : art, fits, ???
+  FILE : 0268.jpg
+  NOTE : "come now, you have violated the law!"
+
+WIZARD GUN
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : art, ???
+  FILE : 0269.jpg
+
+TRAFFIC CONE 3
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : ???
+  FILE : 0270.jpg
+  NOTE : don't talk to me or my son ever again
+
+ANCIENT WIZARD MOUNTAINS
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : art, straight vibes
+  FILE : 0271.jpg
+
+PURCHASE MY SILENCE
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : straight vibes
+  FILE : 0272.jpg
+  NOTE : *disclaimer: i will not stop
+
+NO COKE IN THE BATHROOM
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : place
+  FILE : 0273.jpg
+  NOTE : they put that sign up because of me, i think
+
+FIRE
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : art
+  FILE : 0274.jpg
+
+LAKE
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : hard
+  FILE : 0275.jpg
+  NOTE : fighting away the demons and je-hesus himself

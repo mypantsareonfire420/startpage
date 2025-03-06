@@ -1,131 +1,3 @@
-SWINGING
-  TYPE : image
-  DATE : 2024-12-17
-  TAGS : real, place
-  FILE : 0151.jpg
-  NOTE : swing your troubles away
-
-THE HANGED MAN
-  TYPE : image
-  DATE : 2024-12-17
-  TAGS : real, fits
-  FILE : 0013.jpg
-
-PAYPHONE
-  TYPE : image
-  DATE : 2024-06-08
-  TAGS : real, place, straight vibes
-  FILE : 0153.jpg
-  NOTE : *ring ring*
-
-THE END?
-  TYPE : image
-  DATE : 2025-01-01
-  TAGS : art
-  FILE : 0235.jpg
-  NOTE : achievement get!
-
-BEE
-  TYPE : image
-  DATE : 2025-01-01
-  TAGS : cat!
-  FILE : 0221.jpg
-  NOTE : dude what kind of dog is that
-
-TRAIN ON FIRE
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : place, straight vibes
-  FILE : 0049.jpg
-
-LOVE LOVE LOVE
-  TYPE : image
-  DATE : 2024-11-25
-  TAGS : art, cat!, ily
-  FILE : 0172.jpg
-
-BOOTS N CATS N BOOTS N CATS N
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : cat!
-  FILE : 0023.jpg
-  NOTE : cat! = cat * (cat - 1) * (cat - 2) * ... * 2 * 1
-
-SHOPPING CART ON THE POLE
-  TYPE : image
-  DATE : 2024-04-06
-  TAGS : hard, real
-  FILE : 0150.jpg
-  NOTE : SHOPPING CART ON THE POLE
-
-MOUNT DEPRESSION AND SADNESS
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : place, straight vibes
-  FILE : 0059.jpg
-  NOTE : named after the lake
-
-MY KIND OF ART
-  TYPE : image
-  DATE : 2024-01-01
-  TAGS : art, real, straight vibes
-  FILE : 0125.jpg
-  NOTE : i wanna kiss whoever made this (with consent, ofc)
-
-BRAIN RESET
-  TYPE : image
-  DATE : 2024-06-26
-  TAGS : hair, art, ily
-  FILE : 0006.jpg
-  NOTE : we all need a brain reset sometimes
-
-PICTURE NUMBER WHATEVER
-  TYPE : image
-  DATE : 2024-12-17
-  TAGS : real, ily, me?
-  FILE : 0075.jpg
-  NOTE : why do people keep taking pictures of me
-
-SKATER
-  TYPE : image
-  DATE : 2024-12-17
-  TAGS : fits
-  FILE : 0126.jpg
-
-PERFUME???
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : art, ily
-  FILE : 0064.jpg
-
-WAFFLE HOUSE
-  TYPE : image
-  DATE : 2024-11-25
-  TAGS : hard, art, real, ???
-  FILE : 0184.jpg
-  NOTE : legendairy
-
-WELL?
-  TYPE : image
-  DATE : 2024-09-22
-  TAGS : art
-  FILE : 0045.jpg
-  NOTE : are you?
-
-HEADPAT
-  TYPE : image
-  DATE : 2025-01-31
-  TAGS : cat!, ily
-  FILE : 0241.jpg
-  NOTE : the best relationship
-
-DORK ROOM
-  TYPE : image
-  DATE : 2024-09-22
-  TAGS : art
-  FILE : 0162.jpg
-  NOTE : dark room? more like dork room amirite kids?
-
 SHIT HAPPENS SIGN
   TYPE : image
   DATE : 2024-12-17
@@ -133,93 +5,17 @@ SHIT HAPPENS SIGN
   FILE : 0205.jpg
   NOTE : that's a cool sign ngl
 
-I AM WHO I AM, NOWHERE AM I MEANT TO BE ELSEWHERE
+BOOTS 1
   TYPE : image
-  DATE : 2024-06-26
-  TAGS : real
-  FILE : 0052.jpg
-
-BIRTHDAY
-  TYPE : image
-  DATE : 2024-04-06
-  TAGS : hard, straight vibes
-  FILE : 0142.jpg
-  NOTE : happy day of birth
-
-ADVICE
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : hard, art, real
-  FILE : 0063.jpg
-  NOTE : realest hardest shit ever
-
-RUH-ROH
-  TYPE : image
-  DATE : 2024-09-22
-  TAGS : art, real, ???
-  FILE : 0144.jpg
-  NOTE : scoob! i told you not to touch that!
-
-CATS WITHOUT BOOTS
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : cat!
-  FILE : 0024.jpg
-  NOTE : one of the cats that i WILL steal at one point
-
-THE MOON ON LAKE D&S
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : place, straight vibes
-  FILE : 0081.jpg
-  NOTE : this lake is now canon
-
-TRAFFIC CONE
-  TYPE : image
-  DATE : 2024-12-17
-  TAGS : hard, straight vibes
-  FILE : 0010.jpg
-  NOTE : what up fellow teenagers
-
-DEMONS
-  TYPE : image
-  DATE : 2024-11-25
-  TAGS : real
-  FILE : 0193.jpg
-  NOTE : they're like bears, scary from one side but big sweethearts once they get to know you
-
-SKELETON 3
-  TYPE : image
-  DATE : 2024-12-17
-  TAGS : ily
-  FILE : 0197.jpg
-
-NEW VACATION SPOT
-  TYPE : image
-  DATE : 2024-09-22
-  TAGS : real
-  FILE : 0117.jpg
-  NOTE : my kind of vacation
-
-STREET SIGN
-  TYPE : image
-  DATE : 2023-06-26
-  TAGS : place, ???
-  FILE : 0046.jpg
-  NOTE : he's on a fine line between crazy and genius
-
-SIGNS
-  TYPE : image
-  DATE : 2025-01-01
+  DATE : 2024-03-05
   TAGS : fits
-  FILE : 0237.jpg
+  FILE : 0138.jpg
 
-PERFECT CAT
+BOOK
   TYPE : image
-  DATE : 2024-01-01
-  TAGS : art, cat!
-  FILE : 0113.jpg
-  NOTE : if perfect exists, it's right fucking here
+  DATE : 2024-09-22
+  TAGS : ???
+  FILE : 0115.jpg
 
 BOOTS 3
   TYPE : image
@@ -228,25 +24,12 @@ BOOTS 3
   FILE : 0140.jpg
   NOTE : to get red or black boots? i have no idea
 
-BLACK HOLE
+LEAVE IMMEDIATELY
   TYPE : image
-  DATE : 2024-11-25
-  TAGS : real, art
-  FILE : 0173.jpg
-  NOTE : "when you breathe in and hold it, you lose your breath; if you let it go, it comes back to you; if you want life, don't cling to it"
-
-SEXXX
-  TYPE : image
-  DATE : 2025-01-01
+  DATE : 2024-04-06
   TAGS : art
-  FILE : 0231.jpg
-
-I LOVE YOU
-  TYPE : image
-  DATE : 2024-01-01
-  TAGS : ily
-  FILE : 0110.jpg
-  NOTE : ily <3
+  FILE : 0147.jpg
+  NOTE : god damnit what did i do this time?
 
 EXIT
   TYPE : image
@@ -255,52 +38,52 @@ EXIT
   FILE : 0149.jpg
   NOTE : death is infinite. that's why none of us puny "finite-minders" can comprehend it.
 
-03:00
+THE TIME TRAVELER'S GUIDE TO
+  TYPE : image
+  DATE : 2024-11-25
+  TAGS : art, ???
+  FILE : 0192.jpg
+  NOTE : go worm your own holes
+
+PERFUME???
   TYPE : image
   DATE : 2023-12-17
   TAGS : art, ily
-  FILE : 0065.jpg
-  NOTE : GO TO BED, MR FUNNY BONES
+  FILE : 0064.jpg
 
-BALCONY
+WAIT THERE'S 2
+  TYPE : image
+  DATE : 2023-12-31
+  TAGS : real, cat!
+  FILE : 0090.jpg
+  NOTE : we can now condclude that there are at least two (2) cats in the world
+
+NO GOODBYE
+  TYPE : image
+  DATE : 2024-06-26
+  TAGS : art, ???
+  FILE : 0156.jpg
+  NOTE : my intended way of leaving
+
+BED NOOK
   TYPE : image
   DATE : 2024-12-17
-  TAGS : art, place
-  FILE : 0076.jpg
-  NOTE : yooooooo
+  TAGS : place, ily
+  FILE : 0118.jpg
+  NOTE : how does one get to the point of owning this
 
-COOL ART 1
+CASTLE DEPRESSION AND SADNESS
   TYPE : image
-  DATE : 2025-01-31
+  DATE : 2024-04-06
   TAGS : art
-  FILE : 0244.jpg
-  NOTE : this looks like my dreams
+  FILE : 0145.jpg
 
-DEATHCONSCIOUSNESS
+THE MOON ON LAKE D&S
   TYPE : image
   DATE : 2023-12-17
-  TAGS : hard
-  FILE : 0036.jpg
-  NOTE : rock fucking solid
-
-BAD MEMORIES
-  TYPE : image
-  DATE : 2024-12-17
-  TAGS : real, ily
-  FILE : 0011.jpg
-
-GRAFFITI
-  TYPE : image
-  DATE : 2024-12-17
-  TAGS : straight vibes, place
-  FILE : 0008.jpg
-
-F
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : hard, real
-  FILE : 0078.jpg
-  NOTE : press F to pay respects
+  TAGS : place, straight vibes
+  FILE : 0081.jpg
+  NOTE : this lake is now canon
 
 I MISS YOU
   TYPE : image
@@ -308,50 +91,19 @@ I MISS YOU
   TAGS : ily
   FILE : 0020.jpg
 
-BOOTS 1
-  TYPE : image
-  DATE : 2024-03-05
-  TAGS : fits
-  FILE : 0138.jpg
-
-ART OF LAKE D&S
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : art
-  FILE : 0082.jpg
-
-I NEED LOVE
-  TYPE : image
-  DATE : 2024-06-26
-  TAGS : art, real
-  FILE : 0121.jpg
-
-THE STREAM
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : place, straight vibes
-  FILE : 0068.jpg
-  NOTE : on top of mount depression and sadness
-
-MY AUTOBIOGRAPHY
-  TYPE : image
-  DATE : 2024-01-01
-  TAGS : real, straight vibes
-  FILE : 0129.jpg
-  NOTE : can i just like... y'know...?
-
-ROAD
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : place
-  FILE : 0051.jpg
-  NOTE : put those grippers away
-
-ART STUDENT
+SKELETON 2
   TYPE : image
   DATE : 2024-12-17
-  TAGS : fits, hair, art
-  FILE : 0021.jpg
+  TAGS : ily
+  FILE : 0196.jpg
+  NOTE : ew, people
+
+FASHION 1
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : fits
+  FILE : 0001.jpg
+  NOTE : true non-binary fashion
 
 I UHH- UMM- UHH-
   TYPE : image
@@ -360,68 +112,60 @@ I UHH- UMM- UHH-
   FILE : 0179.jpg
   NOTE : the constant struggle
 
-CANDLE BULB
+WIZARDING AROUND
+  TYPE : image
+  DATE : 2024-01-01
+  TAGS : hard, hair, ???
+  FILE : 0108.jpg
+  NOTE : foolishness! keep it up!
+
+FUCK YOU
+  TYPE : image
+  DATE : 2024-04-06
+  TAGS : hard, real, ily
+  FILE : 0141.jpg
+  NOTE : how i feel
+
+RIVER
   TYPE : image
   DATE : 2024-11-25
-  TAGS : art
-  FILE : 0182.jpg
-  NOTE : oh no he's gonna go out!
+  TAGS : fits, straight vibes
+  FILE : 0168.jpg
 
-THE HAIR IS HAIRING
+COOL ART 1
   TYPE : image
   DATE : 2025-01-31
-  TAGS : hair
-  FILE : 0245.jpg
-  NOTE : the hair is indeed hairing
+  TAGS : art
+  FILE : 0244.jpg
+  NOTE : this looks like my dreams
 
-ENJOY THE JOURNEY
-  TYPE : image
-  DATE : 2024-11-25
-  TAGS : art, real, cat!
-  FILE : 0189.jpg
-  NOTE : ??? journey is a band???
-
-REALITY
+GIBBERISH
   TYPE : image
   DATE : 2024-06-26
   TAGS : art
-  FILE : 0070.jpg
-  NOTE : time is a social construct, don't believe it - ethan nestor
+  FILE : 0037.jpg
+  NOTE : i don't understand your mind either
 
-HOT BURNY STICK
+TRAIN 2.0
   TYPE : image
   DATE : 2023-12-17
-  TAGS : hard, art, real
-  FILE : 0034.jpg
-  NOTE : this image goes hard, feel free to screenshot
-
-COLLEGE 1808
-  TYPE : image
-  DATE : 2024-12-17
-  TAGS : place
-  FILE : 0208.jpg
-  NOTE : of course there's a class on this
-
-FIRE LOOKOUT
-  TYPE : image
-  DATE : 2024-04-06
   TAGS : place, straight vibes
-  FILE : 0152.jpg
-  NOTE : i doth declare that this is mine
+  FILE : 0079.jpg
+  NOTE : the road has worked so far
 
-THE TIME TRAVELER'S GUIDE TO
+COMPARISON DESTROYS PERSONALITY
   TYPE : image
-  DATE : 2024-11-25
-  TAGS : art, ???
-  FILE : 0192.jpg
-  NOTE : go worm your own holes
+  DATE : 2024-06-26
+  TAGS : real, ily
+  FILE : 0048.jpg
+  NOTE : i don't know why people would openly compare themselves to others like this, but i used to do it so i'm not one to judge
 
-VAMPIRE THREAT
+SHOWER THOUGHTS
   TYPE : image
-  DATE : 2024-11-25
-  TAGS : hard, art
-  FILE : 0178.jpg
-  NOTE : welp
+  DATE : 2024-06-26
+  TAGS : art, real, ???
+  FILE : 0159.jpg
+  NOTE : ooh lawd he thicc
 
 CANDLE
   TYPE : image
@@ -430,201 +174,12 @@ CANDLE
   FILE : 0032.jpg
   NOTE : just like me fr fr
 
-TINY HOUSE
+IT IS WHAT IT IS
   TYPE : image
   DATE : 2024-12-17
-  TAGS : place
-  FILE : 0029.jpg
-  NOTE : dream house
-
-PICTURE 1
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : real, ily, me?
-  FILE : 0043.jpg
-  NOTE : who are you and what are you doing outside my house
-
-LIGHT READING
-  TYPE : image
-  DATE : 2024-06-26
-  TAGS : real
-  FILE : 0131.jpg
-  NOTE : how to dissapear completely
-
-POETRY AND ANARCHISM
-  TYPE : image
-  DATE : 2025-01-01
-  TAGS : art
-  FILE : 0222.jpg
-
-RECORDS 2
-  TYPE : image
-  DATE : 2025-01-31
-  TAGS : place, straight vibes
-  FILE : 0249.jpg
-  NOTE : disclaimer: i do not own a record or a vinyl player
-
-ME_IRL_IRL
-  TYPE : image
-  DATE : 2024-01-01
-  TAGS : hard, real
-  FILE : 0109.jpg
-  NOTE : i need to carry one of these things around
-
-WOAH
-  TYPE : image
-  DATE : 2024-06-26
-  TAGS : real, straight vibes
-  FILE : 0067.jpg
-  NOTE : fuck around and find out
-
-YOU ARE NOT IMMUNE TO PROPOGANDA
-  TYPE : image
-  DATE : 2024-06-26
-  TAGS : real
-  FILE : 0017.jpg
-
-A JOURNEY WITH NO DESTINATION
-  TYPE : image
-  DATE : 2024-11-25
-  TAGS : art, real, cat!
-  FILE : 0171.jpg
-  NOTE : onto chapter 334 of life™
-
-NON-EUCLIDEAN SPACE
-  TYPE : image
-  DATE : 2024-06-26
-  TAGS : ???
-  FILE : 0096.jpg
-  NOTE : aw man, not again
-
-SILENT TREATMENT
-  TYPE : image
-  DATE : 2024-06-26
-  TAGS : real
-  FILE : 0005.jpg
-  NOTE : bro just say no
-
-COOL ROOM
-  TYPE : image
-  DATE : 2024-12-17
-  TAGS : place, straight vibes
-  FILE : 0206.jpg
-  NOTE : those look like the uncomfiest comfy chairs ever
-
-MR FUNNY BONES
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : hard, real
-  FILE : 0038.jpg
-
-ME AND WHO
-  TYPE : image
-  DATE : 2024-01-01
-  TAGS : art, ???
-  FILE : 0127.jpg
-
-OLD NEW OLD NEW FASHION
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : fits
-  FILE : 0015.jpg
-  NOTE : where do you find these clothes
-
-I WANT ANSEWERES
-  TYPE : image
-  DATE : 2025-01-01
-  TAGS : art
-  FILE : 0224.jpg
-  NOTE : misspelled on purpose!
-
-COUPLE B
-  TYPE : image
-  DATE : 2024-02-25
-  TAGS : fits, ily
-  FILE : 0135.jpg
-
-SPOT OF SPOTS
-  TYPE : image
-  DATE : 2024-01-01
-  TAGS : place, straight vibes
-  FILE : 0041.jpg
-  NOTE : spot who asked
-
-TO DO LIST
-  TYPE : image
-  DATE : 2024-06-26
-  TAGS : real
-  FILE : 0060.jpg
-  NOTE : 1a) 1b) 1c) 1c1) 1c2) 1c3) ...
-
-RIVER
-  TYPE : image
-  DATE : 2024-11-25
-  TAGS : fits, straight vibes
-  FILE : 0168.jpg
-
-IT'S COMING IT'S BAD
-  TYPE : image
-  DATE : 2024-04-06
-  TAGS : real
-  FILE : 0148.jpg
-
-BIG TREE BRIDGE
-  TYPE : image
-  DATE : 2024-12-17
-  TAGS : place
-  FILE : 0209.jpg
-  NOTE : don't fall, health insurance will deny your claims
-
-I DRINK TO FORGET... WHO?
-  TYPE : image
-  DATE : 2025-01-01
-  TAGS : art
-  FILE : 0216.jpg
-  NOTE : i forgor :skull
-
-MORE CAMERA
-  TYPE : image
-  DATE : 2024-11-25
-  TAGS : fits, ily
-  FILE : 0188.jpg
-  NOTE : S M I L E, I DEMAND YOU TO
-
-PICTURE 3
-  TYPE : image
-  DATE : 2023-12-31
-  TAGS : real, ily, me?
-  FILE : 0094.jpg
-  NOTE : am i just not a photogenic person?
-
-CAT READING THE BOOK
-  TYPE : image
-  DATE : 2023-12-31
-  TAGS : cat!
-  FILE : 0095.jpg
-  NOTE : he's definitely trying to sell me something
-
-I DON'T KNOW
-  TYPE : image
-  DATE : 2024-11-25
-  TAGS : hard, ???
-  FILE : 0170.jpg
-  NOTE : jeremy, we've been over this
-
-WASHINGTON?
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : place, straight vibes
-  FILE : 0057.jpg
-  NOTE : true spot
-
-COUPLE A
-  TYPE : image
-  DATE : 2024-02-25
-  TAGS : fits, ily
-  FILE : 0136.jpg
-  NOTE : when can i get confidence to do this
+  TAGS : fits, ???
+  FILE : 0122.jpg
+  NOTE : perfect for someone like me
 
 STORY OF MY LIFE
   TYPE : image
@@ -633,33 +188,300 @@ STORY OF MY LIFE
   FILE : 0103.jpg
   NOTE : woo!
 
-SHIT HAPPENS
+BIRTHDAY
+  TYPE : image
+  DATE : 2024-04-06
+  TAGS : hard, straight vibes
+  FILE : 0142.jpg
+  NOTE : happy day of birth
+
+MORE CAMERA
   TYPE : image
   DATE : 2024-11-25
-  TAGS : real
-  FILE : 0194.jpg
-  NOTE : why is that censored?! how come you can't say [bleep] on the internet anymore???
+  TAGS : fits, ily
+  FILE : 0188.jpg
+  NOTE : S M I L E, I DEMAND YOU TO
 
-PICTURE 2
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : real, ily, me?
-  FILE : 0044.jpg
-  NOTE : i think i opened my eyes can you take it again?
-
-FREE NUMBERS
-  TYPE : image
-  DATE : 2025-01-01
-  TAGS : ???
-  FILE : 0212.jpg
-  NOTE : i love free things!
-
-WIZARDING AROUND
+MY KIND OF ART
   TYPE : image
   DATE : 2024-01-01
-  TAGS : hard, hair, ???
-  FILE : 0108.jpg
-  NOTE : foolishness! keep it up!
+  TAGS : art, real, straight vibes
+  FILE : 0125.jpg
+  NOTE : i wanna kiss whoever made this (with consent, ofc)
+
+F
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : hard, real
+  FILE : 0078.jpg
+  NOTE : press F to pay respects
+
+HAIR HAIR HAIR
+  TYPE : image
+  DATE : 2023-12-31
+  TAGS : hair
+  FILE : 0091.jpg
+  NOTE : yes i know it's a girl's hair, shush
+
+GIRL
+  TYPE : image
+  DATE : 2024-09-22
+  TAGS : fits, hair
+  FILE : 0069.jpg
+  NOTE : this is my alter ego
+
+STARING AT MYSELF
+  TYPE : image
+  DATE : 2024-11-25
+  TAGS : hard, real, straight vibes
+  FILE : 0165.jpg
+  NOTE : is this real life
+
+LIGHT READING
+  TYPE : image
+  DATE : 2024-06-26
+  TAGS : real
+  FILE : 0131.jpg
+  NOTE : how to dissapear completely
+
+TATTOOS
+  TYPE : image
+  DATE : 2024-03-05
+  TAGS : art, straight vibes
+  FILE : 0137.jpg
+
+LAKE DEPRESSION AND SADNESS
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : place, ???
+  FILE : 0054.jpg
+  NOTE : actually the name of this lake
+
+SATAN
+  TYPE : image
+  DATE : 2025-01-01
+  TAGS : art
+  FILE : 0232.jpg
+  NOTE : i feel called out
+
+TREES
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : place, straight vibes
+  FILE : 0080.jpg
+  NOTE : where banana
+
+I DON'T EXIST
+  TYPE : image
+  DATE : 2024-11-25
+  TAGS : ???
+  FILE : 0174.jpg
+  NOTE : and neither do you
+
+HELP
+  TYPE : image
+  DATE : 2024-06-26
+  TAGS : real
+  FILE : 0112.jpg
+  NOTE : let me out let me out let me out let me out LET ME OUT LET ME OUT LET ME OUT LET ME OUT
+
+HOW DO YOU ACT
+  TYPE : image
+  DATE : 2025-01-01
+  TAGS : real
+  FILE : 0233.jpg
+
+KAT
+  TYPE : image
+  DATE : 2024-09-22
+  TAGS : cat!
+  FILE : 0161.jpg
+  NOTE : cat!!!
+
+THE STREAM
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : place, straight vibes
+  FILE : 0068.jpg
+  NOTE : on top of mount depression and sadness
+
+UH-OH
+  TYPE : image
+  DATE : 2024-12-17
+  TAGS : art
+  FILE : 0177.jpg
+  NOTE : i accidentally almost didn't give a fuck
+
+CAPITALISM
+  TYPE : image
+  DATE : 2024-11-25
+  TAGS : ???
+  FILE : 0187.jpg
+  NOTE : more like crapitalism, am i right kids?
+
+RELIGIOUS PILLAR
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : hard, art
+  FILE : 0262.jpg
+  NOTE : the power of christ compells you!
+
+PICTURE 4
+  TYPE : image
+  DATE : 2024-09-22
+  TAGS : real, ily, me?
+  FILE : 0085.jpg
+  NOTE : i said smile, you fucking idiot
+
+ME__IRL
+  TYPE : image
+  DATE : 2024-09-22
+  TAGS : art, straight vibes
+  FILE : 0164.jpg
+
+SENSITIVE CONTENT
+  TYPE : image
+  DATE : 2024-12-17
+  TAGS : real
+  FILE : 0022.jpg
+  NOTE : the inner machinations of my mind are an enigma
+
+CAT 2 - ELECTRIC BOOGALOO
+  TYPE : image
+  DATE : 2023-12-31
+  TAGS : cat!
+  FILE : 0089.jpg
+  NOTE : where cat, i want
+
+MOON CAT
+  TYPE : image
+  DATE : 2024-11-25
+  TAGS : art, cat!, ily
+  FILE : 0180.jpg
+  NOTE : get someone who looks at you like the cat looks at the moon
+
+PICTURE 1
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : fits, real, ily, me?
+  FILE : 0043.jpg
+  NOTE : who are you and what are you doing outside my house
+
+CHUCK SHULDINER
+  TYPE : image
+  DATE : 2024-02-25
+  TAGS : fits, hair, real, straight vibes
+  FILE : 0133.jpg
+  NOTE : rest in pepperoni
+
+COUPLE 3
+  TYPE : image
+  DATE : 2024-06-26
+  TAGS : art, ily
+  FILE : 0158.jpg
+  NOTE : hell yeah
+
+ADVICE
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : hard, art, real
+  FILE : 0063.jpg
+  NOTE : realest hardest shit ever
+
+RED DOOR
+  TYPE : image
+  DATE : 2025-01-01
+  TAGS : art
+  FILE : 0239.jpg
+  NOTE : imagine piss was yellow instead of red
+
+NATURE
+  TYPE : image
+  DATE : 2024-06-26
+  TAGS : art
+  FILE : 0031.jpg
+  NOTE : but how do you get there
+
+SPOT OF SPOTS
+  TYPE : image
+  DATE : 2024-01-01
+  TAGS : place, straight vibes
+  FILE : 0041.jpg
+  NOTE : spot who asked
+
+FOREST PRINCESS
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : hair, fits, real, cat!
+  FILE : 0259.jpg
+
+IT'S COMING IT'S BAD
+  TYPE : image
+  DATE : 2024-04-06
+  TAGS : real
+  FILE : 0148.jpg
+
+CULT LEADERS
+  TYPE : image
+  DATE : 2025-01-01
+  TAGS : art
+  FILE : 0236.jpg
+  NOTE : ... yes????
+
+TALL HOUSE
+  TYPE : image
+  DATE : 2024-01-01
+  TAGS : place, straight vibes
+  FILE : 0104.jpg
+  NOTE : can't have shit in detroit
+
+WOMEN IN ARMOR
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : fits, hair, art
+  FILE : 0255.jpg
+  NOTE : new lockscreen ???
+
+CENT PHOTOGRAPHS
+  TYPE : image
+  DATE : 2023-12-31
+  TAGS : cat!
+  FILE : 0092.jpg
+  NOTE : is he planning on destroying the world later with his newfound knowledge?
+
+LANTERN
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : art
+  FILE : 0030.jpg
+
+HEELS
+  TYPE : image
+  DATE : 2024-01-01
+  TAGS : fits
+  FILE : 0002.jpg
+  NOTE : i wanna wear heels, but i'm 6'3" (who's gonna stop you tho)
+
+COOL ROOM
+  TYPE : image
+  DATE : 2024-12-17
+  TAGS : place, straight vibes
+  FILE : 0206.jpg
+  NOTE : those look like the uncomfiest comfy chairs ever
+
+PICTURE 3
+  TYPE : image
+  DATE : 2023-12-31
+  TAGS : real, ily, me?
+  FILE : 0094.jpg
+  NOTE : am i just not a photogenic person?
+
+HAIR GOALS
+  TYPE : image
+  DATE : 2024-02-25
+  TAGS : hair
+  FILE : 0130.jpg
+  NOTE : hair good, smoking bad
 
 SACRILIGE
   TYPE : image
@@ -668,18 +490,100 @@ SACRILIGE
   FILE : 0100.jpg
   NOTE : an offering to me (i'm the fictional god here)
 
-GUITAR
+FUCK ME
   TYPE : image
-  DATE : 2024-12-17
-  TAGS : straight vibes
-  FILE : 0066.jpg
+  DATE : 2024-11-25
+  TAGS : real
+  FILE : 0175.jpg
+  NOTE : god damnit not again jimmy
 
-WHO AM I IN SOLITUDE
+L'APPEL DU VIDE
   TYPE : image
   DATE : 2025-01-01
+  TAGS : art
+  FILE : 0230.jpg
+  NOTE : my new catchphrase
+
+SHIT HAPPENS
+  TYPE : image
+  DATE : 2024-11-25
   TAGS : real
-  FILE : 0228.jpg
-  NOTE : damn this hits
+  FILE : 0194.jpg
+  NOTE : why is that censored?! how come you can't say [bleep] on the internet anymore???
+
+ART OF LAKE D&S
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : art
+  FILE : 0082.jpg
+
+DAZED AND CONFUSED
+  TYPE : image
+  DATE : 2024-12-17
+  TAGS : art
+  FILE : 0198.jpg
+  NOTE : i swore i had this image before
+
+GRAFFITI
+  TYPE : image
+  DATE : 2024-12-17
+  TAGS : straight vibes, place
+  FILE : 0008.jpg
+
+BOOTS N CATS N BOOTS N CATS N
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : cat!
+  FILE : 0023.jpg
+  NOTE : cat! = cat * (cat - 1) * (cat - 2) * ... * 2 * 1
+
+TO DO LIST
+  TYPE : image
+  DATE : 2024-06-26
+  TAGS : real
+  FILE : 0060.jpg
+  NOTE : 1a) 1b) 1c) 1c1) 1c2) 1c3) ...
+
+OLD NEW OLD NEW FASHION
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : fits
+  FILE : 0015.jpg
+  NOTE : where do you find these clothes
+
+DARK PILLAR WORSHIP
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : fits, hair, art
+  FILE : 0257.jpg
+
+PIANO
+  TYPE : image
+  DATE : 2024-06-26
+  TAGS : art
+  FILE : 0116.jpg
+  NOTE : ok so he's also on a fine line between bad and worse
+
+BE YOURSELF
+  TYPE : image
+  DATE : 2024-11-25
+  TAGS : art, straight vibes
+  FILE : 0190.jpg
+  NOTE : do what excites
+
+SHIPPING CONTAINER HOUSE
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : place
+  FILE : 0266.jpg
+  NOTE : ik this won't ever be real but it's still fun to look at
+
+MY KIND OF VIBES
+  TYPE : image
+  DATE : 2024-09-22
+  TAGS : hard, straight vibes
+  FILE : 0053.jpg
+  NOTE : who needs to be burned
 
 DID YOU KNOW
   TYPE : image
@@ -688,6 +592,45 @@ DID YOU KNOW
   FILE : 0039.jpg
   NOTE : ok why does this image resonate so well with me?
 
+()
+  TYPE : image
+  DATE : 2025-01-01
+  TAGS : real
+  FILE : 0223.jpg
+  NOTE : aaaaaAAAAAAAAAAAAAAA
+
+YOU KNOW CARELESS WHISPER?
+  TYPE : image
+  DATE : 2023-12-31
+  TAGS : hard, real, straight vibes
+  FILE : 0088.jpg
+  NOTE : "i used to play back in the day"
+
+ICELANDIC FJORD
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : place, straight vibes
+  FILE : 0050.jpg
+
+DON'T LET THE FEAR OUT
+  TYPE : image
+  DATE : 2025-01-01
+  TAGS : art, ???
+  FILE : 0219.jpg
+  NOTE : the fear WILL get you
+
+GUITAR
+  TYPE : image
+  DATE : 2024-12-17
+  TAGS : straight vibes
+  FILE : 0066.jpg
+
+THE CHURCH (BUT A GOOD ONE)
+  TYPE : image
+  DATE : 2024-11-25
+  TAGS : ???
+  FILE : 0185.jpg
+
 BONES
   TYPE : image
   DATE : 2024-06-26
@@ -695,65 +638,12 @@ BONES
   FILE : 0019.jpg
   NOTE : they really don't need to be yours, i swear
 
-FACELESS
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : art
-  FILE : 0042.jpg
-  NOTE : it's all just a burning memory
-
-MORE PICTURE 
-  TYPE : image
-  DATE : 2024-12-17
-  TAGS : real, ily, me?
-  FILE : 0199.jpg
-  NOTE : stop that, you
-
-I WANT YOU
-  TYPE : image
-  DATE : 2024-11-25
-  TAGS : ???
-  FILE : 0167.jpg
-  NOTE : come join!
-
-CASTLE DEPRESSION AND SADNESS
-  TYPE : image
-  DATE : 2024-04-06
-  TAGS : art
-  FILE : 0145.jpg
-
-WHITE HUMAN ANGEL?
+HEED THE INSTRUCTIONS
   TYPE : image
   DATE : 2024-01-01
-  TAGS : art, real, ???
-  FILE : 0128.jpg
-  NOTE : achievement get: how did we get here?
-
-ARE YOU STRANGE?
-  TYPE : image
-  DATE : 2024-06-26
-  TAGS : ???
-  FILE : 0012.jpg
-
-INSTANT GRATIFICATION MONKEY
-  TYPE : image
-  DATE : 2024-06-26
-  TAGS : ???
-  FILE : 0124.jpg
-  NOTE : ooh ooh aah aah
-
-MR FUNNY BONES HAS COMMITED WAR CRIMES
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : hard, real
-  FILE : 0040.jpg
-  NOTE : OH NO MR FUNNY BONES WHAT HAVE YOU DONE
-
-I AM BECOME DEATH, DESTROYER OF WORLDS
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : hard, art, real
-  FILE : 0027.jpg
+  TAGS : real
+  FILE : 0101.jpg
+  NOTE : well, there goes my afternoon plans
 
 SPONGEBOB ME BOY
   TYPE : image
@@ -762,12 +652,161 @@ SPONGEBOB ME BOY
   FILE : 0102.jpg
   NOTE : autisim be damned, my boy can work a grill
 
-SOULS 4 SALE !
+I DRINK TO FORGOR
+  TYPE : image
+  DATE : 2025-01-01
+  TAGS : hard, fits, real
+  FILE : 0225.jpg
+  NOTE : me
+
+ICE KING
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : hard, art
+  FILE : 0260.jpg
+  NOTE : rtx goes hard
+
+I DRINK TO FORGET... WHO?
+  TYPE : image
+  DATE : 2025-01-01
+  TAGS : art
+  FILE : 0216.jpg
+  NOTE : i forgor :skull
+
+THE BUS TO NOWHERE
   TYPE : image
   DATE : 2025-01-01
   TAGS : ???
-  FILE : 0226.jpg
-  NOTE : BOILED P-NUTS FOR SALE
+  FILE : 0217.jpg
+  NOTE : $3 for a bus ride??? man inflation hit everybody
+
+SKELETON 3
+  TYPE : image
+  DATE : 2024-12-17
+  TAGS : ily
+  FILE : 0197.jpg
+
+KELLY NICHOLS
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : fits, hair, straight vibes
+  FILE : 0009.jpg
+  NOTE : please let me be him
+
+FIRE
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : art
+  FILE : 0274.jpg
+
+FIRE LOOKOUT
+  TYPE : image
+  DATE : 2024-04-06
+  TAGS : place, straight vibes
+  FILE : 0152.jpg
+  NOTE : i doth declare that this is mine
+
+I AM WHO I AM, NOWHERE AM I MEANT TO BE ELSEWHERE
+  TYPE : image
+  DATE : 2024-06-26
+  TAGS : real
+  FILE : 0052.jpg
+
+OLD NEW FASHION
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : fits
+  FILE : 0014.jpg
+
+THE END
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : art
+  FILE : 0072.jpg
+  NOTE : it's not about the destination, it's the journey
+
+BIG TREE BRIDGE
+  TYPE : image
+  DATE : 2024-12-17
+  TAGS : place
+  FILE : 0209.jpg
+  NOTE : don't fall, health insurance will deny your claims
+
+RAT!
+  TYPE : image
+  DATE : 2025-01-01
+  TAGS : cat!
+  FILE : 0240.jpg
+  NOTE : i want a rat!
+
+CROW, BUT FASHIONABLE
+  TYPE : image
+  DATE : 2024-06-26
+  TAGS : real
+  FILE : 0056.jpg
+  NOTE : when will crows become mainstream fashion
+
+DREAM SURVEY
+  TYPE : image
+  DATE : 2024-09-22
+  TAGS : art, real
+  FILE : 0163.jpg
+  NOTE : what are dreams
+
+CAT AND GUITAR
+  TYPE : image
+  DATE : 2024-09-22
+  TAGS : cat!, straight vibes
+  FILE : 0114.jpg
+  NOTE : he has gone to prison in his past lives
+
+HAND ON CAT
+  TYPE : image
+  DATE : 2023-12-31
+  TAGS : cat!
+  FILE : 0093.jpg
+  NOTE : im corpse, got it tatted on my skin
+
+SWINGING
+  TYPE : image
+  DATE : 2024-12-17
+  TAGS : real, place
+  FILE : 0151.jpg
+  NOTE : swing your troubles away
+
+ART STUDENT
+  TYPE : image
+  DATE : 2024-12-17
+  TAGS : fits, hair, art
+  FILE : 0021.jpg
+
+VAMPIRE THREAT
+  TYPE : image
+  DATE : 2024-11-25
+  TAGS : hard, art
+  FILE : 0178.jpg
+  NOTE : welp
+
+ENJOY THE JOURNEY
+  TYPE : image
+  DATE : 2024-11-25
+  TAGS : art, real, cat!
+  FILE : 0189.jpg
+  NOTE : ??? journey is a band???
+
+RELIGIGIOUNSUSUS
+  TYPE : image
+  DATE : 2025-01-01
+  TAGS : real
+  FILE : 0229.jpg
+  NOTE : bill wurtz?! where'd you come from?!
+
+HOT BURNY STICK
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : hard, art, real
+  FILE : 0034.jpg
+  NOTE : this image goes hard, feel free to screenshot
 
 THE BOOK OF SECRET THINGS
   TYPE : image
@@ -783,452 +822,6 @@ THE FARLANDS
   FILE : 0183.jpg
   NOTE : let us appreciate that we're still here and thriving[citation needed]
 
-DON'T LET THE FEAR OUT
-  TYPE : image
-  DATE : 2025-01-01
-  TAGS : art, ???
-  FILE : 0219.jpg
-  NOTE : the fear WILL get you
-
-()
-  TYPE : image
-  DATE : 2025-01-01
-  TAGS : real
-  FILE : 0223.jpg
-  NOTE : aaaaaAAAAAAAAAAAAAAA
-
-COUPLE FOREVER
-  TYPE : image
-  DATE : 2024-06-26
-  TAGS : art, ily
-  FILE : 0047.png
-  NOTE : met in the finite, together for the infinite
-
-HOW DO YOU ACT
-  TYPE : image
-  DATE : 2025-01-01
-  TAGS : real
-  FILE : 0233.jpg
-
-FUCK ME
-  TYPE : image
-  DATE : 2024-11-25
-  TAGS : real
-  FILE : 0175.jpg
-  NOTE : god damnit not again jimmy
-
-PIANO
-  TYPE : image
-  DATE : 2024-06-26
-  TAGS : art
-  FILE : 0116.jpg
-  NOTE : ok so he's also on a fine line between bad and worse
-
-ANARCHISM 2
-  TYPE : image
-  DATE : 2025-01-31
-  TAGS : real
-  FILE : 0246.jpg
-  NOTE : turn to the edge
-
-HAIR GOALS
-  TYPE : image
-  DATE : 2024-02-25
-  TAGS : hair
-  FILE : 0130.jpg
-  NOTE : hair good, smoking bad
-
-SKELETON 1
-  TYPE : image
-  DATE : 2024-12-17
-  TAGS : ily
-  FILE : 0195.jpg
-  NOTE : and why should i?
-
-DREAM SURVEY
-  TYPE : image
-  DATE : 2024-09-22
-  TAGS : art, real
-  FILE : 0163.jpg
-  NOTE : what are dreams
-
-HAND ON CAT
-  TYPE : image
-  DATE : 2023-12-31
-  TAGS : cat!
-  FILE : 0093.jpg
-  NOTE : im corpse, got it tatted on my skin
-
-CULT LEADERS
-  TYPE : image
-  DATE : 2025-01-01
-  TAGS : art
-  FILE : 0236.jpg
-  NOTE : ... yes????
-
-THE CAVE
-  TYPE : image
-  DATE : 2024-12-17
-  TAGS : real, place, straight vibes
-  FILE : 0201.jpg
-  NOTE : i want to own an underground bar at some point
-
-TINY BOY
-  TYPE : image
-  DATE : 2024-01-01
-  TAGS : cat!
-  FILE : 0107.jpg
-  NOTE : no war crimes for you, you gotta go to bed!
-
-YOU KNOW CARELESS WHISPER?
-  TYPE : image
-  DATE : 2023-12-31
-  TAGS : hard, real, straight vibes
-  FILE : 0088.jpg
-  NOTE : "i used to play back in the day"
-
-I WANT BONES
-  TYPE : image
-  DATE : 2023-09-22
-  TAGS : ???, straight vibes
-  FILE : 0073.jpg
-  NOTE : mtv welcome to my crib
-
-FUCK YOU
-  TYPE : image
-  DATE : 2024-04-06
-  TAGS : hard, real, ily
-  FILE : 0141.jpg
-  NOTE : how i feel
-
-STICK
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : cat!
-  FILE : 0026.jpg
-  NOTE : pspspspspspspsps
-
-LOST
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : art, real
-  FILE : 0062.jpg
-  NOTE : you better go catch it!
-
-CAT AND GUITAR
-  TYPE : image
-  DATE : 2024-09-22
-  TAGS : cat!, straight vibes
-  FILE : 0114.jpg
-  NOTE : he has gone to prison in his past lives
-
-CUCK CHAIR
-  TYPE : image
-  DATE : 2025-01-31
-  TAGS : place
-  FILE : 0242.jpg
-  NOTE : god that cuck chair looks comfy
-
-IT IS WHAT IT IS
-  TYPE : image
-  DATE : 2024-12-17
-  TAGS : fits, ???
-  FILE : 0122.jpg
-  NOTE : perfect for someone like me
-
-THE NIGHT SKY
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : art, real
-  FILE : 0084.jpg
-  NOTE : this looks like a UFO but pop off
-
-KELLY NICHOLS
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : fits, hair, straight vibes
-  FILE : 0009.jpg
-  NOTE : please let me be him
-
-STARING AT MYSELF
-  TYPE : image
-  DATE : 2024-11-25
-  TAGS : hard, real, straight vibes
-  FILE : 0165.jpg
-  NOTE : is this real life
-
-CAT CAT CAT
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : cat!
-  FILE : 0077.jpg
-
-THE END
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : art
-  FILE : 0072.jpg
-  NOTE : it's not about the destination, it's the journey
-
-THERAPY
-  TYPE : image
-  DATE : 2025-01-01
-  TAGS : art, real
-  FILE : 0211.jpg
-
-CROW 2
-  TYPE : image
-  DATE : 2024-06-26
-  TAGS : hard, art
-  FILE : 0004.jpg
-
-BOOTS 2 - ROSE EDITION
-  TYPE : image
-  DATE : 2024-03-05
-  TAGS : fits, art
-  FILE : 0139.jpg
-
-GIRL
-  TYPE : image
-  DATE : 2024-09-22
-  TAGS : fits, hair
-  FILE : 0069.jpg
-  NOTE : this is my alter ego
-
-HUG
-  TYPE : image
-  DATE : 2024-06-26
-  TAGS : art, real, ily
-  FILE : 0000.jpg
-  NOTE : can i give someone a hug?
-
-BOOTS N FLOWERS
-  TYPE : image
-  DATE : 2024-06-08
-  TAGS : fits, straight vibes
-  FILE : 0154.jpg
-
-DARK HORSE
-  TYPE : image
-  DATE : 2024-04-06
-  TAGS : art
-  FILE : 0146.jpg
-  NOTE : dark horse, literally
-
-CAT 2 - ELECTRIC BOOGALOO
-  TYPE : image
-  DATE : 2023-12-31
-  TAGS : cat!
-  FILE : 0089.jpg
-  NOTE : where cat, i want
-
-THE BUS TO NOWHERE
-  TYPE : image
-  DATE : 2025-01-01
-  TAGS : ???
-  FILE : 0217.jpg
-  NOTE : $3 for a bus ride??? man inflation hit everybody
-
-UNDERWATER CHAIR
-  TYPE : image
-  DATE : 2024-09-22
-  TAGS : ???
-  FILE : 0160.jpg
-  NOTE : what he contemplatin down there?
-
-SO WHAT
-  TYPE : image
-  DATE : 2024-06-26
-  TAGS : art, ???
-  FILE : 0106.jpg
-  NOTE : so what
-
-CREEK
-  TYPE : image
-  DATE : 2024-12-23
-  TAGS : art
-  FILE : 0097.jpg
-  NOTE : "i never see you at the club" ok i never see you at the creek
-
-SENSITIVE CONTENT
-  TYPE : image
-  DATE : 2024-12-17
-  TAGS : real
-  FILE : 0022.jpg
-  NOTE : the inner machinations of my mind are an enigma
-
-SKELETON 2
-  TYPE : image
-  DATE : 2024-12-17
-  TAGS : ily
-  FILE : 0196.jpg
-  NOTE : ew, people
-
-TINIER HOUSE
-  TYPE : image
-  DATE : 2024-12-17
-  TAGS : place, straight vibes
-  FILE : 0202.jpg
-  NOTE : you could fit like 3 people in there
-
-ANIME BACKGROUND
-  TYPE : image
-  DATE : 2025-01-31
-  TAGS : place
-  FILE : 0251.jpg
-
-KAT
-  TYPE : image
-  DATE : 2024-09-22
-  TAGS : cat!
-  FILE : 0161.jpg
-  NOTE : cat!!!
-
-NO GOODBYE
-  TYPE : image
-  DATE : 2024-06-26
-  TAGS : art, ???
-  FILE : 0156.jpg
-  NOTE : my intended way of leaving
-
-CAPITALISM
-  TYPE : image
-  DATE : 2024-11-25
-  TAGS : ???
-  FILE : 0187.jpg
-  NOTE : more like crapitalism, am i right kids?
-
-GOALS OF GOALS
-  TYPE : image
-  DATE : 2024-02-25
-  TAGS : hair
-  FILE : 0134.jpg
-  NOTE : ok why is he so damn hot
-
-HOUSE WALKWAY
-  TYPE : image
-  DATE : 2025-01-31
-  TAGS : place, straight vibes
-  FILE : 0253.jpg
-  NOTE : "you hear a distant banging of a credit card on a table
-
-CENT PHOTOGRAPHS
-  TYPE : image
-  DATE : 2023-12-31
-  TAGS : cat!
-  FILE : 0092.jpg
-  NOTE : is he planning on destroying the world later with his newfound knowledge?
-
-NO DOOR
-  TYPE : image
-  DATE : 2025-01-01
-  TAGS : art
-  FILE : 0227.jpg
-  NOTE : NOooOOO
-
-COUPLE 3
-  TYPE : image
-  DATE : 2024-06-26
-  TAGS : art, ily
-  FILE : 0158.jpg
-  NOTE : hell yeah
-
-CROW, BUT FASHIONABLE
-  TYPE : image
-  DATE : 2024-06-26
-  TAGS : real
-  FILE : 0056.jpg
-  NOTE : when will crows become mainstream fashion
-
-UH-OH
-  TYPE : image
-  DATE : 2024-12-17
-  TAGS : art
-  FILE : 0177.jpg
-  NOTE : i accidentally almost didn't give a fuck
-
-I AM ENOUGH
-  TYPE : image
-  DATE : 2024-06-26
-  TAGS : art, real, ily
-  FILE : 0123.jpg
-  NOTE : i am kenough
-
-NATURE
-  TYPE : image
-  DATE : 2024-06-26
-  TAGS : art
-  FILE : 0031.jpg
-  NOTE : but how do you get there
-
-LEAVE IMMEDIATELY
-  TYPE : image
-  DATE : 2024-04-06
-  TAGS : art
-  FILE : 0147.jpg
-  NOTE : god damnit what did i do this time?
-
-MY KIND OF VIBES
-  TYPE : image
-  DATE : 2024-09-22
-  TAGS : hard, straight vibes
-  FILE : 0053.jpg
-  NOTE : who needs to be burned
-
-THE CHURCH (BUT A GOOD ONE)
-  TYPE : image
-  DATE : 2024-11-25
-  TAGS : ???
-  FILE : 0185.jpg
-
-HIM
-  TYPE : image
-  DATE : 2024-12-17
-  TAGS : ???
-  FILE : 0210.jpg
-  NOTE : me, whenever i walk into a room
-
-WE DIDN'T START THE FIRE
-  TYPE : image
-  DATE : 2023-12-31
-  TAGS : hard, ???
-  FILE : 0087.jpg
-
-IT WILL WORK
-  TYPE : image
-  DATE : 2024-12-17
-  TAGS : fits
-  FILE : 0016.jpg
-  NOTE : just give it time, it will work out
-
-TALL HOUSE
-  TYPE : image
-  DATE : 2024-01-01
-  TAGS : place, straight vibes
-  FILE : 0104.jpg
-  NOTE : can't have shit in detroit
-
-TREES
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : place, straight vibes
-  FILE : 0080.jpg
-  NOTE : where banana
-
-QUIET DOWN
-  TYPE : image
-  DATE : 2025-01-01
-  TAGS : ???
-  FILE : 0213.jpg
-  NOTE : they're running my autism test, i hope i pass!
-
-BRIDGE
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : hard, art, straight vibes
-  FILE : 0071.jpg
-  NOTE : hey so what bridges did you burn?
-
 CAT NUMBER WHATEVER
   TYPE : image
   DATE : 2025-01-31
@@ -1236,181 +829,26 @@ CAT NUMBER WHATEVER
   FILE : 0250.jpg
   NOTE : this is something deeper within me i need to talk about
 
-DO YOU RECOGNIZE THIS MAN
+THE END?
   TYPE : image
   DATE : 2025-01-01
-  TAGS : art, ???
-  FILE : 0215.jpg
-  NOTE : i do too
+  TAGS : art
+  FILE : 0235.jpg
+  NOTE : achievement get!
 
-HOMOSEXUAL TENDENCIES
+FACELESS
   TYPE : image
-  DATE : 2024-11-25
-  TAGS : hard, art
-  FILE : 0191.jpg
-  NOTE : H O M O S E X U A L   T E N D E N C I E S
+  DATE : 2023-12-17
+  TAGS : art
+  FILE : 0042.jpg
+  NOTE : it's all just a burning memory
 
-HEELS
+SWING
   TYPE : image
   DATE : 2024-01-01
-  TAGS : fits
-  FILE : 0002.jpg
-  NOTE : i wanna wear heels, but i'm 6'3" (who's gonna stop you tho)
-
-WAIT THERE'S 2
-  TYPE : image
-  DATE : 2023-12-31
-  TAGS : real, cat!
-  FILE : 0090.jpg
-  NOTE : we can now condclude that there are at least two (2) cats in the world
-
-COMPARISON DESTROYS PERSONALITY
-  TYPE : image
-  DATE : 2024-06-26
-  TAGS : real, ily
-  FILE : 0048.jpg
-  NOTE : i don't know why people would openly compare themselves to others like this, but i used to do it so i'm not one to judge
-
-ME_IRL
-  TYPE : image
-  DATE : 2023-12-31
-  TAGS : hard, art, real, cat!
-  FILE : 0099.jpg
-  NOTE : come børther, ṕïzzã awaits
-
-I DRINK TO FORGOR
-  TYPE : image
-  DATE : 2025-01-01
-  TAGS : hard, fits, real
-  FILE : 0225.jpg
-  NOTE : me
-
-THE CITY OF DEPRESSION & SAdNESS
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : art
-  FILE : 0083.jpg
-  NOTE : there's a town here now
-
-FASHION 1
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : fits
-  FILE : 0001.jpg
-  NOTE : true non-binary fashion
-
-BE GAY! HATE COPS!
-  TYPE : image
-  DATE : 2025-01-01
-  TAGS : hard
-  FILE : 0220.jpg
-  NOTE : cops are definitely some of the people of all time
-
-HAIR
-  TYPE : image
-  DATE : 2024-12-17
-  TAGS : hair
-  FILE : 0204.jpg
-  NOTE : are you a dog by chance? because you and dogs both love sticking their heads out of windows
-
-HAIR HAIR HAIR
-  TYPE : image
-  DATE : 2023-12-31
-  TAGS : hair
-  FILE : 0091.jpg
-  NOTE : yes i know it's a girl's hair, shush
-
-EEPY BOY
-  TYPE : image
-  DATE : 2024-02-25
-  TAGS : cat!
-  FILE : 0132.jpg
-  NOTE : eepy boy
-
-LANTERN
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : art
-  FILE : 0030.jpg
-
-ICELANDIC FJORD
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : place, straight vibes
-  FILE : 0050.jpg
-
-COUPLE
-  TYPE : image
-  DATE : 2024-06-26
-  TAGS : ily
-  FILE : 0035.jpg
-
-STATUE
-  TYPE : image
-  DATE : 2025-01-31
-  TAGS : art
-  FILE : 0252.jpg
-
-CHUCK SHULDINER
-  TYPE : image
-  DATE : 2024-02-25
-  TAGS : fits, hair, real, straight vibes
-  FILE : 0133.jpg
-  NOTE : rest in pepperoni
-
-DEAL WITH IT
-  TYPE : image
-  DATE : 2024-06-26
-  TAGS : art
-  FILE : 0028.jpg
-  NOTE : i imagine people sitting next to me on the airplane this way
-
-WAR
-  TYPE : image
-  DATE : 2024-04-06
-  TAGS : hard
-  FILE : 0143.jpg
-  NOTE : what is it good for!?
-
-BURNING ROSES
-  TYPE : image
-  DATE : 2025-01-01
-  TAGS : hard
-  FILE : 0214.jpg
-  NOTE : i swear i have this image somewhere
-
-TRAIN 2.0
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : place, straight vibes
-  FILE : 0079.jpg
-  NOTE : the road has worked so far
-
-GIBBERISH
-  TYPE : image
-  DATE : 2024-06-26
-  TAGS : art
-  FILE : 0037.jpg
-  NOTE : i don't understand your mind either
-
-FAKE NOSTALGIA
-  TYPE : image
-  DATE : 2023-12-17
-  TAGS : straight vibes
-  FILE : 0058.jpg
-
-ME__IRL
-  TYPE : image
-  DATE : 2024-09-22
-  TAGS : art, straight vibes
-  FILE : 0164.jpg
-
-DAZED AND CONFUSED
-  TYPE : image
-  DATE : 2024-12-17
-  TAGS : art
-  FILE : 0198.jpg
-  NOTE : i swore i had this image before
+  TAGS : hard, art, real, ???
+  FILE : 0119.jpg
+  NOTE : do you know the muffin man?
 
 CICADA
   TYPE : image
@@ -1419,73 +857,25 @@ CICADA
   FILE : 0105.jpg
   NOTE : this definitely isn't a metaphor for life
 
-ASTRAL PROJECTION
+EEPY BOY
   TYPE : image
-  DATE : 2024-06-26
-  TAGS : art, real, ???
-  FILE : 0007.jpg
-  NOTE : hehehe, i do that.
+  DATE : 2024-02-25
+  TAGS : cat!
+  FILE : 0132.jpg
+  NOTE : eepy boy
 
-SHOWER THOUGHTS
+STATUE
   TYPE : image
-  DATE : 2024-06-26
-  TAGS : art, real, ???
-  FILE : 0159.jpg
-  NOTE : ooh lawd he thicc
+  DATE : 2025-01-31
+  TAGS : art
+  FILE : 0252.jpg
 
-OLD NEW FASHION
+MR FUNNY BONES HAS COMMITED WAR CRIMES
   TYPE : image
   DATE : 2023-12-17
-  TAGS : fits
-  FILE : 0014.jpg
-
-RAT!
-  TYPE : image
-  DATE : 2025-01-01
-  TAGS : cat!
-  FILE : 0240.jpg
-  NOTE : i want a rat!
-
-PICTURE 5
-  TYPE : image
-  DATE : 2025-01-31
-  TAGS : real, ily, me?
-  FILE : 0248.jpg
-  NOTE : the fact that there are now *eight* pictures of girls taking pictures of me should say something
-
-NOT THE STRING
-  TYPE : image
-  DATE : 2025-01-31
-  TAGS : ???
-  FILE : 0247.jpg
-  NOTE : please do not the string; also who the fuck is this artist
-
-CONSIDER THE FOLLOWING
-  TYPE : image
-  DATE : 2024-06-26
-  TAGS : art
-  FILE : 0086.jpg
-
-L'APPEL DU VIDE
-  TYPE : image
-  DATE : 2025-01-01
-  TAGS : art
-  FILE : 0230.jpg
-  NOTE : my new catchphrase
-
-PICTURE 4
-  TYPE : image
-  DATE : 2024-09-22
-  TAGS : real, ily, me?
-  FILE : 0085.jpg
-  NOTE : i said smile, you fucking idiot
-
-GUN?!?!?!?
-  TYPE : image
-  DATE : 2024-11-25
-  TAGS : art, real
-  FILE : 0181.jpg
-  NOTE : a gun? in my christian minecraft server?
+  TAGS : hard, real
+  FILE : 0040.jpg
+  NOTE : OH NO MR FUNNY BONES WHAT HAVE YOU DONE
 
 MAP
   TYPE : image
@@ -1494,51 +884,72 @@ MAP
   FILE : 0157.jpg
   NOTE : where does it lead to
 
+THE SPOT OF
+  TYPE : image
+  DATE : 2024-11-25
+  TAGS : straight vibes
+  FILE : 0166.jpg
+  NOTE : how much to buy
+
+BALCONY
+  TYPE : image
+  DATE : 2024-12-17
+  TAGS : art, place
+  FILE : 0076.jpg
+  NOTE : yooooooo
+
+ARMOR
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : art, place, straight vibes
+  FILE : 0261.jpg
+  NOTE : what i wouldn't give for this
+
+I HAVE ISSUES
+  TYPE : image
+  DATE : 2024-11-25
+  TAGS : real
+  FILE : 0176.jpg
+
+HIM
+  TYPE : image
+  DATE : 2024-12-17
+  TAGS : ???
+  FILE : 0210.jpg
+  NOTE : me, whenever i walk into a room
+
+TRAFFIC CONE
+  TYPE : image
+  DATE : 2024-12-17
+  TAGS : hard, straight vibes
+  FILE : 0010.jpg
+  NOTE : what up fellow teenagers
+
+GUN?!?!?!?
+  TYPE : image
+  DATE : 2024-11-25
+  TAGS : art, real
+  FILE : 0181.jpg
+  NOTE : a gun? in my christian minecraft server?
+
 R/IAM14ANDTHISISDEEP
   TYPE : image
   DATE : 2023-12-17
   TAGS : art, real
   FILE : 0061.jpg
 
-LAKE DEPRESSION AND SADNESS
+ME AND WHO
   TYPE : image
-  DATE : 2023-12-17
-  TAGS : place, ???
-  FILE : 0054.jpg
-  NOTE : actually the name of this lake
+  DATE : 2024-01-01
+  TAGS : art, ???
+  FILE : 0127.jpg
 
-RELIGIGIOUNSUSUS
-  TYPE : image
-  DATE : 2025-01-01
-  TAGS : real
-  FILE : 0229.jpg
-  NOTE : bill wurtz?! where'd you come from?!
-
-CAT BUT MAJESTIC
+CATS WITHOUT BOOTS
   TYPE : image
   DATE : 2023-12-17
   TAGS : cat!
-  FILE : 0025.jpg
-
-HELP
-  TYPE : image
-  DATE : 2024-06-26
-  TAGS : real
-  FILE : 0112.jpg
-  NOTE : let me out let me out let me out let me out LET ME OUT LET ME OUT LET ME OUT LET ME OUT
-
-INVISIBILITY
-  TYPE : image
-  DATE : 2024-06-26
-  TAGS : art, ???
-  FILE : 0098.jpg
-
-COOL HAIR
-  TYPE : image
-  DATE : 2025-01-01
-  TAGS : hair
-  FILE : 0234.jpg
-  NOTE : too much exestential dread in here, fun hair post
+  FILE : 0024.jpg
+  NOTE : one of the cats that i WILL steal at one point
 
 BIRCH TREES
   TYPE : image
@@ -1547,53 +958,38 @@ BIRCH TREES
   FILE : 0055.jpg
   NOTE : minecraft led me to think these were thicker
 
-FASHION TO THE MAX
-  TYPE : image
-  DATE : 2024-01-01
-  TAGS : fits
-  FILE : 0111.jpg
-  NOTE : ok but like she's so pretty?!?!?!
-
-FACELESSS
-  TYPE : image
-  DATE : 2025-01-01
-  TAGS : art
-  FILE : 0238.jpg
-  NOTE : thanos snapped out of existence
-
-COUCH
-  TYPE : image
-  DATE : 2024-11-25
-  TAGS : real, place, straight vibes
-  FILE : 0186.jpg
-  NOTE : that couch looks so comfy
-
-SATAN
-  TYPE : image
-  DATE : 2025-01-01
-  TAGS : art
-  FILE : 0232.jpg
-  NOTE : i feel called out
-
-I HAVE ISSUES
-  TYPE : image
-  DATE : 2024-11-25
-  TAGS : real
-  FILE : 0176.jpg
-
-I DON'T EXIST
+I WANT YOU
   TYPE : image
   DATE : 2024-11-25
   TAGS : ???
-  FILE : 0174.jpg
-  NOTE : and neither do you
+  FILE : 0167.jpg
+  NOTE : come join!
 
-RECORD SHOP
+COUPLE
+  TYPE : image
+  DATE : 2024-06-26
+  TAGS : ily
+  FILE : 0035.jpg
+
+I DON'T KNOW
+  TYPE : image
+  DATE : 2024-11-25
+  TAGS : hard, ???
+  FILE : 0170.jpg
+  NOTE : jeremy, we've been over this
+
+THE HANGED MAN
   TYPE : image
   DATE : 2024-12-17
-  TAGS : fits, place
-  FILE : 0203.jpg
-  NOTE : true vibes
+  TAGS : real, fits
+  FILE : 0013.jpg
+
+CAT CAT CAT CAT CAT
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : cat!
+  FILE : 0265.jpg
+  NOTE : such a good boy
 
 THIS IS A FILM ABOUT YOU
   TYPE : image
@@ -1601,46 +997,110 @@ THIS IS A FILM ABOUT YOU
   TAGS : art, ???
   FILE : 0243.jpg
 
-FASHION 3
+SUNDAY NIGHTS
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : hard, art
+  FILE : 0254.jpg
+
+CREEK
+  TYPE : image
+  DATE : 2024-12-23
+  TAGS : art
+  FILE : 0097.jpg
+  NOTE : "i never see you at the club" ok i never see you at the creek
+
+FAKE NOSTALGIA
   TYPE : image
   DATE : 2023-12-17
-  TAGS : fits, hair
-  FILE : 0018.jpg
+  TAGS : straight vibes
+  FILE : 0058.jpg
 
-MAGIC? WHAT'S THAT
+ME_IRL
   TYPE : image
-  DATE : 2024-06-26
-  TAGS : art
-  FILE : 0074.jpg
-  NOTE : open your third eye, you can see everyone else's third eye
+  DATE : 2023-12-31
+  TAGS : hard, art, real, cat!
+  FILE : 0099.jpg
+  NOTE : come børther, ṕïzzã awaits
 
-BED NOOK
+WIZARD GUN
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : art, ???
+  FILE : 0269.jpg
+
+COUPLE A
+  TYPE : image
+  DATE : 2024-02-25
+  TAGS : fits, ily
+  FILE : 0136.jpg
+  NOTE : when can i get confidence to do this
+
+SIGNS
+  TYPE : image
+  DATE : 2025-01-01
+  TAGS : fits
+  FILE : 0237.jpg
+
+HEAD SCRATCHIES
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : cat!, ily
+  FILE : 0264.jpg
+  NOTE : headpats are the 6th love language
+
+SKELETON 1
   TYPE : image
   DATE : 2024-12-17
-  TAGS : place, ily
-  FILE : 0118.jpg
-  NOTE : how does one get to the point of owning this
+  TAGS : ily
+  FILE : 0195.jpg
+  NOTE : and why should i?
 
-RED RED RED RED
+THERAPY
   TYPE : image
-  DATE : 2024-11-25
-  TAGS : art, ily
-  FILE : 0169.jpg
-  NOTE : just one kiss
+  DATE : 2025-01-01
+  TAGS : art, real
+  FILE : 0211.jpg
 
-THE SPOT OF
+WASHINGTON?
   TYPE : image
-  DATE : 2024-11-25
-  TAGS : straight vibes
-  FILE : 0166.jpg
-  NOTE : how much to buy
+  DATE : 2023-12-17
+  TAGS : place, straight vibes
+  FILE : 0057.jpg
+  NOTE : true spot
 
-HEED THE INSTRUCTIONS
+CAT CAT CAT
   TYPE : image
-  DATE : 2024-01-01
-  TAGS : real
-  FILE : 0101.jpg
-  NOTE : well, there goes my afternoon plans
+  DATE : 2023-12-17
+  TAGS : cat!
+  FILE : 0077.jpg
+
+NO COKE IN THE BATHROOM
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : place
+  FILE : 0273.jpg
+  NOTE : they put that sign up because of me, i think
+
+BURNING ROSES
+  TYPE : image
+  DATE : 2025-01-01
+  TAGS : hard
+  FILE : 0214.jpg
+  NOTE : i swear i have this image somewhere
+
+INVISIBILITY
+  TYPE : image
+  DATE : 2024-06-26
+  TAGS : art, ???
+  FILE : 0098.jpg
+
+BRAIN RESET
+  TYPE : image
+  DATE : 2024-06-26
+  TAGS : hair, art, ily
+  FILE : 0006.jpg
+  NOTE : we all need a brain reset sometimes
 
 ANXIETY IS POINTLESS
   TYPE : image
@@ -1649,18 +1109,415 @@ ANXIETY IS POINTLESS
   FILE : 0003.jpg
   NOTE : heh, you think that's going to prevent me from having anxiety
 
-MOTIVATIONAL QUOTE
-  TYPE : image
-  DATE : 2024-09-22
-  TAGS : straight vibes
-  FILE : 0155.jpg
-
-WHITE CAT
+THE CAVE
   TYPE : image
   DATE : 2024-12-17
+  TAGS : real, place, straight vibes
+  FILE : 0201.jpg
+  NOTE : i want to own an underground bar at some point
+
+TRAFFIC CONE 3
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : ???
+  FILE : 0270.jpg
+  NOTE : don't talk to me or my son ever again
+
+STICK
+  TYPE : image
+  DATE : 2023-12-17
   TAGS : cat!
-  FILE : 0207.jpg
-  NOTE : petpetpetpetpet
+  FILE : 0026.jpg
+  NOTE : pspspspspspspsps
+
+FACELESSS
+  TYPE : image
+  DATE : 2025-01-01
+  TAGS : art
+  FILE : 0238.jpg
+  NOTE : thanos snapped out of existence
+
+I AM ENOUGH
+  TYPE : image
+  DATE : 2024-06-26
+  TAGS : art, real, ily
+  FILE : 0123.jpg
+  NOTE : i am kenough
+
+COUPLE B
+  TYPE : image
+  DATE : 2024-02-25
+  TAGS : fits, ily
+  FILE : 0135.jpg
+
+PICTURE 5
+  TYPE : image
+  DATE : 2025-01-31
+  TAGS : fits, real, ily, me?
+  FILE : 0248.jpg
+  NOTE : the fact that there are now *eight* pictures of girls taking pictures of me should say something
+
+MAGIC? WHAT'S THAT
+  TYPE : image
+  DATE : 2024-06-26
+  TAGS : art
+  FILE : 0074.jpg
+  NOTE : open your third eye, you can see everyone else's third eye
+
+NEW VACATION SPOT
+  TYPE : image
+  DATE : 2024-09-22
+  TAGS : real
+  FILE : 0117.jpg
+  NOTE : my kind of vacation
+
+CANDLE BULB
+  TYPE : image
+  DATE : 2024-11-25
+  TAGS : art
+  FILE : 0182.jpg
+  NOTE : oh no he's gonna go out!
+
+ANARCHISM 2
+  TYPE : image
+  DATE : 2025-01-31
+  TAGS : real
+  FILE : 0246.jpg
+  NOTE : turn to the edge
+
+HOUSE WALKWAY
+  TYPE : image
+  DATE : 2025-01-31
+  TAGS : place, straight vibes
+  FILE : 0253.jpg
+  NOTE : "you hear a distant banging of a credit card on a table
+
+INSTANT GRATIFICATION MONKEY
+  TYPE : image
+  DATE : 2024-06-26
+  TAGS : ???
+  FILE : 0124.jpg
+  NOTE : ooh ooh aah aah
+
+NOT THE STRING
+  TYPE : image
+  DATE : 2025-01-31
+  TAGS : ???
+  FILE : 0247.jpg
+  NOTE : please do not the string; also who the fuck is this artist
+
+TRAFFIC CONE 2
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : ???
+  FILE : 0258.jpg
+
+BOOTS N FLOWERS
+  TYPE : image
+  DATE : 2024-06-08
+  TAGS : fits, straight vibes
+  FILE : 0154.jpg
+
+ARE YOU STRANGE?
+  TYPE : image
+  DATE : 2024-06-26
+  TAGS : ???
+  FILE : 0012.jpg
+
+WIZARD FIELD
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : art, fits, ???
+  FILE : 0268.jpg
+  NOTE : "come now, you have violated the law!"
+
+THE NIGHT SKY
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : art, real
+  FILE : 0084.jpg
+  NOTE : this looks like a UFO but pop off
+
+NON-EUCLIDEAN SPACE
+  TYPE : image
+  DATE : 2024-06-26
+  TAGS : ???
+  FILE : 0096.jpg
+  NOTE : aw man, not again
+
+MR FUNNY BONES
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : hard, real
+  FILE : 0038.jpg
+
+BOOTS 2 - ROSE EDITION
+  TYPE : image
+  DATE : 2024-03-05
+  TAGS : fits, art
+  FILE : 0139.jpg
+
+ANIME BACKGROUND
+  TYPE : image
+  DATE : 2025-01-31
+  TAGS : place
+  FILE : 0251.jpg
+
+DEATHCONSCIOUSNESS
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : hard
+  FILE : 0036.jpg
+  NOTE : rock fucking solid
+
+SHOPPING CART ON THE POLE
+  TYPE : image
+  DATE : 2024-04-06
+  TAGS : hard, real
+  FILE : 0150.jpg
+  NOTE : SHOPPING CART ON THE POLE
+
+PICTURE 2
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : real, ily, me?
+  FILE : 0044.jpg
+  NOTE : i think i opened my eyes can you take it again?
+
+THE HAIR IS HAIRING
+  TYPE : image
+  DATE : 2025-01-31
+  TAGS : hair
+  FILE : 0245.jpg
+  NOTE : the hair is indeed hairing
+
+DO YOU RECOGNIZE THIS MAN
+  TYPE : image
+  DATE : 2025-01-01
+  TAGS : art, ???
+  FILE : 0215.jpg
+  NOTE : i do too
+
+PERFECT CAT
+  TYPE : image
+  DATE : 2024-01-01
+  TAGS : art, cat!
+  FILE : 0113.jpg
+  NOTE : if perfect exists, it's right fucking here
+
+RECORD SHOP
+  TYPE : image
+  DATE : 2024-12-17
+  TAGS : fits, place
+  FILE : 0203.jpg
+  NOTE : true vibes
+
+WAFFLE HOUSE
+  TYPE : image
+  DATE : 2024-11-25
+  TAGS : hard, art, real, ???
+  FILE : 0184.jpg
+  NOTE : legendairy
+
+WHO AM I IN SOLITUDE
+  TYPE : image
+  DATE : 2025-01-01
+  TAGS : real
+  FILE : 0228.jpg
+  NOTE : damn this hits
+
+WOAH
+  TYPE : image
+  DATE : 2024-06-26
+  TAGS : real, straight vibes
+  FILE : 0067.jpg
+  NOTE : fuck around and find out
+
+ANCIENT WIZARD MOUNTAINS
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : art, straight vibes
+  FILE : 0271.jpg
+
+STREET SIGN
+  TYPE : image
+  DATE : 2023-06-26
+  TAGS : place, ???
+  FILE : 0046.jpg
+  NOTE : he's on a fine line between crazy and genius
+
+HOMOSEXUAL TENDENCIES
+  TYPE : image
+  DATE : 2024-11-25
+  TAGS : hard, art
+  FILE : 0191.jpg
+  NOTE : H O M O S E X U A L   T E N D E N C I E S
+
+THE CITY OF DEPRESSION & SAdNESS
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : art
+  FILE : 0083.jpg
+  NOTE : there's a town here now
+
+CAT READING THE BOOK
+  TYPE : image
+  DATE : 2023-12-31
+  TAGS : cat!
+  FILE : 0095.jpg
+  NOTE : he's definitely trying to sell me something
+
+COLLEGE 1808
+  TYPE : image
+  DATE : 2024-12-17
+  TAGS : place
+  FILE : 0208.jpg
+  NOTE : of course there's a class on this
+
+ROAD
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : place
+  FILE : 0051.jpg
+  NOTE : put those grippers away
+
+RED RED RED RED
+  TYPE : image
+  DATE : 2024-11-25
+  TAGS : art, ily
+  FILE : 0169.jpg
+  NOTE : just one kiss
+
+SILENT TREATMENT
+  TYPE : image
+  DATE : 2024-06-26
+  TAGS : real
+  FILE : 0005.jpg
+  NOTE : bro just say no
+
+CONSIDER THE FOLLOWING
+  TYPE : image
+  DATE : 2024-06-26
+  TAGS : art
+  FILE : 0086.jpg
+
+DEMONS
+  TYPE : image
+  DATE : 2024-11-25
+  TAGS : real
+  FILE : 0193.jpg
+  NOTE : they're like bears, scary from one side but big sweethearts once they get to know you
+
+CUCK CHAIR
+  TYPE : image
+  DATE : 2025-01-31
+  TAGS : place
+  FILE : 0242.jpg
+  NOTE : god that cuck chair looks comfy
+
+COOL GRAFITI
+  TYPE : image
+  DATE : 2024-12-17
+  TAGS : real
+  FILE : 0200.jpg
+
+TINY HOUSE
+  TYPE : image
+  DATE : 2024-12-17
+  TAGS : place
+  FILE : 0029.jpg
+  NOTE : dream house
+
+COUCH
+  TYPE : image
+  DATE : 2024-11-25
+  TAGS : real, place, straight vibes
+  FILE : 0186.jpg
+  NOTE : that couch looks so comfy
+
+ASTRAL PROJECTION
+  TYPE : image
+  DATE : 2024-06-26
+  TAGS : art, real, ???
+  FILE : 0007.jpg
+  NOTE : hehehe, i do that.
+
+PAYPHONE
+  TYPE : image
+  DATE : 2024-06-08
+  TAGS : real, place, straight vibes
+  FILE : 0153.jpg
+  NOTE : *ring ring*
+
+RECORD SHOP 2
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : place, straight vibes
+  FILE : 0267.jpg
+  NOTE : i still haven't gone to a record shop
+
+TINY BOY
+  TYPE : image
+  DATE : 2024-01-01
+  TAGS : cat!
+  FILE : 0107.jpg
+  NOTE : no war crimes for you, you gotta go to bed!
+
+QUIET DOWN
+  TYPE : image
+  DATE : 2025-01-01
+  TAGS : ???
+  FILE : 0213.jpg
+  NOTE : they're running my autism test, i hope i pass!
+
+DARK HORSE
+  TYPE : image
+  DATE : 2024-04-06
+  TAGS : art
+  FILE : 0146.jpg
+  NOTE : dark horse, literally
+
+I WANT BONES
+  TYPE : image
+  DATE : 2023-09-22
+  TAGS : ???, straight vibes
+  FILE : 0073.jpg
+  NOTE : mtv welcome to my crib
+
+RUH-ROH
+  TYPE : image
+  DATE : 2024-09-22
+  TAGS : art, real, ???
+  FILE : 0144.jpg
+  NOTE : scoob! i told you not to touch that!
+
+NO DOOR
+  TYPE : image
+  DATE : 2025-01-01
+  TAGS : art
+  FILE : 0227.jpg
+  NOTE : NOooOOO
+
+RECORDS 2
+  TYPE : image
+  DATE : 2025-01-31
+  TAGS : place, straight vibes
+  FILE : 0249.jpg
+  NOTE : disclaimer: i do not own a record or a vinyl player
+
+TALL BUILDING
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : place
+  FILE : 0256.jpg
+  NOTE : yes, this is a real place
+
+MORE PICTURE 
+  TYPE : image
+  DATE : 2024-12-17
+  TAGS : real, ily, me?
+  FILE : 0199.jpg
+  NOTE : stop that, you
 
 MORE PICTURE 2
   TYPE : image
@@ -1669,31 +1526,314 @@ MORE PICTURE 2
   FILE : 0218.jpg
   NOTE : why are there so many people taking pictures of me
 
-RED DOOR
+TINIER HOUSE
+  TYPE : image
+  DATE : 2024-12-17
+  TAGS : place, straight vibes
+  FILE : 0202.jpg
+  NOTE : you could fit like 3 people in there
+
+I LOVE YOU
+  TYPE : image
+  DATE : 2024-01-01
+  TAGS : ily
+  FILE : 0110.jpg
+  NOTE : ily <3
+
+POETRY AND ANARCHISM
   TYPE : image
   DATE : 2025-01-01
   TAGS : art
-  FILE : 0239.jpg
-  NOTE : imagine piss was yellow instead of red
+  FILE : 0222.jpg
 
-TATTOOS
+FANTASY FIELD
   TYPE : image
-  DATE : 2024-03-05
-  TAGS : art, straight vibes
-  FILE : 0137.jpg
+  DATE : 2025-02-17
+  TAGS : fits, hair, art, place
+  FILE : 0263.jpg
 
-COOL GRAFITI
+IT WILL WORK
   TYPE : image
   DATE : 2024-12-17
-  TAGS : real
-  FILE : 0200.jpg
+  TAGS : fits
+  FILE : 0016.jpg
+  NOTE : just give it time, it will work out
 
-BE YOURSELF
+FREE NUMBERS
+  TYPE : image
+  DATE : 2025-01-01
+  TAGS : ???
+  FILE : 0212.jpg
+  NOTE : i love free things!
+
+CROW 2
+  TYPE : image
+  DATE : 2024-06-26
+  TAGS : hard, art
+  FILE : 0004.jpg
+
+BE GAY! HATE COPS!
+  TYPE : image
+  DATE : 2025-01-01
+  TAGS : hard
+  FILE : 0220.jpg
+  NOTE : cops are definitely some of the people of all time
+
+WHITE CAT
+  TYPE : image
+  DATE : 2024-12-17
+  TAGS : cat!
+  FILE : 0207.jpg
+  NOTE : petpetpetpetpet
+
+A JOURNEY WITH NO DESTINATION
   TYPE : image
   DATE : 2024-11-25
-  TAGS : art, straight vibes
-  FILE : 0190.jpg
-  NOTE : do what excites
+  TAGS : art, real, cat!
+  FILE : 0171.jpg
+  NOTE : onto chapter 334 of life™
+
+WELL?
+  TYPE : image
+  DATE : 2024-09-22
+  TAGS : art
+  FILE : 0045.jpg
+  NOTE : are you?
+
+SOULS 4 SALE !
+  TYPE : image
+  DATE : 2025-01-01
+  TAGS : ???
+  FILE : 0226.jpg
+  NOTE : BOILED P-NUTS FOR SALE
+
+BAD MEMORIES
+  TYPE : image
+  DATE : 2024-12-17
+  TAGS : real, ily
+  FILE : 0011.jpg
+
+SKATER
+  TYPE : image
+  DATE : 2024-12-17
+  TAGS : fits
+  FILE : 0126.jpg
+
+LOST
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : art, real
+  FILE : 0062.jpg
+  NOTE : you better go catch it!
+
+LOVE LOVE LOVE
+  TYPE : image
+  DATE : 2024-11-25
+  TAGS : art, cat!, ily
+  FILE : 0172.jpg
+
+PURCHASE MY SILENCE
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : straight vibes
+  FILE : 0272.jpg
+  NOTE : *disclaimer: i will not stop
+
+WAR
+  TYPE : image
+  DATE : 2024-04-06
+  TAGS : hard
+  FILE : 0143.jpg
+  NOTE : what is it good for!?
+
+YOU ARE NOT IMMUNE TO PROPOGANDA
+  TYPE : image
+  DATE : 2024-06-26
+  TAGS : real
+  FILE : 0017.jpg
+
+MOUNT DEPRESSION AND SADNESS
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : place, straight vibes
+  FILE : 0059.jpg
+  NOTE : named after the lake
+
+SEXXX
+  TYPE : image
+  DATE : 2025-01-01
+  TAGS : art
+  FILE : 0231.jpg
+
+MY AUTOBIOGRAPHY
+  TYPE : image
+  DATE : 2024-01-01
+  TAGS : real, straight vibes
+  FILE : 0129.jpg
+  NOTE : can i just like... y'know...?
+
+HAIR
+  TYPE : image
+  DATE : 2024-12-17
+  TAGS : hair
+  FILE : 0204.jpg
+  NOTE : are you a dog by chance? because you and dogs both love sticking their heads out of windows
+
+BLACK HOLE
+  TYPE : image
+  DATE : 2024-11-25
+  TAGS : real, art
+  FILE : 0173.jpg
+  NOTE : "when you breathe in and hold it, you lose your breath; if you let it go, it comes back to you; if you want life, don't cling to it"
+
+GOALS OF GOALS
+  TYPE : image
+  DATE : 2024-02-25
+  TAGS : hair
+  FILE : 0134.jpg
+  NOTE : ok why is he so damn hot
+
+BRIDGE
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : hard, art, straight vibes
+  FILE : 0071.jpg
+  NOTE : hey so what bridges did you burn?
+
+FASHION TO THE MAX
+  TYPE : image
+  DATE : 2024-01-01
+  TAGS : fits
+  FILE : 0111.jpg
+  NOTE : ok but like she's so pretty?!?!?!
+
+COUPLE FOREVER
+  TYPE : image
+  DATE : 2024-06-26
+  TAGS : art, ily
+  FILE : 0047.png
+  NOTE : met in the finite, together for the infinite
+
+TRAIN ON FIRE
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : place, straight vibes
+  FILE : 0049.jpg
+
+DORK ROOM
+  TYPE : image
+  DATE : 2024-09-22
+  TAGS : art
+  FILE : 0162.jpg
+  NOTE : dark room? more like dork room amirite kids?
+
+WHITE HUMAN ANGEL?
+  TYPE : image
+  DATE : 2024-01-01
+  TAGS : art, real, ???
+  FILE : 0128.jpg
+  NOTE : achievement get: how did we get here?
+
+I NEED LOVE
+  TYPE : image
+  DATE : 2024-06-26
+  TAGS : art, real
+  FILE : 0121.jpg
+
+HEADPAT
+  TYPE : image
+  DATE : 2025-01-31
+  TAGS : cat!, ily
+  FILE : 0241.jpg
+  NOTE : the best relationship
+
+PICTURE NUMBER WHATEVER
+  TYPE : image
+  DATE : 2024-12-17
+  TAGS : real, ily, me?
+  FILE : 0075.jpg
+  NOTE : why do people keep taking pictures of me
+
+SO WHAT
+  TYPE : image
+  DATE : 2024-06-26
+  TAGS : art, ???
+  FILE : 0106.jpg
+  NOTE : so what
+
+I WANT ANSEWERES
+  TYPE : image
+  DATE : 2025-01-01
+  TAGS : art
+  FILE : 0224.jpg
+  NOTE : misspelled on purpose!
+
+UNDERWATER CHAIR
+  TYPE : image
+  DATE : 2024-09-22
+  TAGS : ???
+  FILE : 0160.jpg
+  NOTE : what he contemplatin down there?
+
+CAT BUT MAJESTIC
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : cat!
+  FILE : 0025.jpg
+
+LAKE
+  TYPE : image
+  DATE : 2025-02-17
+  TAGS : hard
+  FILE : 0275.jpg
+  NOTE : fighting away the demons and je-hesus himself
+
+
+MOTIVATIONAL QUOTE
+  TYPE : image
+  DATE : 2024-09-22
+  TAGS : straight vibes
+  FILE : 0155.jpg
+
+DEAL WITH IT
+  TYPE : image
+  DATE : 2024-06-26
+  TAGS : art
+  FILE : 0028.jpg
+  NOTE : i imagine people sitting next to me on the airplane this way
+
+FASHION 3
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : fits, hair
+  FILE : 0018.jpg
+
+REALITY
+  TYPE : image
+  DATE : 2024-06-26
+  TAGS : art
+  FILE : 0070.jpg
+  NOTE : time is a social construct, don't believe it - ethan nestor
+
+ME_IRL_IRL
+  TYPE : image
+  DATE : 2024-01-01
+  TAGS : hard, real
+  FILE : 0109.jpg
+  NOTE : i need to carry one of these things around
+
+HUG
+  TYPE : image
+  DATE : 2024-06-26
+  TAGS : art, real, ily
+  FILE : 0000.jpg
+  NOTE : can i give someone a hug?
+
+I AM BECOME DEATH, DESTROYER OF WORLDS
+  TYPE : image
+  DATE : 2023-12-17
+  TAGS : hard, art, real
+  FILE : 0027.jpg
 
 ROSE
   TYPE : image
@@ -1702,22 +1842,29 @@ ROSE
   FILE : 0033.jpg
   NOTE : shoutout to P. Newellis(?)
 
-BOOK
+BEE
   TYPE : image
-  DATE : 2024-09-22
-  TAGS : ???
-  FILE : 0115.jpg
+  DATE : 2025-01-01
+  TAGS : cat!
+  FILE : 0221.jpg
+  NOTE : dude what kind of dog is that
 
-MOON CAT
+03:00
   TYPE : image
-  DATE : 2024-11-25
-  TAGS : art, cat!, ily
-  FILE : 0180.jpg
-  NOTE : get someone who looks at you like the cat looks at the moon
+  DATE : 2023-12-17
+  TAGS : art, ily
+  FILE : 0065.jpg
+  NOTE : GO TO BED, MR FUNNY BONES
 
-SWING
+WE DIDN'T START THE FIRE
   TYPE : image
-  DATE : 2024-01-01
-  TAGS : hard, art, real, ???
-  FILE : 0119.jpg
-  NOTE : do you know the muffin man?
+  DATE : 2023-12-31
+  TAGS : hard, ???
+  FILE : 0087.jpg
+
+COOL HAIR
+  TYPE : image
+  DATE : 2025-01-01
+  TAGS : hair
+  FILE : 0234.jpg
+  NOTE : too much exestential dread in here, fun hair post
