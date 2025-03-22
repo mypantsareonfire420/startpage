@@ -501,7 +501,7 @@ MAGIC? WHAT'S THAT
   FILE : 0074.jpg
   NOTE : open your third eye, you can see everyone else's third eye
 
-PICTURE NUMBER WHATEVER
+PICTURE 3
   TYPE : image
   DATE : 2024-12-17
   TAGS : real, ily, me?
@@ -630,7 +630,7 @@ HAND ON CAT
   FILE : 0093.jpg
   NOTE : im corpse, got it tatted on my skin
 
-PICTURE 3
+PICTURE 5
   TYPE : image
   DATE : 2023-12-31
   TAGS : real, ily, me?
@@ -912,13 +912,13 @@ GOALS OF GOALS
   FILE : 0134.jpg
   NOTE : ok why is he so damn hot
 
-COUPLE B
+COUPLE A
   TYPE : image
   DATE : 2024-02-25
   TAGS : fits, ily
   FILE : 0135.jpg
 
-COUPLE A
+COUPLE B
   TYPE : image
   DATE : 2024-02-25
   TAGS : fits, ily
@@ -1682,7 +1682,7 @@ NOT THE STRING
   FILE : 0247.jpg
   NOTE : please do not the string; also who the fuck is this artist
 
-PICTURE 5
+PICTURE 6
   TYPE : image
   DATE : 2025-01-31
   TAGS : fits, real, ily, me?
@@ -1867,3 +1867,111 @@ LAKE
   TAGS : hard
   FILE : 0275.jpg
   NOTE : fighting away the demons and je-hesus himself
+
+SMOKE
+  TYPE : image
+  DATE : 2025-03-22
+  TAGS : real
+  FILE : 0276.jpg
+
+BIRTHDAY CAT
+  TYPE : image
+  DATE : 2025-03-22
+  TAGS : cat!
+  FILE : 0277.jpg
+
+DARK TOWER
+  TYPE : image
+  DATE : 2025-03-22
+  TAGS : art, straight vibes
+  FILE : 0278.jpg
+  NOTE : wizard tower contender
+
+HAPPY BY DEFAULT
+  TYPE : image
+  DATE : 2025-03-22
+  TAGS : art, real
+  FILE : 0279.jpg
+  NOTE : i feel... anything but happy
+
+MANIPULATION
+  TYPE : image
+  DATE : 2025-03-22
+  TAGS : ???
+  FILE : 0280.jpg
+  NOTE : how did i get on here
+
+THE VOICES IN MY HEAD
+  TYPE : image
+  DATE : 2025-03-22
+  TAGS : art, real, straight vibes
+  FILE : 0281.jpg
+  NOTE : ah yes, the endless record
+
+TINY RAT
+  TYPE : image
+  DATE : 2025-03-22
+  TAGS : real
+  FILE : 0282.jpg
+
+KNIGHT IN SHINING ARMOR
+  TYPE : image
+  DATE : 2025-03-22
+  TAGS : hard, art
+  FILE : 0283.jpg
+  NOTE : where's my knight in shining armor
+
+DEW IT
+  TYPE : image
+  DATE : 2025-03-22
+  TAGS : real
+  FILE : 0284.jpg
+  NOTE : smart enough to know not to, dumb enough to do it anyway
+
+MORE PICTURE 3
+  TYPE : image
+  DATE : 2025-03-22
+  TAGS : ily, me?
+  FILE : 0285.jpg
+  NOTE : since when did he add more???
+
+RECORDING STUDIO
+  TYPE : image
+  DATE : 2025-03-22
+  TAGS : place, straight vibes
+  FILE : 0286.jpg
+  NOTE : producing the new record: "eat my shorts"
+
+EMERALD POOL
+  TYPE : image
+  DATE : 2025-03-22
+  TAGS : art
+  FILE : 0287.jpg
+  NOTE : don't go in the gem piss water
+
+GIRL AND CAT
+  TYPE : image
+  DATE : 2025-03-22
+  TAGS : ily, cat!
+  FILE : 0288.jpg
+  NOTE : don't get it confused with cat girls
+
+CANDLE POOL
+  TYPE : image
+  DATE : 2025-03-22
+  TAGS : art
+  FILE : 0289.jpg
+  NOTE : ok who the fuck pissed in the pool
+
+COUPLE C
+  TYPE : image
+  DATE : 2025-03-22
+  TAGS : ily
+  FILE : 0290.jpg
+
+COOL HAIR AND FIT
+  TYPE : image
+  DATE : 2025-03-22
+  TAGS : fits, hair
+  FILE : 0291.jpg
+  NOTE : she looks familar, but i can't put my finger on it
