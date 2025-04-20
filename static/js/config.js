@@ -5,7 +5,7 @@
 
 const config = {
   // name : string, name in the top
-  name: 'Name',
+  name: 'Matt',
 
   /*
   birthday : number, birthday as a number
@@ -22,7 +22,7 @@ const config = {
     look up your city, click on it, the number at the end
     of the url is your city id, paste it in here
   */
-  city: '1',
+  city: '4176409',
 
   /*
   locale : string

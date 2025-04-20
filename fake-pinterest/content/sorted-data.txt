@@ -250,10 +250,10 @@ GIBBERISH
   FILE : 0037.jpg
   NOTE : i don't understand your mind either
 
-MR FUNNY BONES
+MOTIVATIONAL SIGN
   TYPE : image
-  DATE : 2023-12-17
-  TAGS : hard, real
+  DATE : 2025-04-15
+  TAGS : real
   FILE : 0038.jpg
 
 DID YOU KNOW
@@ -263,12 +263,11 @@ DID YOU KNOW
   FILE : 0039.jpg
   NOTE : ok why does this image resonate so well with me?
 
-MR FUNNY BONES HAS COMMITED WAR CRIMES
+HE IS BLEEDING
   TYPE : image
-  DATE : 2023-12-17
-  TAGS : hard, real
+  DATE : 2025-04-15
+  TAGS : real
   FILE : 0040.jpg
-  NOTE : OH NO MR FUNNY BONES WHAT HAVE YOU DONE
 
 SPOT OF SPOTS
   TYPE : image
@@ -277,12 +276,12 @@ SPOT OF SPOTS
   FILE : 0041.jpg
   NOTE : spot who asked
 
-FACELESS
+BIRTHDAY I THINK
   TYPE : image
-  DATE : 2023-12-17
-  TAGS : art
+  DATE : 2025-04-15
+  TAGS : hard, fits, straight vibes
   FILE : 0042.jpg
-  NOTE : it's all just a burning memory
+  NOTE : if this isn't me in my future, i'm gonna throw a fit
 
 PICTURE 1
   TYPE : image
@@ -312,12 +311,11 @@ STREET SIGN
   FILE : 0046.jpg
   NOTE : he's on a fine line between crazy and genius
 
-COUPLE FOREVER
+ENBY FASHION
   TYPE : image
-  DATE : 2024-06-26
-  TAGS : art, ily
+  DATE : 2025-04-15
+  TAGS : fits
   FILE : 0047.png
-  NOTE : met in the finite, together for the infinite
 
 COMPARISON DESTROYS PERSONALITY
   TYPE : image
@@ -508,17 +506,17 @@ PICTURE 3
   FILE : 0075.jpg
   NOTE : why do people keep taking pictures of me
 
-BALCONY
+COOL HOUSE
   TYPE : image
-  DATE : 2024-12-17
-  TAGS : art, place
+  DATE : 2025-04-15
+  TAGS : place
   FILE : 0076.jpg
   NOTE : yooooooo
 
-CAT CAT CAT
+COOL FIT
   TYPE : image
-  DATE : 2023-12-17
-  TAGS : cat!
+  DATE : 2025-04-15
+  TAGS : fits
   FILE : 0077.jpg
 
 F
@@ -755,12 +753,11 @@ FASHION TO THE MAX
   FILE : 0111.jpg
   NOTE : ok but like she's so pretty?!?!?!
 
-HELP
+COOLER FIT
   TYPE : image
-  DATE : 2024-06-26
-  TAGS : real
+  DATE : 2025-04-15
+  TAGS : fits
   FILE : 0112.jpg
-  NOTE : let me out let me out let me out let me out LET ME OUT LET ME OUT LET ME OUT LET ME OUT
 
 PERFECT CAT
   TYPE : image
@@ -844,12 +841,11 @@ INSTANT GRATIFICATION MONKEY
   FILE : 0124.jpg
   NOTE : ooh ooh aah aah
 
-MY KIND OF ART
+COZY FIT
   TYPE : image
-  DATE : 2024-01-01
-  TAGS : art, real, straight vibes
+  DATE : 2025-04-15
+  TAGS : fits, straight vibes
   FILE : 0125.jpg
-  NOTE : i wanna kiss whoever made this (with consent, ofc)
 
 SKATER
   TYPE : image
@@ -857,18 +853,18 @@ SKATER
   TAGS : fits
   FILE : 0126.jpg
 
-ME AND WHO
+BOOKSTORE FIT
   TYPE : image
-  DATE : 2024-01-01
-  TAGS : art, ???
+  DATE : 2025-04-15
+  TAGS : fits
   FILE : 0127.jpg
 
-WHITE HUMAN ANGEL?
+DISSAPOINTMENTS
   TYPE : image
-  DATE : 2024-01-01
+  DATE : 2025-04-15
   TAGS : art, real, ???
   FILE : 0128.jpg
-  NOTE : achievement get: how did we get here?
+  NOTE : fax my brother! spit your shit indeed!
 
 MY AUTOBIOGRAPHY
   TYPE : image
@@ -877,12 +873,12 @@ MY AUTOBIOGRAPHY
   FILE : 0129.jpg
   NOTE : can i just like... y'know...?
 
-HAIR GOALS
+ABANDONED TRAIN
   TYPE : image
-  DATE : 2024-02-25
-  TAGS : hair
+  DATE : 2025-04-15
+  TAGS : straight vibes
   FILE : 0130.jpg
-  NOTE : hair good, smoking bad
+  NOTE : imagine the people this train used to carry
 
 LIGHT READING
   TYPE : image
@@ -905,12 +901,11 @@ CHUCK SHULDINER
   FILE : 0133.jpg
   NOTE : rest in pepperoni
 
-GOALS OF GOALS
+OTHER COOL FIT
   TYPE : image
-  DATE : 2024-02-25
-  TAGS : hair
+  DATE : 2025-04-15
+  TAGS : fits
   FILE : 0134.jpg
-  NOTE : ok why is he so damn hot
 
 COUPLE A
   TYPE : image
@@ -984,12 +979,12 @@ CASTLE DEPRESSION AND SADNESS
   TAGS : art
   FILE : 0145.jpg
 
-DARK HORSE
+MEN IN UNIFORM
   TYPE : image
-  DATE : 2024-04-06
-  TAGS : art
+  DATE : 2025-04-15
+  TAGS : hard, fits, straight vibes
   FILE : 0146.jpg
-  NOTE : dark horse, literally
+  NOTE : men in uniform <3
 
 LEAVE IMMEDIATELY
   TYPE : image
@@ -1346,7 +1341,7 @@ DAZED AND CONFUSED
   FILE : 0198.jpg
   NOTE : i swore i had this image before
 
-MORE PICTURE 
+PICTURE 6
   TYPE : image
   DATE : 2024-12-17
   TAGS : real, ily, me?
@@ -1477,7 +1472,7 @@ THE BUS TO NOWHERE
   FILE : 0217.jpg
   NOTE : $3 for a bus ride??? man inflation hit everybody
 
-MORE PICTURE 2
+PICTURE 7
   TYPE : image
   DATE : 2025-01-01
   TAGS : real, ily, me?
@@ -1553,19 +1548,19 @@ WHO AM I IN SOLITUDE
   FILE : 0228.jpg
   NOTE : damn this hits
 
-RELIGIGIOUNSUSUS
+PLANT MOM
   TYPE : image
-  DATE : 2025-01-01
-  TAGS : real
+  DATE : 2025-04-15
+  TAGS : straight vibes
   FILE : 0229.jpg
-  NOTE : bill wurtz?! where'd you come from?!
+  NOTE : why have human children when you can have plant children!
 
-L'APPEL DU VIDE
+WIZARD TOWER BUT MODERN
   TYPE : image
-  DATE : 2025-01-01
-  TAGS : art
+  DATE : 2025-04-15
+  TAGS : art, place
   FILE : 0230.jpg
-  NOTE : my new catchphrase
+  NOTE : ok who let the college campus build a wizard tower
 
 SEXXX
   TYPE : image
@@ -1613,12 +1608,11 @@ SIGNS
   TAGS : fits
   FILE : 0237.jpg
 
-FACELESSS
+JAPANESE STOREFRONT
   TYPE : image
-  DATE : 2025-01-01
-  TAGS : art
+  DATE : 2025-04-15
+  TAGS : straight vibes
   FILE : 0238.jpg
-  NOTE : thanos snapped out of existence
 
 RED DOOR
   TYPE : image
@@ -1682,12 +1676,11 @@ NOT THE STRING
   FILE : 0247.jpg
   NOTE : please do not the string; also who the fuck is this artist
 
-PICTURE 6
+PICTURE 8
   TYPE : image
   DATE : 2025-01-31
   TAGS : fits, real, ily, me?
   FILE : 0248.jpg
-  NOTE : the fact that there are now *eight* pictures of girls taking pictures of me should say something
 
 RECORDS 2
   TYPE : image
@@ -1709,10 +1702,10 @@ ANIME BACKGROUND
   TAGS : place
   FILE : 0251.jpg
 
-STATUE
+WINDOW VIEW
   TYPE : image
-  DATE : 2025-01-31
-  TAGS : art
+  DATE : 2025-04-15
+  TAGS : place
   FILE : 0252.jpg
 
 HOUSE WALKWAY
@@ -1908,10 +1901,10 @@ THE VOICES IN MY HEAD
   FILE : 0281.jpg
   NOTE : ah yes, the endless record
 
-TINY RAT
+GIRLS WANT FUN
   TYPE : image
-  DATE : 2025-03-22
-  TAGS : real
+  DATE : 2025-04-15
+  TAGS : real, straight vibes
   FILE : 0282.jpg
 
 KNIGHT IN SHINING ARMOR
@@ -1928,12 +1921,11 @@ DEW IT
   FILE : 0284.jpg
   NOTE : smart enough to know not to, dumb enough to do it anyway
 
-MORE PICTURE 3
+BESTIE WHAT
   TYPE : image
   DATE : 2025-03-22
-  TAGS : ily, me?
+  TAGS : ???
   FILE : 0285.jpg
-  NOTE : since when did he add more???
 
 RECORDING STUDIO
   TYPE : image
@@ -1975,3 +1967,49 @@ COOL HAIR AND FIT
   TAGS : fits, hair
   FILE : 0291.jpg
   NOTE : she looks familar, but i can't put my finger on it
+
+ART WIZARD TOWER
+  TYPE : image
+  DATE : 2025-04-15
+  TAGS : art, place
+  FILE : 0292.jpg
+
+RECORD SHOP 3
+  TYPE : image
+  DATE : 2025-04-15
+  TAGS : fits, straight vibes
+  FILE : 0293.jpg
+
+SEALAND
+  TYPE : image
+  DATE : 2025-04-15
+  TAGS : place, ???, straight vibes
+  FILE : 0294.jpg
+  NOTE : THE COUNTRY OF SEALAND
+
+OVERGROWN FERRIS WHEEL
+  TYPE : image
+  DATE : 2025-04-15
+  TAGS : straight vibes
+  FILE : 0295.jpg
+  NOTE : it's like they built it out of a tree but still wanted to keep the "tree" part of it
+
+HOUSE FRONT
+  TYPE : image
+  DATE : 2025-04-15
+  TAGS : place
+  FILE : 0296.jpg
+  NOTE : plant mom duties
+
+TV HEAD COUPLE
+  TYPE : image
+  DATE : 2025-04-15
+  TAGS : fits, art, straight vibes, ily
+  FILE : 0297.jpg
+  NOTE : how do make, i want
+
+PICTURE 9
+  TYPE : image
+  DATE : 2025-04-15
+  TAGS : hair, ily, me?
+  FILE : 0298.jpg
