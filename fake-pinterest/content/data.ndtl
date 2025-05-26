@@ -157,7 +157,7 @@ RELIGIOUS PILLAR
 GIRL
   TYPE : image
   DATE : 2024-09-22
-  TAGS : fits, hair, star
+  TAGS : fits, hair, pretty, star
   FILE : 0069.jpg
   NOTE : this is my alter ego
 `, `
@@ -294,7 +294,7 @@ CASTLE DEPRESSION AND SADNESS
 RECORDING STUDIO
   TYPE : image
   DATE : 2025-03-22
-  TAGS : place, straight vibes
+  TAGS : place, battlestation, straight vibes
   FILE : 0286.jpg
   NOTE : producing the new record: "eat my shorts"
 `, `
@@ -508,7 +508,7 @@ PICTURE 5
 MODULAR SYNTH
   TYPE : image
   DATE : 2025-05-08
-  TAGS : real, star
+  TAGS : real, battlestation, star
   FILE : 0304.jpg
 `, `
 COOL FIT
@@ -547,7 +547,7 @@ TALL HOUSE
 COOL FIT 2
   TYPE : image
   DATE : 2025-05-08
-  TAGS : fits
+  TAGS : fits, pretty
   FILE : 0299.jpg
 `, `
 I DON'T EXIST
@@ -644,7 +644,7 @@ TATTOOS
 BIRTHDAY I THINK
   TYPE : image
   DATE : 2025-04-15
-  TAGS : hard, fits, straight vibes, star
+  TAGS : hard, fits, pretty, straight vibes, star
   FILE : 0042.jpg
   NOTE : if this isn't me in my future, i'm gonna throw a fit
 `, `
@@ -740,7 +740,7 @@ IT WILL WORK
 WHO AM I IN SOLITUDE
   TYPE : image
   DATE : 2025-01-01
-  TAGS : real, star
+  TAGS : real, star, who are you when you're not performing?
   FILE : 0228.jpg
   NOTE : damn this hits
 `, `
@@ -1018,7 +1018,7 @@ SOULS 4 SALE !
 CHUCK SHULDINER
   TYPE : image
   DATE : 2024-02-25
-  TAGS : fits, hair, real, straight vibes
+  TAGS : fits, hair, real, pretty, straight vibes
   FILE : 0133.jpg
   NOTE : rest in pepperoni
 `, `
@@ -1147,9 +1147,8 @@ ABANDONED TRAIN
 CAT NUMBER WHATEVER
   TYPE : image
   DATE : 2025-01-31
-  TAGS : hair, cat!, star
+  TAGS : hair, pretty, cat!, star
   FILE : 0250.jpg
-  NOTE : this is something deeper within me i need to talk about
 `, `
 ICE KING
   TYPE : image
@@ -1237,7 +1236,7 @@ RECORDS 2
 KELLY NICHOLS
   TYPE : image
   DATE : 2023-12-17
-  TAGS : fits, hair, straight vibes
+  TAGS : fits, hair, pretty, straight vibes
   FILE : 0009.jpg
   NOTE : please let me be him
 `, `
@@ -1454,7 +1453,7 @@ JAPANESE STOREFRONT
 FASHION TO THE MAX
   TYPE : image
   DATE : 2024-01-01
-  TAGS : fits
+  TAGS : fits, pretty
   FILE : 0111.jpg
   NOTE : ok but like she's so pretty?!?!?!
 `, `
@@ -1714,7 +1713,7 @@ COUPLE
 OLD NEW FASHION
   TYPE : image
   DATE : 2023-12-17
-  TAGS : fits
+  TAGS : fits, pretty
   FILE : 0014.jpg
 `, `
 WINDOW VIEW
@@ -1845,9 +1844,9 @@ CONSIDER THE FOLLOWING
 EVEN COOLER FIT
   TYPE : image
   DATE : 2025-05-08
-  TAGS : hair, fits, star
+  TAGS : hair, fits, pretty, star
   FILE : 0310.jpg
-  NOTE : this is tt/laferocejo !
+  NOTE : this is tt/laferocejo!
 `, `
 POETRY AND ANARCHISM
   TYPE : image
@@ -1892,7 +1891,7 @@ ANXIETY IS POINTLESS
 PRETTY PERSON
   TYPE : image
   DATE : 2025-05-08
-  TAGS : fits, hair
+  TAGS : fits, pretty, pretty, hair
   FILE : 0317.jpg
   NOTE : she's also like SO PRETTY
 `, `
@@ -1958,7 +1957,7 @@ DO YOU RECOGNIZE THIS MAN
 COOL FIT IN THE CAR
   TYPE : image
   DATE : 2025-05-08
-  TAGS : fits
+  TAGS : fits, pretty
   FILE : 0307.jpg
   NOTE : oh my gosh that's a cool fit
 `, `
@@ -2093,7 +2092,7 @@ HEADPAT
 COOL HAIR AND FIT
   TYPE : image
   DATE : 2025-03-22
-  TAGS : fits, hair
+  TAGS : fits, hair, pretty
   FILE : 0291.jpg
   NOTE : she looks familar, but i can't put my finger on it
 `, `
@@ -2127,7 +2126,7 @@ COUPLE C
 COOLER FIT
   TYPE : image
   DATE : 2025-04-15
-  TAGS : fits
+  TAGS : fits, pretty
   FILE : 0112.jpg
 `, `
 THE CHURCH (BUT A GOOD ONE)
@@ -2239,7 +2238,7 @@ LIBRARY
 DENNYS
   TYPE : image
   DATE : 2025-05-16
-  TAGS : place, star
+  TAGS : place, battlestation, star
   FILE : 0330.jpg
   NOTE : local diners SMACK
 `, `
@@ -2298,7 +2297,7 @@ KIBBY
 WORKBENCH
   TYPE : image
   DATE : 2025-05-16
-  TAGS : real
+  TAGS : real, battlestation
   FILE : 0339.jpg
 `, `
 GUITAR GUITAR
@@ -2386,7 +2385,7 @@ AFTER DEATH-WHAT?
 BOOTS N HAIR
   TYPE : image
   DATE : 2025-05-16
-  TAGS : fits, hair, star
+  TAGS : fits, hair, pretty, star
   FILE : 0352.jpg
 `, `
 GRASS MOUTH
@@ -2425,7 +2424,7 @@ BASS GUITAR
 WORKBENCH 2
   TYPE : image
   DATE : 2025-05-16
-  TAGS : real, star
+  TAGS : real, battlestation, star
   FILE : 0358.jpg
   NOTE : dream workstation
 `, `
@@ -2452,7 +2451,7 @@ LATE NIGHTS
 FASHION OF FASHION
   TYPE : image
   DATE : 2025-05-24
-  TAGS : fits, hair
+  TAGS : fits, hair, pretty
   FILE : 0362.jpg
 `, `
 BEING HELD
@@ -2560,8 +2559,136 @@ GOTH?
   TYPE : image
   DATE : 2025-05-24
   TAGS : fits, ???
-  FILE : 378.jpg
+  FILE : 0378.jpg
   NOTE : there's no sex, watch this cannibal corpse dvd with me
+`, `
+MY FAVORITE HAIR
+  TYPE : image
+  DATE : 2025-05-25
+  TAGS : hair, pretty
+  FILE : 0379.jpg
+  NOTE : oh my gosh she's pretty
+`, `
+BASS 2
+  TYPE : image
+  DATE : 2025-05-25
+  TAGS : straight vibes
+  FILE : 0380.jpg
+  NOTE : bass IS better
+`, `
+CHOKER TIE
+  TYPE : image
+  DATE : 2025-05-25
+  TAGS : fits
+  FILE : 0381.jpg
+  NOTE : i think this thing is called a choker tie (don't quote me on that) and i think i could pull it off
+`, `
+COMMAND CENTER
+  TYPE : image
+  DATE : 2025-05-25
+  TAGS : battlestation, star
+  FILE : 0382.jpg
+  NOTE : bro has NINE monitors and TWO server racks, who does he think he is, nasa?
+`, `
+LIGHTHOUSE
+  TYPE : image
+  DATE : 2025-05-25
+  TAGS : place, straight vibes
+  FILE : 0383.jpg
+`, `
+GUITAR BOY
+  TYPE : image
+  DATE : 2025-05-25
+  TAGS : real, straight vibes
+  FILE : 0384.jpg
+  NOTE : bass is still better
+`, `
+SONIC HEADPHONES
+  TYPE : image
+  DATE : 2025-05-25
+  TAGS : hair, pretty, straight vibes
+  FILE : 0385.jpg
+  NOTE : oh my gosh the sonic headphones
+`, `
+BIG GLASSES
+  TYPE : image
+  DATE : 2025-05-25
+  TAGS : hair, pretty
+  FILE : 0386.jpg
+`, `
+LAUNDROMAT
+  TYPE : image
+  DATE : 2025-05-25
+  TAGS : straight vibes, place
+  FILE : 0387.jpg
+`, `
+GUITAR GUITAR GUITAR
+  TYPE : image
+  DATE : 2025-05-25
+  TAGS : fits, pretty, straight vibes
+  FILE : 0388.jpg
+  NOTE : this is lexi jayde!
+`, `
+MECHTA
+  TYPE : image
+  DATE : 2025-05-25
+  TAGS : place, straight vibes
+  FILE : 0389.jpg
+  NOTE : translation (rus => eng) мечта => dream
+`, `
+SIDEWALK
+  TYPE : image
+  DATE : 2025-05-25
+  TAGS : art
+  FILE : 0390.jpg
+`, `
+SOMEWHERE IN RUSSIA
+  TYPE : image
+  DATE : 2025-05-25
+  TAGS : place, straight vibes
+  FILE : 0391.jpg
+  NOTE : somewhere in russia
+`, `
+HOMELAB
+  TYPE : image
+  DATE : 2025-05-25
+  TAGS : battlestation
+  FILE : 0392.jpg
+  NOTE : good homelab
+`, `
+SNOW
+  TYPE : image
+  DATE : 2025-05-25
+  TAGS : hair, place, pretty
+  FILE : 0393.jpg
+  NOTE : this is djerq!
+`, `
+COZY COZY
+  TYPE : image
+  DATE : 2025-05-25
+  TAGS : hair, fits, pretty
+  FILE : 0394.jpg
+  NOTE : dude what is this aesthetic
+`, `
+TRAFFIC CONE 4
+  TYPE : image
+  DATE : 2025-05-25
+  TAGS : ???
+  FILE : 0395.jpg
+  NOTE : sir, i'm gonna need to pull you over
+`, `
+WORKBENCH 3
+  TYPE : image
+  DATE : 2025-05-25
+  TAGS : battlestation
+  FILE : 0396.jpg
+  NOTE : now THIS is epic
+`, `
+DO NOT FUCK HERE
+  TYPE : image
+  DATE : 2025-05-25
+  TAGS : real, ???
+  FILE : 0397.jpg
 `
 ];
 
@@ -2569,18 +2696,30 @@ for (let i = arr.length - 1; i > 0; i--) {
   const j = Math.floor(Math.random() * (i + 1));
   [arr[i], arr[j]] = [arr[j], arr[i]];
 }
+
 return arr;
 
 })()
 }
 `;
 
+/*
+
+// use this block between the for statement and [return arr] to sort from 0000 to whatever
+arr = arr.sort((a, b) => {
+  const numA = parseInt(a.match(/FILE\s*:\s*(\d+)\.jpg/)[1], 10);
+  const numB = parseInt(b.match(/FILE\s*:\s*(\d+)\.jpg/)[1], 10);
+  return numA - numB;
+});
+
+*/
+
 // sample image
 /*
 , `
 I
   TYPE : image
-  DATE : 2025-05-24
+  DATE : 2025-05-25
   TAGS : 
   FILE : 0000.jpg
   NOTE : 
@@ -2618,6 +2757,8 @@ art - art
 real - used if something is "real"
 place - cool area to be in
 comic - self explanatory
+pretty - pretty person
+battlestation - self explanatory
 
 cat! - cat!  
 ??? - ??? huh?
