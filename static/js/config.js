@@ -5,7 +5,7 @@
 
 const config = {
   // name : string, name in the top
-  name: 'Matt',
+  name: 'MY PANTS ARE ON FIRE',
 
   /*
   birthday : number, birthday as a number
@@ -38,28 +38,24 @@ const config = {
       title: "reddit",
       links: [
         {
-          label: "r/unixporn",
+          label: "/r/unixporn",
           value: "https://www.reddit.com/r/unixporn/"
         },
         {
-          label: "r/startpages",
-          value: "https://www.reddit.com/r/startpages/"
-        },
-        {
-          label: "r/desktops",
-          value: "https://www.reddit.com/r/desktops/"
-        },
-        {
-          label: "r/hardimages",
-          value: "https://www.reddit.com/r/hardimages/"
-        },
-        {
-          label: "r/firefoxcss",
-          value: "https://www.reddit.com/r/firefoxcss/"
-        },
-        {
-          label: "r/mathmemes",
+          label: "/r/mathmemes",
           value: "https://www.reddit.com/r/mathmemes/"
+        },
+        {
+          label: "/r/balatro",
+          value: "https://www.reddit.com/r/balatro/"
+        },
+        {
+          label: "/r/itemshop",
+          value: "https://www.reddit.com/r/itemshop/"
+        },
+        {
+          label: "/r/ikeafreshballs",
+          value: "https://www.reddit.com/r/ikeafreshballs/"
         },
       ]
     },
@@ -358,7 +354,6 @@ const config = {
     'You are the best.',
     'He then proceeded to pull a comically large spoon.',
     'He then proceeded to turn himself into a pickle.',
-    'Fatherless',
     'Can you two stop having relationship issues while I\'m on the phone with my dentist?',
     'I should call her...',
     'Rebecca please it\'s been 8 months let me see the kids again.',

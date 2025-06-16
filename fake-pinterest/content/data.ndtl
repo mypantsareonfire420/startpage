@@ -1,11 +1,4 @@
 var DATABASE = `
-MEMEX
-  LINK : ../memex/index.html
-  TYPE : article
-  DATE : 2023-12-17
-  TAGS : this
-  NOTE : Go back to the original memex.
-
 STARTPAGE
   LINK : ../index.html
   TYPE : article
@@ -46,12 +39,12 @@ HUG
   FILE : 0000.jpg
   NOTE : can i give someone a hug?
 `, `
-TREES
+VIBE CURATION
   TYPE : image
-  DATE : 2023-12-17
-  TAGS : place, straight vibes
+  DATE : 2025-06-09
+  TAGS : fits, pretty, straight vibes
   FILE : 0080.jpg
-  NOTE : where banana
+  NOTE : genuine question, how can i be this cool?
 `, `
 NON-EUCLIDEAN SPACE
   TYPE : image
@@ -157,7 +150,7 @@ RELIGIOUS PILLAR
 GIRL
   TYPE : image
   DATE : 2024-09-22
-  TAGS : fits, hair, pretty, star
+  TAGS : fits, hair, pretty, star, star of star
   FILE : 0069.jpg
   NOTE : this is my alter ego
 `, `
@@ -274,7 +267,7 @@ HAPPY BY DEFAULT
 PICTURE 4
   TYPE : image
   DATE : 2024-09-22
-  TAGS : real, ily, me?, star
+  TAGS : real, ily, me?, star, star of star
   FILE : 0085.jpg
   NOTE : i said smile, you fucking idiot
 `, `
@@ -305,12 +298,12 @@ CAT 2 - ELECTRIC BOOGALOO
   FILE : 0089.jpg
   NOTE : where cat, i want
 `, `
-MOUNT DEPRESSION AND SADNESS
+DON'T LET THEM DO IT
   TYPE : image
-  DATE : 2023-12-17
-  TAGS : place, straight vibes
+  DATE : 2025-06-09
+  TAGS : real, star
   FILE : 0059.jpg
-  NOTE : named after the lake
+  NOTE : do your own thing, girl
 `, `
 CRUISE HAIR
   TYPE : image
@@ -370,12 +363,12 @@ YOU ARE NOT IMMUNE TO PROPOGANDA
   TAGS : real, star
   FILE : 0017.jpg
 `, `
-GUN?!?!?!?
+FIT MOMENT
   TYPE : image
-  DATE : 2024-11-25
-  TAGS : art, real
+  DATE : 2025-06-09
+  TAGS : fits
   FILE : 0181.jpg
-  NOTE : a gun? in my christian minecraft server?
+  NOTE : the young grandmother vibes are immaculate *chefs kiss*
 `, `
 LEWANDOWSKI
   TYPE : image
@@ -425,12 +418,12 @@ GIBBERISH
   FILE : 0037.jpg
   NOTE : i don't understand your mind either
 `, `
-SHIT HAPPENS SIGN
+REBIRTH
   TYPE : image
-  DATE : 2024-12-17
-  TAGS : art
+  DATE : 2025-06-09
+  TAGS : art, star
   FILE : 0205.jpg
-  NOTE : that's a cool sign ngl
+  NOTE : REBIRTH; REBORN
 `, `
 RAT!
   TYPE : image
@@ -617,11 +610,12 @@ BED NOOK
   FILE : 0223.jpg
   NOTE : aaaaaAAAAAAAAAAAAAAA
 `, `
-I FEEL AWFUL
+CONVENIENCE STORE
   TYPE : image
-  DATE : 2025-05-08
-  TAGS : real
+  DATE : 2025-06-09
+  TAGS : place
   FILE : 0300.jpg
+  NOTE : can you pick me up some arizona tea?
 `, `
 FOREST PRINCESS
   TYPE : image
@@ -644,7 +638,7 @@ TATTOOS
 BIRTHDAY I THINK
   TYPE : image
   DATE : 2025-04-15
-  TAGS : hard, fits, pretty, straight vibes, star
+  TAGS : hard, fits, pretty, straight vibes, star, star of star
   FILE : 0042.jpg
   NOTE : if this isn't me in my future, i'm gonna throw a fit
 `, `
@@ -706,7 +700,7 @@ SWING
 BIRTHDAY CAT
   TYPE : image
   DATE : 2025-03-22
-  TAGS : cat!
+  TAGS : head empty, cat!
   FILE : 0277.jpg
 `, `
 THE BUS TO NOWHERE
@@ -733,14 +727,14 @@ I WANT ANSEWERES
 IT WILL WORK
   TYPE : image
   DATE : 2024-12-17
-  TAGS : fits
+  TAGS : real
   FILE : 0016.jpg
   NOTE : just give it time, it will work out
 `, `
 WHO AM I IN SOLITUDE
   TYPE : image
   DATE : 2025-01-01
-  TAGS : real, star, who are you when you're not performing?
+  TAGS : real, star, who are you when you are not performing
   FILE : 0228.jpg
   NOTE : damn this hits
 `, `
@@ -822,7 +816,7 @@ COOL ART 1
 HAIR HAIR HAIR HAIR
   TYPE : image
   DATE : 2025-05-08
-  TAGS : hair
+  TAGS : hair, pretty, head empty
   FILE : 0308.jpg
   NOTE : hair
 `, `
@@ -836,7 +830,7 @@ TINIER HOUSE
 MANY SPEAKER
   TYPE : image
   DATE : 2025-05-08
-  TAGS : hair, straight vibes, star
+  TAGS : hair, elevator music, straight vibes, star
   FILE : 0321.jpg
   NOTE : i'm playing vildhjarta
 `, `
@@ -854,12 +848,12 @@ BE GAY! HATE COPS!
   FILE : 0220.jpg
   NOTE : cops are definitely some of the people of all time
 `, `
-BURNING ROSES
+POW!
   TYPE : image
-  DATE : 2025-01-01
-  TAGS : hard
+  DATE : 2025-06-09
+  TAGS : hard, head empty
   FILE : 0214.jpg
-  NOTE : i swear i have this image somewhere
+  NOTE : pow!
 `, `
 PICTURE 10
   TYPE : image
@@ -880,12 +874,12 @@ TRAIN
   FILE : 0319.jpg
   NOTE : nothing like the teenage dream of following a railroad track
 `, `
-OVERGROWN FERRIS WHEEL
+AT THE BEACH
   TYPE : image
-  DATE : 2025-04-15
-  TAGS : straight vibes, star
+  DATE : 2025-06-09
+  TAGS : fits, pretty
   FILE : 0295.jpg
-  NOTE : it's like they built it out of a tree but still wanted to keep the "tree" part of it
+  NOTE : this is tess holloway!
 `, `
 THE CAVE
   TYPE : image
@@ -941,12 +935,12 @@ UH-OH
   FILE : 0177.jpg
   NOTE : i accidentally almost didn't give a fuck
 `, `
-INSTANT GRATIFICATION MONKEY
+ALL THINGS GROW
   TYPE : image
-  DATE : 2024-06-26
-  TAGS : ???
+  DATE : 2025-06-09
+  TAGS : ily
   FILE : 0124.jpg
-  NOTE : ooh ooh aah aah
+  NOTE : all you need sometimes is love
 `, `
 SIGNS
   TYPE : image
@@ -978,16 +972,15 @@ BOOTS 3
 WAFFLE HOUSE
   TYPE : image
   DATE : 2024-11-25
-  TAGS : hard, art, real, ???, star
+  TAGS : hard, art, real, ???, star, star of star
   FILE : 0184.jpg
   NOTE : legendairy
 `, `
-JIMBO
+ELEVATOR
   TYPE : image
-  DATE : 2025-05-08
-  TAGS : ???
+  DATE : 2025-06-09
+  TAGS : place, elevator music
   FILE : 0301.jpg
-  NOTE : meet jimbo! he narrates my thoughts!, i know he doesn't have a mouth but you don't have to cut him off like this!
 `, `
 PICTURE 7
   TYPE : image
@@ -1096,10 +1089,10 @@ TALL BUILDING
   FILE : 0256.jpg
   NOTE : yes, this is a real place
 `, `
-BABY CAT
+CAT WITH NO THOUGHTS
   TYPE : image
-  DATE : 2025-05-08
-  TAGS : cat!
+  DATE : 2025-06-09
+  TAGS : art, head empty, cat!
   FILE : 0313.jpg
   NOTE : big baby
 `, `
@@ -1240,12 +1233,12 @@ KELLY NICHOLS
   FILE : 0009.jpg
   NOTE : please let me be him
 `, `
-MACDONDAL
+??? HUH?
   TYPE : image
-  DATE : 2025-05-08
-  TAGS : straight vibes
+  DATE : 2025-06-09
+  TAGS : art, ???
   FILE : 0318.jpg
-  NOTE : i'm hungry
+  NOTE : bestie what
 `, `
 HOW DO YOU ACT
   TYPE : image
@@ -1256,14 +1249,14 @@ HOW DO YOU ACT
 MY KIND OF VIBES
   TYPE : image
   DATE : 2024-09-22
-  TAGS : hard, straight vibes, star
+  TAGS : hard, head empty, straight vibes, star, star of star
   FILE : 0053.jpg
   NOTE : who needs to be burned
 `, `
 FREE NUMBERS
   TYPE : image
   DATE : 2025-01-01
-  TAGS : ???, star
+  TAGS : ???, star, star of star
   FILE : 0212.jpg
   NOTE : i love free things!
 `, `
@@ -1331,7 +1324,7 @@ GUITAR
 YOU KNOW CARELESS WHISPER?
   TYPE : image
   DATE : 2023-12-31
-  TAGS : hard, real, straight vibes, star
+  TAGS : hard, real, elevator music, straight vibes, star, star of star
   FILE : 0088.jpg
   NOTE : "i used to play back in the day"
 `, `
@@ -1389,12 +1382,12 @@ NEW YORK BRIDGE
   TAGS : place
   FILE : 0305.jpg
 `, `
-STREET SIGN
+WINDOW LEAKAGE
   TYPE : image
-  DATE : 2023-06-26
-  TAGS : place, ???
+  DATE : 2025-06-09
+  TAGS : art, ???
   FILE : 0046.jpg
-  NOTE : he's on a fine line between crazy and genius
+  NOTE : what sort of wizardry is going on
 `, `
 WOAH
   TYPE : image
@@ -1440,7 +1433,7 @@ CAT AND GUITAR
 NO DOOR
   TYPE : image
   DATE : 2025-01-01
-  TAGS : art
+  TAGS : art, head empty
   FILE : 0227.jpg
   NOTE : NOooOOO
 `, `
@@ -1500,7 +1493,7 @@ OTHER COOL FIT
 BRAIN RESET
   TYPE : image
   DATE : 2024-06-26
-  TAGS : hair, art, ily, star
+  TAGS : hair, art, ily, star, star of star
   FILE : 0006.jpg
   NOTE : we all need a brain reset sometimes
 `, `
@@ -1519,14 +1512,14 @@ PICTURE 9
 PERFECT CAT
   TYPE : image
   DATE : 2024-01-01
-  TAGS : art, cat!
+  TAGS : art, head empty, cat!
   FILE : 0113.jpg
   NOTE : if perfect exists, it's right fucking here
 `, `
 I DRINK TO FORGET... WHO?
   TYPE : image
   DATE : 2025-01-01
-  TAGS : art
+  TAGS : art, head empty
   FILE : 0216.jpg
   NOTE : i forgor :skull
 `, `
@@ -1583,10 +1576,10 @@ ART WIZARD TOWER
   TAGS : art, place, star
   FILE : 0292.jpg
 `, `
-I DRINK TO FORGOR
+WORKDESK
   TYPE : image
-  DATE : 2025-01-01
-  TAGS : hard, fits, real
+  DATE : 2025-06-09
+  TAGS : battlestation
   FILE : 0225.jpg
   NOTE : me
 `, `
@@ -1623,12 +1616,12 @@ I WANT YOU
   FILE : 0167.jpg
   NOTE : come join!
 `, `
-STARING AT MYSELF
+WALTER WHITE
   TYPE : image
-  DATE : 2024-11-25
-  TAGS : hard, real, straight vibes
+  DATE : 2025-06-09
+  TAGS : hard, real, head empty, straight vibes
   FILE : 0165.jpg
-  NOTE : is this real life
+  NOTE : he's on a skateboard
 `, `
 KAT
   TYPE : image
@@ -1644,38 +1637,40 @@ CATS WITHOUT BOOTS
   FILE : 0024.jpg
   NOTE : one of the cats that i WILL steal at one point
 `, `
-THIS IS A FILM ABOUT YOU
+FEEL FREE BE FREE
   TYPE : image
-  DATE : 2025-01-31
+  DATE : 2025-06-09
   TAGS : art, ???
   FILE : 0243.jpg
+  NOTE : feel free; be free; free yourself
 `, `
 CAT CAT CAT CAT CAT
   TYPE : image
   DATE : 2025-02-17
-  TAGS : cat!, star
+  TAGS : head empty, cat!, star
   FILE : 0265.jpg
   NOTE : such a good boy
 `, `
 TINY BOY
   TYPE : image
   DATE : 2024-01-01
-  TAGS : cat!
+  TAGS : head empty, cat!
   FILE : 0107.jpg
   NOTE : no war crimes for you, you gotta go to bed!
 `, `
-ALIVE FOREST
+BACKGROUND OF SOMEWHERE
   TYPE : image
-  DATE : 2025-05-08
-  TAGS : art
+  DATE : 2025-06-09
+  TAGS : fits, pretty
   FILE : 0316.jpg
+  NOTE : i want to be her friend so bad
 `, `
-I DON'T KNOW
+LEAN ON ME
   TYPE : image
-  DATE : 2024-11-25
-  TAGS : hard, ???, star
+  DATE : 2025-06-09
+  TAGS : ily
   FILE : 0170.jpg
-  NOTE : jeremy, we've been over this
+  NOTE : LET MY SHOULDER BE YOUR PILLOW
 `, `
 CUCK CHAIR
   TYPE : image
@@ -1697,12 +1692,11 @@ COZY FIT
   TAGS : fits, straight vibes, star
   FILE : 0125.jpg
 `, `
-REALITY
+ELEVATOR PICTURE
   TYPE : image
-  DATE : 2024-06-26
-  TAGS : art
+  DATE : 2025-06-09
+  TAGS : fits, pretty, elevator music
   FILE : 0070.jpg
-  NOTE : time is a social construct, don't believe it - ethan nestor
 `, `
 COUPLE
   TYPE : image
@@ -1844,7 +1838,7 @@ CONSIDER THE FOLLOWING
 EVEN COOLER FIT
   TYPE : image
   DATE : 2025-05-08
-  TAGS : hair, fits, pretty, star
+  TAGS : hair, fits, pretty, star, star of star
   FILE : 0310.jpg
   NOTE : this is tt/laferocejo!
 `, `
@@ -1891,7 +1885,7 @@ ANXIETY IS POINTLESS
 PRETTY PERSON
   TYPE : image
   DATE : 2025-05-08
-  TAGS : fits, pretty, pretty, hair
+  TAGS : fits, hair, pretty
   FILE : 0317.jpg
   NOTE : she's also like SO PRETTY
 `, `
@@ -1943,14 +1937,14 @@ PERFUME???
 DISSAPOINTMENTS
   TYPE : image
   DATE : 2025-04-15
-  TAGS : art, real, ???, star
+  TAGS : art, real, ???, star, life is full of insignificant dissapointments
   FILE : 0128.jpg
   NOTE : fax my brother! spit your shit indeed!
 `, `
 DO YOU RECOGNIZE THIS MAN
   TYPE : image
   DATE : 2025-01-01
-  TAGS : art, ???, star
+  TAGS : art, ???, star, star of star
   FILE : 0215.jpg
   NOTE : i do too
 `, `
@@ -1970,7 +1964,7 @@ ENJOY THE JOURNEY
 `, `
 I WANT BONES
   TYPE : image
-  DATE : 2023-09-22
+  DATE : 2024-09-22
   TAGS : ???, straight vibes
   FILE : 0073.jpg
   NOTE : mtv welcome to my crib
@@ -2025,16 +2019,15 @@ DAZED AND CONFUSED
 HOUSE WALKWAY
   TYPE : image
   DATE : 2025-01-31
-  TAGS : place, straight vibes, star
+  TAGS : place, straight vibes, star, star of star
   FILE : 0253.jpg
   NOTE : "you hear a distant banging of a credit card on a table
 `, `
-SENSITIVE CONTENT
+HOLDING CAT
   TYPE : image
-  DATE : 2024-12-17
-  TAGS : real
+  DATE : 2025-06-09
+  TAGS : fits, cat!
   FILE : 0022.jpg
-  NOTE : the inner machinations of my mind are an enigma
 `, `
 CAT BUT MAJESTIC
   TYPE : image
@@ -2103,12 +2096,12 @@ WAR
   FILE : 0143.jpg
   NOTE : what is it good for!?
 `, `
-BIRCH TREES
+BASIC WHITE GIRL
   TYPE : image
-  DATE : 2023-12-17
-  TAGS : place, straight vibes
+  DATE : 2025-06-09
+  TAGS : fits
   FILE : 0055.jpg
-  NOTE : minecraft led me to think these were thicker
+  NOTE : looks hella comfy
 `, `
 VAMPIRE THREAT
   TYPE : image
@@ -2149,10 +2142,10 @@ THE CITY OF DEPRESSION & SAdNESS
   FILE : 0083.jpg
   NOTE : there's a town here now
 `, `
-ME__IRL
+SECRET DINER
   TYPE : image
-  DATE : 2024-09-22
-  TAGS : art, straight vibes
+  DATE : 2025-06-09
+  TAGS : place, straight vibes
   FILE : 0164.jpg
 `, `
 UNDERWATER CHAIR
@@ -2162,19 +2155,19 @@ UNDERWATER CHAIR
   FILE : 0160.jpg
   NOTE : what he contemplatin down there?
 `, `
-NATURE
+HAIR ON COOL PERSON
   TYPE : image
-  DATE : 2024-06-26
+  DATE : 2025-06-09
   TAGS : art
   FILE : 0031.jpg
-  NOTE : but how do you get there
+  NOTE : this is tess holloway!
 `, `
-TV HEAD COUPLE
+ELEVATOR MUSIC
   TYPE : image
-  DATE : 2025-04-15
-  TAGS : fits, art, straight vibes, ily
+  DATE : 2025-06-09
+  TAGS : elevator music, straight vibes
   FILE : 0297.jpg
-  NOTE : how do make, i want
+  NOTE : this goes hard
 `, `
 LAKE DEPRESSION AND SADNESS
   TYPE : image
@@ -2202,10 +2195,10 @@ I AM NOT DEAD YET
   TAGS : art
   FILE : 0324.jpg
 `, `
-U R RONG
+WHY DO YOU KEEP ACTING
   TYPE : image
-  DATE : 2025-05-16
-  TAGS : straight vibes
+  DATE : 2025-06-09
+  TAGS : straight vibes, why do you keep acting?
   FILE : 0325.jpg
 `, `
 GAS STATION
@@ -2225,7 +2218,7 @@ KITCHEN
 GUITAR HERO
   TYPE : image
   DATE : 2025-05-16
-  TAGS : hard, straight vibes
+  TAGS : hard, head empty, straight vibes
   FILE : 0328.jpg
   NOTE : me
 `, `
@@ -2238,7 +2231,7 @@ LIBRARY
 DENNYS
   TYPE : image
   DATE : 2025-05-16
-  TAGS : place, battlestation, star
+  TAGS : place, battlestation, star, star of star
   FILE : 0330.jpg
   NOTE : local diners SMACK
 `, `
@@ -2263,7 +2256,7 @@ MORNING BITCHES
 COMIC 1
   TYPE : image
   DATE : 2025-05-16
-  TAGS : art, ily
+  TAGS : art, ily, comic
   FILE : 0334.jpg
   NOTE : this is... definitely... uhh... :P
 `, `
@@ -2277,7 +2270,7 @@ NO TRESPASSING
 DRIVE THRU
   TYPE : image
   DATE : 2025-05-16
-  TAGS : fits, place, straight vibes, star
+  TAGS : fits, place, straight vibes, star, star of star
   FILE : 0336.jpg
   NOTE : i crave this life 
 `, `
@@ -2385,7 +2378,7 @@ AFTER DEATH-WHAT?
 BOOTS N HAIR
   TYPE : image
   DATE : 2025-05-16
-  TAGS : fits, hair, pretty, star
+  TAGS : fits, hair, pretty, star, star of star
   FILE : 0352.jpg
 `, `
 GRASS MOUTH
@@ -2408,7 +2401,7 @@ INTERIOR DECOR
   FILE : 0355.jpg
   NOTE : now THIS is epic
 `, `
-COOLER FIT 4
+COOLER FIT 5
   TYPE : image
   DATE : 2025-05-16
   TAGS : fits
@@ -2431,7 +2424,7 @@ WORKBENCH 2
 DRUM CAT
   TYPE : image
   DATE : 2025-05-24
-  TAGS : real, cat!, star
+  TAGS : real, elevator music, cat!, star
   FILE : 0359.jpg
   NOTE : what is he gonna play
 `, `
@@ -2464,7 +2457,7 @@ BEING HELD
 WHAT ARE YOU THINKING
   TYPE : image
   DATE : 2025-05-24
-  TAGS : art, comic, star
+  TAGS : art, comic, star, star of star
   FILE : 0364.jpg
 `, `
 BUCKETHEAD
@@ -2517,14 +2510,14 @@ PARKING LOT
 SHORT BUS
   TYPE : image
   DATE : 2025-05-24
-  TAGS : ???, star
+  TAGS : ???, head empty, star
   FILE : 0372.jpg
   NOTE : the parties on this thing must be wild
 `, `
 LOBOTOMY
   TYPE : image
   DATE : 2025-05-24
-  TAGS : real, ???
+  TAGS : real, head empty, ???
   FILE : 0373.jpg
   NOTE : how to die properly lol
 `, `
@@ -2642,12 +2635,11 @@ SIDEWALK
   TAGS : art
   FILE : 0390.jpg
 `, `
-SOMEWHERE IN RUSSIA
+EVEN COOLER FIT 2
   TYPE : image
-  DATE : 2025-05-25
-  TAGS : place, straight vibes
+  DATE : 2025-06-09
+  TAGS : fits
   FILE : 0391.jpg
-  NOTE : somewhere in russia
 `, `
 HOMELAB
   TYPE : image
@@ -2689,6 +2681,143 @@ DO NOT FUCK HERE
   DATE : 2025-05-25
   TAGS : real, ???
   FILE : 0397.jpg
+`, `
+NEIL
+  TYPE : image
+  DATE : 2025-06-09
+  TAGS : real, head empty, star, star of star
+  FILE : 0398.jpg
+  NOTE : NEIL IS BANGING OUT TUNES
+`, `
+WACK HOMELAB
+  TYPE : image
+  DATE : 2025-06-09
+  TAGS : battlestation
+  FILE : 0399.jpg
+  NOTE : what do you need 4 computers for
+`, `
+COOL SHIRT TIE
+  TYPE : image
+  DATE : 2025-06-09
+  TAGS : hair, fits
+  FILE : 0400.jpg
+  NOTE : i need that necklace
+`, `
+FORMAL COOL FIT
+  TYPE : image
+  DATE : 2025-06-09
+  TAGS : fits
+  FILE : 0401.jpg
+  NOTE : i need more women in suits please
+`, `
+BILLIARDS
+  TYPE : image
+  DATE : 2025-06-09
+  TAGS : straight vibes
+  FILE : 0402.jpg
+  NOTE : what are you doing, hillary?
+`, `
+BRIGHTWOOD STORE
+  TYPE : image
+  DATE : 2025-06-09
+  TAGS : place
+  FILE : 0403.jpg
+  NOTE : the convenience store she says not to worry about
+`, `
+UNDERGROUND DJ
+  TYPE : image
+  DATE : 2025-06-09
+  TAGS : elevator music
+  FILE : 0404.jpg
+`, `
+SHOULDER CAT
+  TYPE : image
+  DATE : 2025-06-09
+  TAGS : cat!
+  FILE : 0405.jpg
+  NOTE : cat on shoulder!
+`, `
+FISH CONVERSE
+  TYPE : image
+  DATE : 2025-06-09
+  TAGS : art, head empty, ???
+  FILE : 0406.jpg
+  NOTE : darwin moment
+`, `
+EVERYTHING WILL KILL YOU
+  TYPE : image
+  DATE : 2025-06-09
+  TAGS : real
+  FILE : 0407.jpg
+  NOTE : we live to die, do something fun
+`, `
+WIZARD BREAD
+  TYPE : image
+  DATE : 2025-06-09
+  TAGS : fits, art, straight vibes
+  FILE : 0408.jpg
+`, `
+THE DAY YOU PLANT THE SEED
+  TYPE : image
+  DATE : 2025-06-09
+  TAGS : real
+  FILE : 0409.jpg
+  NOTE : real (real (real (real)))
+`, `
+THE HUMAN MIND
+  TYPE : image
+  DATE : 2025-06-09
+  TAGS : ???
+  FILE : 0410.jpg
+  NOTE : imagination [derogatory]
+`, `
+AROACE FLAG
+  TYPE : image
+  DATE : 2025-06-09
+  TAGS : art, ily
+  FILE : 0411.jpg
+  NOTE : aroace representation!
+`, `
+YOU PERFORM FOR NOBODY
+  TYPE : image
+  DATE : 2025-06-09
+  TAGS : ???
+  FILE : 0412.jpg
+  NOTE : mind the tiktok watermark
+`, `
+BAND PRACTICE
+  TYPE : image
+  DATE : 2025-06-09
+  TAGS : straight vibes, elevator music
+  FILE : 0413.jpg
+  NOTE : why so many rugs
+`, `
+NO THOUGHTS
+  TYPE : image
+  DATE : 2025-06-09
+  TAGS : head empty
+  FILE : 0414.jpg
+  NOTE : this is matthew gray gubler!
+`, `
+PERFORMANCE
+  TYPE : image
+  DATE : 2025-06-09
+  TAGS : place, straight vibes
+  FILE : 0415.jpg
+  NOTE : i think this is somewhere in LA but i could be wrong
+`, `
+I'M A LUNATIC
+  TYPE : image
+  DATE : 2025-06-09
+  TAGS : real
+  FILE : 0416.jpg
+  NOTE : charlie chaplan was a lunatic
+`, `
+PUBLIC GRAFFITI
+  TYPE : image
+  DATE : 2025-06-09
+  TAGS : real
+  FILE : 0417.jpg
 `
 ];
 
@@ -2719,7 +2848,7 @@ arr = arr.sort((a, b) => {
 , `
 I
   TYPE : image
-  DATE : 2025-05-25
+  DATE : 2025-06-09
   TAGS : 
   FILE : 0000.jpg
   NOTE : 
@@ -2759,6 +2888,8 @@ place - cool area to be in
 comic - self explanatory
 pretty - pretty person
 battlestation - self explanatory
+head empty - 
+elevator music - todo: curate vibe now, explain later
 
 cat! - cat!  
 ??? - ??? huh?
@@ -2766,5 +2897,5 @@ straight vibes - vibes
 ily - yes
 me? - photo being taken of me
 star - favorite photo
--
+star of star - starboard of star only pictures
 */
