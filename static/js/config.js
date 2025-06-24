@@ -92,10 +92,6 @@ const config = {
           value: "https://www.github.com/"
         },
         {
-          label: "hacker-news",
-          value: "https://news.ycombinator.com/"
-        },
-        {
           label: "memex",
           value: "./memex/index.html"
         },
@@ -114,6 +110,10 @@ const config = {
         {
           label: "glance",
           value: "localhost:8080"
+        },
+        {
+          label: "twoat",
+          value: "file:///home/matt/Desktop/%F0%9D%98%A9%F0%9D%98%A2%F0%9D%98%A4%F0%9D%98%AC%F0%9D%98%A6%F0%9D%98%B3%F0%9D%98%AE%F0%9D%98%A2%F0%9D%98%AF/the-website-of-all-time/index.html"
         }
       ]
     },

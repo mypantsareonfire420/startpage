@@ -1,11 +1,9 @@
-var DATABASE = `
-STARTPAGE
+var DATABASE = `STARTPAGE
   LINK : ../index.html
   TYPE : article
   DATE : 2023-12-17
   TAGS : this
   NOTE : Go back to the original startpage.
-
 ${
 
 (() => {
@@ -1024,7 +1022,7 @@ CROW 2
 RECORD SHOP 2
   TYPE : image
   DATE : 2025-02-17
-  TAGS : place, straight vibes
+  TAGS : place, elevator music, straight vibes
   FILE : 0267.jpg
   NOTE : i still haven't gone to a record shop
 `, `
@@ -1747,7 +1745,7 @@ A JOURNEY WITH NO DESTINATION
 RECORD SHOP 3
   TYPE : image
   DATE : 2025-04-15
-  TAGS : fits, straight vibes
+  TAGS : fits, elevator music, straight vibes
   FILE : 0293.jpg
 `, `
 I AM WHO I AM, NOWHERE AM I MEANT TO BE ELSEWHERE
@@ -2818,6 +2816,400 @@ PUBLIC GRAFFITI
   DATE : 2025-06-09
   TAGS : real
   FILE : 0417.jpg
+`, `
+ARCHWAY
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : art, place
+  FILE : 0418.jpg
+`, `
+MUSEUM OUTFIT
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : fits, pretty, art
+  FILE : 0419.jpg
+`, `
+IS THE COAST CLEAR
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : ???
+  FILE : 0420.jpg
+  NOTE : the coast is never clear
+`, `
+LIMINAL SPACE
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : art, ???, straight vibes
+  FILE : 0421.jpg
+  NOTE : ahh, art
+`, `
+NEW WORKBENCH
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : battlestation
+  FILE : 0422.jpg
+`, `
+PLANT OUTFIT
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : fits, hair, place, pretty
+  FILE : 0423.jpg
+  NOTE : who is she ?????????
+`, `
+PICTURE 14
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : pretty, ily, me?
+  FILE : 0424.jpg
+  NOTE : damn that food be lookin good
+`, `
+EVEN COOLER OUTFIT 
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : fits, pretty
+  FILE : 0425.jpg
+`, `
+BRIDGE 2
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : place, straight vibes
+  FILE : 0426.jpg
+`, `
+PARK OUTFIT
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : fits, hair, place, star
+  FILE : 0427.jpg
+  NOTE : i want to go to this park
+`, `
+OUTFIT OUTFIT OUTFIT
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : fits, pretty
+  FILE : 0428.jpg
+  NOTE : this is djerq!
+`, `
+GREEN STAIRS
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : art, elevator music
+  FILE : 0429.jpg
+  NOTE : overgrown
+`, `
+BENCHWATER
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : place, ???
+  FILE : 0430.jpg
+  NOTE : chair? nah, chwater
+`, `
+BEDROOM
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : place, head empty
+  FILE : 0431.jpg
+  NOTE : this bedroom is a vibe right here
+`, `
+TITLE
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : fits
+  FILE : 0432.jpg
+  NOTE : [stammering]
+`, `
+MUSEUM OUTFIT 2
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : fits, hair, place
+  FILE : 0433.jpg
+  NOTE : f l o w e r s
+`, `
+PICTURE 15
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : ily, me?
+  FILE : 0434.jpg
+`, `
+MUSEUM OUTFIT 3
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : fits, hair, place
+  FILE : 0435.jpg
+`, `
+HAIR AND BEDROOM INSPIRATION
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : hair, pretty, place
+  FILE : 0436.jpg
+`, `
+TOMFOOLERY
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : hard, ???, star
+  FILE : 0437.jpg
+  NOTE : engage in tomfoolery
+`, `
+THE MOON AESTHETIC
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : fits, hair, straight vibes, star
+  FILE : 0438.jpg
+  NOTE : i think this is tt/maracalli
+`, `
+MOON DUST
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : art
+  FILE : 0439.jpg
+`, `
+TRAFFIC CONE 5
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : ???
+  FILE : 0440.jpg
+  NOTE : traffic cone
+`, `
+HOUSE BOAT
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : place
+  FILE : 0441.jpg
+`, `
+I LOVE YOU
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : ily
+  FILE : 0442.jpg
+  NOTE : I LOVE YOU
+`, `
+LADDER
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : art, ???
+  FILE : 0443.jpg
+  NOTE : falling
+`, `
+COOL HAIR 2
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : hair, pretty, star
+  FILE : 0444.jpg
+  NOTE : she is so pretty
+`, `
+SITTING ON POWER LINE
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : head empty, ???
+  FILE : 0445.jpg
+  NOTE : no thoughts
+`, `
+PRETTY BOY
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : pretty, star
+  FILE : 0446.jpg
+  NOTE : AWOOGA
+`, `
+KNIGHT IN SHINING ARMOR 2
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : art, head empty, ily
+  FILE : 0447.jpg
+`, `
+WITCH INGREDIENTS
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : straight vibes
+  FILE : 0448.jpg
+`, `
+DOG !
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : pretty, cat!, star
+  FILE : 0449.jpg
+  NOTE : she looks a lot like madison beer but i don't think she is
+`, `
+RANDOM ART
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : art
+  FILE : 0450.jpg
+  NOTE : what does this entail for the lebanese economy
+`, `
+QUARRY
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : place
+  FILE : 0451.jpg
+  NOTE : at least i think this is a quarry
+`, `
+COOL PLACE
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : art
+  FILE : 0452.jpg
+`, `
+BEACON
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : art, ???
+  FILE : 0453.jpg
+  NOTE : where
+`, `
+TREE HOUSE BEDROOM
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : place
+  FILE : 0454.jpg
+`, `
+FIREWORKS
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : place, pretty
+  FILE : 0455.jpg
+`, `
+EVEN COOLER OUTFIT 2
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : fits, hair, pretty, star
+  FILE : 0456.jpg
+  NOTE : can i body swap please
+`, `
+ARE YOU COMING ALONG
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : art
+  FILE : 0457.jpg
+  NOTE : are you coming along?
+`, `
+RECORD SHOP 4
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : fits, elevator music, straight vibes
+  FILE : 0458.jpg
+  NOTE : i still haven't gone to a record shop
+`, `
+MUSEUM OUTFIT 4
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : fits, art, place
+  FILE : 0459.jpg
+  NOTE : move out of the way i'm trying to see the art
+`, `
+FORBIDDEN KNOWLEDGE
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : real, head empty
+  FILE : 0460.jpg
+  NOTE : tumblr man
+`, `
+RITUAL CIRCLE
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : place
+  FILE : 0461.jpg
+`, `
+THE LAKE OF SELF
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : real
+  FILE : 0462.jpg
+  NOTE : real (real)
+`, `
+STEEL BUILDING
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : place, ???
+  FILE : 0463.jpg
+  NOTE : why he so skinny
+`, `
+TERRARIUM
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : art, place
+  FILE : 0464.jpg
+  NOTE : herbology made by some guy named herb
+`, `
+YOU ARE AN EXPLORER
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : real
+  FILE : 0465.jpg
+  NOTE : do your own thing
+`, `
+JAPANESE SHOP
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : place, straight vibes
+  FILE : 0466.jpg
+  NOTE : at least i think it's japanese language
+`, `
+LOOKING AT THE MOON
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : art, real, head empty, ily, star
+  FILE : 0467.jpg
+  NOTE : oh, to look at the moon on a cliffside
+`, `
+BASS SUIT
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : fits, hair, elevator music
+  FILE : 0468.jpg
+  NOTE : bass >>>>>>>>>>>>>>
+`, `
+PASTA
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : PASTA
+  FILE : 0469.jpg
+  NOTE : PASTA
+`, `
+METALHEAD CAT
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : hair, cat!
+  FILE : 0470.jpg
+  NOTE : kibby
+`, `
+CASTLE ART
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : art
+  FILE : 0471.jpg
+`, `
+PLANT STADIUM
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : straight vibes
+  FILE : 0472.jpg
+  NOTE : dude what is this place
+`, `
+HANDCUFFED
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : real, ily
+  FILE : 0473.jpg
+  NOTE : me and who
+`, `
+SWORDLAND
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : art, straight vibes
+  FILE : 0474.jpg
+`, `
+BIG MUNCH
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : hair, pretty, head empty
+  FILE : 0475.jpg
+  NOTE : pretzel, this is tt/fashionflicks13
+`, `
+WHAT
+  TYPE : image
+  DATE : 2025-06-23
+  TAGS : elevator music, ???
+  FILE : 0476.jpg
 `
 ];
 
@@ -2826,7 +3218,8 @@ for (let i = arr.length - 1; i > 0; i--) {
   [arr[i], arr[j]] = [arr[j], arr[i]];
 }
 
-return arr;
+// arr.length = 419;
+return arr.join('\n');
 
 })()
 }
@@ -2848,31 +3241,11 @@ arr = arr.sort((a, b) => {
 , `
 I
   TYPE : image
-  DATE : 2025-06-09
+  DATE : 2025-06-23
   TAGS : 
   FILE : 0000.jpg
   NOTE : 
 `
-*/
-
-/*
-The structure of the db is [TAG][space]:[space][CONTENT]. Multiple lines can be achieved with [TAG]\n[>,&,-][CONTENT 1]\n[>,&,-][CONTENT 2]... See https://github.com/kormyen/memex/blob/master/logic/view/util.js for supported icons.
-  LINK: a clickable link
-  TYPE: the memex type, can be tool, podcast, list, music, article, book, 
-    video, lecture, image, quote, note, term, game, encyclopedia... Trackable on the left bar
-  DATE: a date, can be anything
-  TAGS: words separated by commas, trackable on the left bar
-  DONE: true/false can be used to check the item status, trackable on the left bar
-  QOTE: a quote
-  AUTH: the author
-  FILE: can be a file link or an image to be shown
-  PROJ: a project, visible on the left bar
-  NOTE: a note, for example description etc.
-  TERM: the term described
-  PROJ: a project, visible on the left bar
-  PERS: ? Person?
-  REVI: ? Revision?
-  SRCE: ? Source?
 */
 
 /*
